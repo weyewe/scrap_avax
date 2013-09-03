@@ -5,25 +5,30 @@ require 'open-uri'
 BASE_URL = 'http://avaxhome.ws'
 PAGE_COUNT = 20
 
+# puts "The argument value is: #{ARGV[0]}" 
+FILENAME = 'avax_index.txt'
 
 url = BASE_URL
 
-# 1. get all posts > put it in File.txt 
-# 2. get next page.. if there is no next_page, finish. 
-
-page = Nokogiri::HTML(open(  url     ))  
-
-results = page.css("div.news h1 a")
-
 file_content = ""
-counter = 1 
-results.each do |result|
-  title = result.text
-  link  = "#{BASE_URL}#{result.attributes['href'].value}"
-  file_content  << "#{counter}.  #{title}\n" 
-  file_content << "#{link}\n\n"
+counter = 1
+
+(1..PAGE_COUNT).each do |page_count|
+  page = Nokogiri::HTML(open(  url     ))  
+
+  results = page.css("div.news h1 a")
+  results.each do |result|
+    title = result.text
+    link  = "#{BASE_URL}#{result.attributes['href'].value}"
+    file_content  << "#{counter}.  #{title}\n" 
+    file_content << "#{link}\n\n"
+
+    counter += 1 
+  end
   
-  counter += 1 
+  next_page = page.css("a.next_page").first 
+  break if next_page.nil?
+  url = "#{BASE_URL}#{next_page.attributes['href'].value}" 
 end
 
-File.open('avax_result.txt', 'w') {|f| f.write(file_content) }
+File.open( FILENAME , 'w') {|f| f.write(file_content) }

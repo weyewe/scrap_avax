@@ -7,23 +7,22 @@ require 'cgi'
 BASE_URL = 'http://avaxhome.ws' # http://avaxsearch.com/avaxhome_search?q=sex&commit=Go
 PAGE_COUNT = 20
 
-FILENAME = 'avax_category.txt'
+FILENAME = 'avax_user.txt'
 
 # http://avaxhome.ws/ebooks/economics_finances
 
 
-material = 'ebooks'
-category = 'economics_finances'
-url = "#{BASE_URL}/#{material}/#{category}"
+user = 'Specialselection' 
+url = "#{BASE_URL}/blogs/#{user}"
 
 
 file_content = ""
 
 counter = 1
 
-file_content << "Material: #{material} || Category: #{category}\n\n"
+file_content << "Blog: #{user} \n\n"
 
-(1..PAGE_COUNT).each do |page_count|
+(1..2).each do |page_count|
   page = Nokogiri::HTML(open(  url     ))  
 
   results = page.css("div.news h1 a")
