@@ -12,8 +12,12 @@ FILENAME = 'avax_category.txt'
 # http://avaxhome.ws/ebooks/economics_finances
 
 
-material = 'ebooks'
-category = 'economics_finances'
+# http://avaxhome.ws/video/genre/crime/Boomerang_Fox_Film_Noir.html
+
+
+
+material = 'video'
+category = ''
 url = "#{BASE_URL}/#{material}/#{category}"
 
 

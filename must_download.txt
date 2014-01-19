@@ -1,0 +1,30 @@
+30.  Pluralsight - Single Page Apps JumpStart (2013)
+http://avaxhome.ws/ebooks/programming_development/html_css_js_javascript/PluralsightSinglePageAppsJumpStart2013.html
+
+27.  pluralsight - Introduction To Kendo UI
+http://avaxhome.ws/ebooks/eLearning/pluralsight-Introduction_To_Kendo_UI.html
+
+
+25.  pluralsight - jQuery Mobile and ASP.NET MVC 4
+http://avaxhome.ws/ebooks/eLearning/pluralsight-jQuery_Mobile_and_ASP.NET_MVC_4.html
+
+
+
+
+22.  Pluralsight - Using Glimpse With ASP.NET, MVC4, and Entity Framework
+http://avaxhome.ws/ebooks/eLearning/Pluralsight_Using_Glimpse_With_ASP_NET_MVC4_and_Entity_Framework.html
+
+
+17.  Pluralsight - HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API
+http://avaxhome.ws/ebooks/eLearning/pt-html5_business_apps.html
+
+18.  pluralsight - Building ASP.NET MVC Apps with EF Code First, HTML5, and jQuery
+http://avaxhome.ws/ebooks/eLearning/pluralsight-Building_ASP.NET_MVC_Apps_with_EF_Code_First_HTML5_and_jQuery.html
+
+
+
+2.  Pluralsight - ASP.NET MVC Testing From Scratch
+http://avaxhome.ws/ebooks/eLearning/pt-asp-net_mvc_test_scratch.html
+
+3.  Pluralsight - One ASP.NET From Scratch
+http://avaxhome.ws/ebooks/eLearning/Pluralsight_One_ASP_NET_From_Scratch.html

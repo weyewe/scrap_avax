@@ -12,7 +12,7 @@ FILENAME = 'avax_user.txt'
 # http://avaxhome.ws/ebooks/economics_finances
 
 
-user = 'Specialselection' 
+user = 'tukotikko' 
 url = "#{BASE_URL}/blogs/#{user}"
 
 

@@ -10,7 +10,7 @@ FILENAME = 'avax_search.txt'
 
 # http://avaxsearch.com/avaxhome_search?q=sex&commit=Go
 
-search_value = "sex orgasm"
+search_value = "to sell"
 search_keyword = CGI.escape( search_value )
 
 

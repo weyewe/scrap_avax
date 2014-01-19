@@ -2,7 +2,7 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 
-BASE_URL = 'http://avaxhome.ws'
+BASE_URL = 'http://avaxhome.cc'
 PAGE_COUNT = 20
 
 # puts "The argument value is: #{ARGV[0]}" 
@@ -13,6 +13,7 @@ url = BASE_URL
 file_content = ""
 counter = 1
 
+
 (1..PAGE_COUNT).each do |page_count|
   page = Nokogiri::HTML(open(  url     ))  
 
@@ -20,8 +21,8 @@ counter = 1
   results.each do |result|
     title = result.text
     link  = "#{BASE_URL}#{result.attributes['href'].value}"
-    file_content  << "#{counter}.  #{title}\n" 
-    file_content << "#{link}\n\n"
+    file_content  << "#{counter}.  #{title}\r\n" 
+    file_content << "#{link}\r\n\r\n"
 
     counter += 1 
   end
