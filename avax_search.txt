@@ -1,602 +1,176 @@
-Search Keyword: 'C sharp'
+Search Keyword: 'udemy'
 
-1.  Tekpub: Mastering Threading in C sharp
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/TekpubMasteringThreadinginCsharp.html
+1.  Udemy - The Complete iOS8 and Swift Course: Learn by Building 15 Real World Apps (2014)
+http://avaxhm.com/ebooks/programming_development/UdemyTheCompleteiOS8andSwiftCourseLearnbyBuilding15RealWorldApps2014-1414781524.html
 
-2.  AppDev Silverlight 4 Using Visual C Sharp 2010 DVD Volume 1
-http://avaxhome.ws/ebooks/eLearning/appdev_silverlight_4_using_visual_c_sharp_2010_dvd_volume_1.html
+2.  Udemy - Adventures in Classical Music
+http://avaxhm.com/ebooks/eLearning/Udemy_Adventures_in_Classical_Music.html
 
-3.  AppDev Learning To Program Using Visual C Sharp 2008 (Repost)
-http://avaxhome.ws/ebooks/eLearning/appdevltpuvs.html
+3.  Udemy - Learn Wi-fi Hacking/Penetration Testing From Scratch
+http://avaxhm.com/ebooks/eLearning/Udemy_Learn_Wi_fi_Hacking_Penetration_Testing_From_Scratch-1415671372.html
 
-4.  AppDev Windows Presentation Foundation for Visual C Sharp 2010 DVD-iNKiSO
-http://avaxhome.ws/ebooks/eLearning/AppDev.Windows.Presentation.Foundation.for.Visual.C.Sharp.2010.DVD-iNKiSO.html
+4.  Udemy - Public Speaking Coaching Series
+http://avaxhm.com/ebooks/eLearning/Public_Speaking.html
 
-5.  AppDev Buildling ASP NET MVC 2 Applications Using Visual C Sharp 2010 Volume 1 DVD
-http://avaxhome.ws/ebooks/eLearning/AppDev.Buildling.ASP.NET.MVC.2.Applications.Using.Visual.C.Sharp.2010.Volume.1.DVD-iNKiSO.html
+5.  udemy - PHP CodeIgniter - Learn CodeIgniter
+http://avaxhm.com/ebooks/eLearning/udemy-PHP_CodeIgniter-Learn_CodeIgniter.html
 
-6.  Skill.Soft.C.Sharp.2005.Batch
-http://avaxhome.ws/software/software_type/others/skillsoft_csharp_2005_batch.html
+6.  Udemy - Introduction To Networking For Complete Beginners
+http://avaxhm.com/ebooks/eLearning/Udemy_Introduction_to_Networking_For_Complete_Beginners.html
 
-7.  AppDev Developing Applications Using C Sharp 2008 Volume 1 DVD 
-http://avaxhome.ws/ebooks/eLearning/appdev_devlo_app_cthang.html
+7.  Udemy - The Complete Web Developer Course - Build 14 Websites
+http://avaxhm.com/ebooks/eLearning/Udemy_The_Complete_Web_Developer_Course_Build_14_Websites.html
 
-8.  AppDev Developing Applications Using C Sharp 2008 Volume 1 DVD
-http://avaxhome.ws/ebooks/eLearning/appdev_dv_app_c_thang.html
+8.  Udemy - Android 101: Android Development for Beginners
+http://avaxhm.com/ebooks/eLearning/UdemyAndroid_101_Android_Development_for_Beginners.html
 
-9.  VTC Introduction to Microsoft C Sharp 2008
-http://avaxhome.ws/ebooks/eLearning/vtcit_mcs.html
+9.  Udemy - Build an Instantly Updating Dynamic Website with JQuery/AJAX
+http://avaxhm.com/ebooks/eLearning/Udemy_Build_an_Instantly_Updating_Dynamic_Website_with_JQuery_AJAX.html
 
-10.  Mahler: Symphony no. 5 in C sharp minor - Royal Concertgebouw Orchestra; Riccardo Chailly
-http://avaxhome.ws/music/classical/Mahler_Symphony_No_5_Chailly.html
+10.  Udemy - Vocal Recording: A Complete Production Guide
+http://avaxhm.com/ebooks/eLearning/Udemy_Vocal_Recording_A_Complete_Production_Guide.html
 
-11.  Mahler: Symphony No. 5 in C sharp minor - Royal Philharmonic Orchestra; Daniele Gatti
-http://avaxhome.ws/music/classical/Mahler_Symphony_No_5_Royal_Philharmonic_Gatti.html
+11.  Udemy - Learn how to become a great DJ and be the life of the party
+http://avaxhm.com/ebooks/eLearning/Udemy_Learn_how_to_become_a_great_DJ_and_be_the_life_of_the_party.html
 
-12.  Mahler: Symphony no. 5 in C sharp minor - Wiener Philharmoniker; Lorin Maazel
-http://avaxhome.ws/music/classical/Mahler_Symphony_no_5_Maazel.html
+12.  Udemy - CCNP Route 642-902 Implementing Cisco IP Routing
+http://avaxhm.com/ebooks/eLearning/Udemy_CCNP_Route_642-902_Implementing_Cisco_IP_Routing.html
 
-13.  VB Net To C Sharp Converter 2.24
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB_Net_To_C_Sharp_Converter_2_24.html
+13.  Udemy - CCNA Security Real World Labs - Cisco ASA, Network Security
+http://avaxhm.com/ebooks/eLearning/Udemy_CCNA_Security_Real_World_Labs_Cisco_ASA_Network_Security.html
 
-14.  VBConversions VB.Net to C Sharp Converter v2.29
-http://avaxhome.ws/software/VBConversions.VB.Net.to.C.Sharp.Converter.v2.29.html
+14.  Udemy - Secure Online Contact Form with Attachment
+http://avaxhm.com/ebooks/eLearning/Udemy_Secure_Online_Contact_Form_with_Attachment.html
 
-15.  C Sharp 3.0 Design Patterns
-http://avaxhome.ws/ebooks/programming_development/csharp3designpatterns.html
+15.  Udemy - New CCNAx 200-120 Routing and Switching
+http://avaxhm.com/ebooks/eLearning/Udemy_New_CCNAx_200-120_Routing_and_Switching.html
 
-16.  Microsoft Press. Microsoft Visual C Sharp 2005 Step-by-Step
-http://avaxhome.ws/ebooks/microsoft_visual_c_sharp_2005_step-by-step.html
+16.  Udemy - x86 Assembly Adventures: Complete Course
+http://avaxhm.com/ebooks/eLearning/Udemy_x86_Assembly_Adventures_Complete_Course.html
 
-17.  Apress Pro LINQ Object Relational Mapping in C Sharp
-http://avaxhome.ws/ebooks/programming_development/c/Apress.Pro.LINQ.Object.Relational.Mapping.in.C.Sharp.html
+17.  Udemy - Certified Metasploit Framework Professional (4 Modules)
+http://avaxhm.com/ebooks/eLearning/Udemy_Certified_Metasploit_Framework_Professional_4_Modules.html
 
-18.  VB Net to C Sharp Converter 2.17
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/vb_net_to_c_sharp_converter_2_17.html
+18.  Udemy - OSPF Breakdown
+http://avaxhm.com/ebooks/eLearning/udemy-ospf-breakdown.html
 
-19.  VB Net to C Sharp Converter ver.2.14
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/vb_net_to_c_sharp_converter_2_14.html
+19.  Udemy - HTML Tutorial: HTML & CSS for Beginners
+http://avaxhm.com/ebooks/eLearning/udemy-html-and-css-for-beginners.html
 
-20.  Microsoft Visual C sharp 2008
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/MicrosoftVisualC2008.html
+20.  Udemy - LiveLessons Java Fundamentals Part II Second Edition
+http://avaxhm.com/ebooks/eLearning/udemy-livelessons-java-fundamentals-part-ii-second-edition.html
 
-21.  AppDev Dev Apps C Sharp 2008 Enterprise Mobile and Security
-http://avaxhome.ws/ebooks/programming_development/AppDev_Dev_Apps_C_Sharp_2008_Enterprise_Mobile_and_Security.html
+21.  Udemy - LiveLessons Java Fundamentals Part I Second Edition
+http://avaxhm.com/ebooks/eLearning/udemy-livelessons-java-fundamentals-part-i-second-edition.html
 
-22.  C Sharp Kompendium. Windows- und Web-Programmierung mit Visual Studio .NET.
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/CSharpKompendium.html
+22.  Udemy - It Security Professional: Certified Hacking Training
+http://avaxhm.com/ebooks/eLearning/udemy-it-security-professional-certified-hacking-training.html
 
-23.  VB Net to C Sharp Converter ver.2.13
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/vb_net_to_c_sharp_converter_2_13.html
+23.  Udemy - Creating Animations in 3D Studio Max
+http://avaxhm.com/ebooks/eLearning/Udemy_Creating_Animations_in_3D_Studio_Max-1415671373.html
 
-24.  VB Net to C Sharp Converter 2.20
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/3dsaasdf.html
+24.  Udemy - The Ultimate Web Development Course
+http://avaxhm.com/ebooks/eLearning/Udemy_The_Ultimate_Web_Development_Course-1415671373.html
 
-25.  VB Net to C Sharp Converter v2.17
-http://avaxhome.ws/software/software_type/multimedia/Converters/VB_Net_to_C_Sharp_Converter_v2.17.html
+25.  Udemy - PHP Object Oriented Programming: Build a Login System
+http://avaxhm.com/ebooks/eLearning/Udemy_PHP_Object_Oriented_Programming_Build_a_Login_System.html
 
-26.  VB Net to C Sharp Converter 2.15
-http://avaxhome.ws/software/software_type/development/Others/vb_net_to_c_sharp_converter_2_15.html
+26.  Udemy - Shipping address and Shipping cost for E-commerce series
+http://avaxhm.com/ebooks/eLearning/Udemy_Shipping_address_and_Shipping_cost_for_E-commerce_series-1415671373.html
 
-27.  LiveLessons - C Sharp  2012 Fundamentals Parts I II III and IV
-http://avaxhome.ws/ebooks/eLearning/LiveLessons_-_C_Sharp__2012_Fundamentals_Parts_I_II_III_and_IV.html
+27.  Udemy - Basics Of Web Application Penetration Testing
+http://avaxhm.com/ebooks/eLearning/Udemy_Basics_Of_Web_Application_Penetration_Testing-1415671372.html
 
-28.  Einstieg in Visual C sharp 2010
-http://avaxhome.ws/ebooks/Einstieg_in_Visual_C_sharp_2010.html
+28.  Udemy - Metasploit Extreme on Kali Linux
+http://avaxhm.com/ebooks/eLearning/Udemy_Metasploit_Extreme_on_Kali_Linux.html
 
-29.  Gustav Malher  Symphonie No.5 in C sharp minor - Transcribed and Played by David Briggs, Organ of Gloucester Cathedral
-http://avaxhome.ws/music/gustav.html
+29.  Udemy - Learning Ubuntu Linux Server
+http://avaxhm.com/ebooks/eLearning/Udemy_Learning_Ubuntu_Linux_Server.html
 
-30.  Gustav Malher  Symphonie No.5 in C sharp minor
-http://avaxhome.ws/music/briggs.html
+30.  Udemy - The Ultimate PHP Training Bundle for Beginner to Advanced
+http://avaxhm.com/ebooks/eLearning/Udemy_The_Ultimate_PHP_Training_Bundle_for_Beginner_to_Advanced-1415671372.html
 
-31.  VB.Net to C Sharp Converter 2.30
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.v2.30.html
+31.  Udemy - Static Urls, Meta tags and Re-send activation for E-commerce
+http://avaxhm.com/ebooks/eLearning/Udemy_Static_Urls_Meta_tags_and_Re_send_activation_for_E_commerce-1415671372.html
 
-32.  Einstieg in Visual C sharp 2010 (repost)
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/3836216116Visual.html
+32.  Udemy - Body Language for Entrepreneurs
+http://avaxhm.com/ebooks/eLearning/udemy-body-language-for-entrepreneurs-1415671372.html
 
-33.  Sergey Prokofiev - Symphony No. 7 in C sharp minor, Op. 131
-http://avaxhome.ws/music/prokofiev_-_symphony_no7.html
+33.  Udemy - CCNA Security Real World Labs - Cisco ASA, Network Security
+http://avaxhm.com/ebooks/eLearning/Udemy_CCNA_Security_Real_World_Labs_Cisco_ASA_Network_Security-1415671372.html
 
-34.  VB.Net to C Sharp Converter 3.06
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VBConversions.VB.Net.to.C.Sharp.Converter.v3.06.html
+34.  Udemy - Android Programming Tutorial Videos For Beginners
+http://avaxhm.com/ebooks/eLearning/Udemy_Android_Programming_Tutorial_Videos_For_Beginners.html
 
-35.  VB.Net to C Sharp Converter 3.04
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.v3.04.html
+35.  Udemy - From HTML to App Store in 60 Minutes
+http://avaxhm.com/ebooks/eLearning/Udemy_From_HTML_to_App_Store_in_60_Minutes-1415671372.html
 
-36.  VB.Net to C Sharp Converter 3.03
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.3.03.html
+36.  Udemy - Photo Gallery with PHP, MySQL, ImageMagick and jQuery
+http://avaxhm.com/ebooks/eLearning/Udemy_Photo_Gallery_with_PHP_MySQL_ImageMagick_and_jQuery-1415671373.html
 
-37.  VB.Net to C Sharp Converter 3.02
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.v3.02.html
+37.  Udemy - Introduction to web development with Symfony2
+http://avaxhm.com/ebooks/eLearning/Udemy_Introduction_to_web_development_with_Symfony2-1415671372.html
 
-38.  VB.Net to C Sharp Converter 3.01
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.3.01.html
+38.  Udemy - The Ultimate PHP Training Bundle for Beginner to Advanced
+http://avaxhm.com/ebooks/programming_development/php/Ultimate.PHP.Training-1414781524.html
 
-39.  VB.Net to C Sharp Converter 3.00
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.3.00.html
+39.  Udemy - PHP Tutorial: PHP/MySQL for Beginners
+http://avaxhm.com/ebooks/eLearning/Udemy_PHP_Tutorial_PHP_MySQL_for_Beginners-1414781524.html
 
-40.  VB Net to C Sharp Converter 2.32
-http://avaxhome.ws/software/VB_Net_to_C_Sharp_Converter_2.32.html
+40.  Udemy - The Secrets of Body Language
+http://avaxhm.com/ebooks/eLearning/Udemy_The_Secrets_of_Body_Language-1414781524.html
 
-41.  Praktische Informationstechnik mit C# (C Sharp): Anwendungen und Grundlagen by Oliver Kluge (Repost)
-http://avaxhome.ws/ebooks/PraktischeInformationstechnik.html
+41.  Udemy - All You Need To Know About AngularJS - Training On AngularJS
+http://avaxhm.com/ebooks/eLearning/Udemy_All_You_Need_To_Know_About_AngularJS_Training_On_AngularJS-1414781524.html
 
-42.  Praktische Informationstechnik mit C# (C Sharp): Anwendungen und Grundlagen (Repost)
-http://avaxhome.ws/ebooks/engeneering_technology/Kluge_-_Praktische_Informationstechnik_mit_C-sharp_-_Springer.html
+42.  Udemy - The Complete Web Development Course - Learn By Building Apps
+http://avaxhm.com/ebooks/eLearning/Udemy_The_Complete_Web_Development_Course_Learn_By_Building_Apps.html
 
-43.  VB.Net to C Sharp Converter 2.31
-http://avaxhome.ws/software/software_type/development/Application_System_Programming/VB.Net.to.C.Sharp.Converter.v2.31.html
+43.  Udemy - Learn Python Django From Scratch
+http://avaxhm.com/ebooks/eLearning/Udemy_Learn_Python_Django_From_Scratch.html
 
-44.  Coding for Fun mit C sharp
-http://avaxhome.ws/ebooks/Coding_for_Fun_mit_C_sharp.html
+44.  Udemy - Learn Complete Web Development From Scratch
+http://avaxhm.com/ebooks/eLearning/Udemy_Learn_Complete_Web_Development_From_Scratch-1414781524.html
 
-45.  Visual C Sharp 2005 A Developer Notebook
-http://avaxhome.ws/ebooks/visual_c_370.html
+45.  Android Lollipop Complete Development Course
+http://avaxhm.com/ebooks/programming_development/general/embedded_systems_controllers/Android_Lollipop_Complete_Development_Course.html
 
-46.  Pluralsight - C sharp Interfaces
-http://avaxhome.ws/ebooks/eLearning/Pluralsight_C_sharp_Interfaces.html
+46.  Beginners Ruby Programming Training - No Experience Required
+http://avaxhm.com/ebooks/programming_development/Beginners_Ruby_Programming_Training_No_Experience_Required.html
 
-47.  C sharp Interview Questions Answers and Explanations
-http://avaxhome.ws/ebooks/programming_development/1933804556.html
+47.  Local Marketing Blue Print - Presented by ShoeMoney
+http://avaxhm.com/ebooks/business_job/LocarketinlurinPesentedbShoeMoney.html
 
-48.  Visual C sharp 2012 - Kochbuch
-http://avaxhome.ws/ebooks/Visual_C_sharp_2012_Kochbuch.html
+48.  Growth Hacker TV Episodes 01 – 71
+http://avaxhm.com/ebooks/eLearning/Growth_Hacker_TV_Episodes_01_71.html
 
-49.  AppDev - Programming C Sharp (8 CDs)
-http://avaxhome.ws/ebooks/eLearning/appdev-programming-c-sharp-8-cds.html
+49.  Founder Institute – Become a Startup Founder (Complete Course)
+http://avaxhm.com/ebooks/FI_BASF_CC.html
 
-50.  Nitty Gritty C Sharp 
-http://avaxhome.ws/ebooks/eLearning_book/information_technologies/3827318564.html
+50.  Growth Hacking Techniques, Disruptive Technology - How 40 Companies Made It BIG
+http://avaxhm.com/ebooks/business_job/1910085286.html
 
-51.  Das C Sharp Codebook.
-http://avaxhome.ws/ebooks/eLearning_book/information_technologies/382732050X.html
+51.  Quicklessons Piano Course - Learn to play piano by ear!
+http://avaxhm.com/ebooks/music/Qu.Le.Pi.Co.Le.to.Pl.html
 
-52.  Beginning C Sharp Objects - From Concepts to Code
-http://avaxhome.ws/ebooks/beginning_1148.html
+52.  Become a SuperLearner: Learn Speed Reading & Advanced Memory
+http://avaxhm.com/ebooks/science_books/psychology_behavior/Ud.Be.a.Su.Le.html
 
-53.  C-Sharp Cookbook
-http://avaxhome.ws/ebooks/c-sharp_cookbook.html
+53.  Jason Fladlien and Wil Mattos - 6 in 6 Coaching
+http://avaxhm.com/ebooks/Jason_Fladlien_and_Wil_Mattos_6_in_6_Coaching.html
 
-54.  C# C Sharp
-http://avaxhome.ws/ebooks/programming_development/dotnet/Sybe_erlag.html
+54.  Sleep Hacking - Have More Energy, Spend Less Time in Bed
+http://avaxhm.com/ebooks/Sleep_Hacking_Have_More_Energy_Spend_Less_Time_in_Bed.html
 
-55.  VB.Net to C.Sharp Converter v1.45
-http://avaxhome.ws/software/sharp.html
+55.  User Experience: The Ultimate Guide to Usability
+http://avaxhm.com/ebooks/programming_development/Us_Ex-The_Ul_Gu.html
 
-56.  C Sharp 2.0 Practical Guide for Programmers
-http://avaxhome.ws/ebooks/c_sharp_20_practical.html
+56.  CSS Fundamentals
+http://avaxhm.com/ebooks/TT_CSS_Fundamentals.html
 
-57.  CPTNuggets: Learninig C#, With Trainer: Robert Barr
-http://avaxhome.ws/misc/lrn_cs.html
+57.  Zen Cart Customization Fundamentals
+http://avaxhm.com/ebooks/TT_ZCCF.html
 
-58.  Карли Ватсон, "C#"
-http://avaxhome.ws/ebooks/c_sharp.html
-
-59.  Adrian Turtschi, DotThatCom.com, Jason Werry, Greg Hack, Joseph Albahari, "C#.net Web Developer's Guide" (repost)
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/adrian-turtschi-dotthatcom-com-jason-werry-greg-hack-joseph-albahari-c-net-web-developer-s-guide-repost.html
-
-60.  C# the Basics
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/9812140344.html
-
-61.  CBT Nuggets: On The Job Training Series: C# (11 Hours Videos tutorials)
-http://avaxhome.ws/misc/csharp_otjts.html
-
-62.  VTC – Microsoft Visual C# .NET Tutorials
-http://avaxhome.ws/ebooks/eLearning/VTC_Microsoft_Visual_C_NET_Tutorials.html
-
-63.  NETg - C# Programming for the Microsoft .NET Platform CBT Training
-http://avaxhome.ws/ebooks/eLearning/ng_c_sharp.html
-
-64.  AppDev: Windows Presentation Foundation Using Visual C# 2010: Volume 1
-http://avaxhome.ws/ebooks/eLearning/AppDev34534534W5indows345.html
-
-65.  César Cui - 25 Preludes Op.64
-http://avaxhome.ws/music/biegel.html
-
-66.  CBTNugets: On The Job Training Series: C#
-http://avaxhome.ws/misc/csharp_otjts2.html
-
-67.  Visual C# .Net Developer's Handbook [Repost]
-http://avaxhome.ws/ebooks/programming_development/2012-12-20-59-0782140475.html
-
-68.  Microsoft Visual C# 2012 - Das Entwicklerbuch. Mit einem ausführlichen Teil zur Erstellung von Windows Store Apps
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/3866455658_VC.html
-
-69.  Essential C# 2.0 (Microsoft .NET Development Series)
-http://avaxhome.ws/ebooks/0321150775_book.html
-
-70.  Programming C# (4th Edition)
-http://avaxhome.ws/ebooks/programming_csharp_4th_edition.html
-
-71.  Oreilly Programming C#  3rd Edition
-http://avaxhome.ws/ebooks/programming_c.html
-
-72.  C#.net Web Developer's Guide [Repost]
-http://avaxhome.ws/ebooks/programming_development/2013-08-06-01.html
-
-73.  C#.Net Web Developer's Guide (Repost)
-http://avaxhome.ws/ebooks/programming_development/general/web_development/1928994504X.html
-
-74.  Programming C#, Fourth Edition 
-http://avaxhome.ws/ebooks/programming_development/programming_c_sharp_4th.html
-
-75.  From Java to C#: A  Developer's Guide  by Heng Ngee Mok
-http://avaxhome.ws/ebooks/0321136225sdf.html
-
-76.  Sams Teach Yourself Visual C# 2005 in 24 Hours, Complete Starter Kit
-http://avaxhome.ws/ebooks/yourself_visual.html
-
-77.  Infiniteskills Learning To Program With C#
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/Infiniteskills_Learning_To_Program_With_C_Sharp.html
-
-78.  Christoph Wille - Presenting C#
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/Christoph20Presenting.html
-
-79.  C# lernen . anfangen, anwenden, verstehen
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/C_lernen_anfangen_anwenden.html
-
-80.  Visual C# .Net Programming [Repost]
-http://avaxhome.ws/ebooks/programming_development/2013-10-13-01.html
-
-81.  Thinking in C#
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/Thinkingincsharp-1288047464.html
-
-82.  C#.NET Illuminated (Jones and Bartlett Illuminated)
-http://avaxhome.ws/ebooks/isbn0763725935.html
-
-83.  LINQ for Visual C# 2005
-http://avaxhome.ws/ebooks/isbn_1590598261.html
-
-84.  Objective-C - kurz & gut
-http://avaxhome.ws/ebooks/programming_development/c/3868993738Objective.html
-
-85.  Thinking in C# (repost)
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/0130385727ThinkingC.html
-
-86.  Programming Microsoft® Windows® with C#
-http://avaxhome.ws/ebooks/programming_development/2013-10-12-01-1381946232.html
-
-87.  Elliott Sharp – Concert in Dachau (2008)
-http://avaxhome.ws/music/elliott_sharp_concert_in_dachau.html
-
-88.  Michelle Shocked - Short Sharp Shocked (1988) 2CD Deluxe Reissue 2003 [Re-Up]
-http://avaxhome.ws/music/rock/folk-rock_country-rock/Michelle_Shocked_Short_Sharp_Shocked_2CD.html
-
-89.  Angela Hewitt - Schumann: Humoresque; Sonata in F sharp minor (2007)
-http://avaxhome.ws/music/classical/hewitt_schumann.html
-
-90.  Ten Sharp - Everything & More: Best Of Ten Sharp (2000)
-http://avaxhome.ws/music/Ten_Sharp_Everything_More_Best_Of_Ten_Sharp_2000.html
-
-91.  Ten Sharp - You (1991)
-http://avaxhome.ws/music/rock/soft_rock/tensharpyoumaxi.html
-
-92.  Don Grusin / Bill Sharpe - Trans Atlantica (2012) 
-http://avaxhome.ws/music/jazz/smooth_jazz/Don_Grusin_Bill_Sharpe_Trans_Atlantica_2012.html
-
-93.  The Dave Brubeck Quartet – London Flat, London Sharp (2005)
-http://avaxhome.ws/music/format_bitrate/lossless/the_dave_brubeck_quartet_london_flat_london_sharp.html
-
-94.  Wayne Sharp and the SharpShooter Band - Living With The Blues (2013)
-http://avaxhome.ws/music/rock/southern_rock/Wayne_Sharp_and_the_SharpShooter_Band_Living_With_The_Blues_2013.html
-
-95.  Roxette - Look Sharp! (1988) [1990, Toshiba-EMI, CP32-5827]
-http://avaxhome.ws/music/rock/soft_rock/Roxette_Look_Sharp_1988.html
-
-96.  Danielle Sharp - Nuts Photoshoot Outtakes April 2013
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Nuts-April-2013.html
-
-97.  Danielle Sharp - Nuts Photoshoot Outtakes January 2013
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Nuts-January-2013.html
-
-98.  Danielle Sharp - Nuts Photoshoot Outtakes December 2012
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Nuts-Photoshoot-Outtakes-December-2012.html
-
-99.  Danielle Sharp - Nuts Outtakes July 2012
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Nuts-Outtakes-July-2012.html
-
-100.  Barber: Symphony No 2 Op 19 - Adagio for Strings Op 11 & Bristow: Symphony in F sharp minor Op 26
-http://avaxhome.ws/music/classical/early_20th_century/Barber_and_Bristow.html
-
-101.  Patayin Estilo: sun-moon-mind with sharp bolos!
-http://avaxhome.ws/ebooks/PatayinEstilosunmoonmindwithsharpbolos.html
-
-102.  "Entanglements of Power. Geographies of Domination and Resistance" Ed. by J.P.Sharp, P.Routledge, C.Philo and R.Paddison
-http://avaxhome.ws/ebooks/Politics_Sociology/EntanglementsPower05-1370806873.html
-
-103.  Danielle Sharp - FRONT Magazine August 2013 Wallpapers
-http://avaxhome.ws/graphics/wallpapers/Danielle-Sharp-FRONT-Wallpapers.html
-
-104.  Danielle Sharp - 2013 Calendar Photoshoot
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-2013-Calendar-Photoshoot.html
-
-105.  Danielle Sharp, Bryony Morgana, & Gabriella - Front Magazine #174 November 2012
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Bryony-Morgana-Gabriella-Front-Magazine-November-2012.html
-
-106.  Danielle Sharp - FRONT Magazine Photoshoot April 2012
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-FRONT-Photoshoot-April-2012.html
-
-107.  Microsoft Visual C# 2008 Step by Step
-http://avaxhome.ws/ebooks/programming_development/2013-09-16-01-1381946231.html
-
-108.  Danielle Sharp - Page 3 and Page 360° Photoshoot 8th Jan 2013
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Page-3-8th-Jan-2013.html
-
-109.  The Sutton-Taylor Feud: The Deadliest Blood Feud in Texas (A.C. Greene Series)
-http://avaxhome.ws/ebooks/The_Sutton-Taylor_Feud.html
-
-110.  Build Your Own ASP.NET 2.0 Web Site Using C# & VB 
-http://avaxhome.ws/ebooks/build_your_own_asp_net_2_0_web_site_using_c_vb.html
-
-111.  Microsoft Visual C# 2013 Step by Step
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/073568183X.html
-
-112.  Microsoft® Visual C#® 2010 Step by Step
-http://avaxhome.ws/ebooks/programming_development/2013-10-29-01-1383656822.html
-
-113.  Microsoft® Visual C#® .NET Step by Step
-http://avaxhome.ws/ebooks/programming_development/2013-10-14-62-1381946232.html
-
-114.  Microsoft Visual C# .Net Step by Step
-http://avaxhome.ws/ebooks/programming_development/2013-10-01-01.html
-
-115.  C.P.E. Bach - Keyboard Sonatas, Vol. 2 [Danny Driver (piano)]
-http://avaxhome.ws/music/classical/first_viennese_school/CPEBach_KeyboardVol2.html
-
-116.  C.R.A.Z.Y. / Братья К.Р.А.З.И. (2005)
-http://avaxhome.ws/video/genre/drama/CRAZY.html
-
-117.  Pletnev · Sonatas & Rondos · C.P.E. Bach
-http://avaxhome.ws/music/classical/Pletnev_Sonatas_Rondos_Bach.html
-
-118.  Microsoft® Visual C#® 2005 Step by Step
-http://avaxhome.ws/ebooks/programming_development/2013-11-18-34.html
-
-119.  Microsoft Visual C# 2012 Step by Step
-http://avaxhome.ws/ebooks/programming_development/2013-10-08-49-1381946232.html
-
-120.  Microsoft Visual C# 2012 Step By Step
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/0735668019_vis-1378821210.html
-
-121.  Microsoft Visual C# 2012 Step By Step
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/0735668019VisuC-1378821210.html
-
-122.  Board Review from Medscape: CASE-BASED INTERNAL MEDICINE SELF-ASSESSMENT QUESTIONS by David C. Dale
-http://avaxhome.ws/ebooks/Board_Review_from_Medscape.html
-
-123.  Jerry Fjermestad, Nicholas C. Romano - Electronic Customer Relationship Management
-http://avaxhome.ws/ebooks/business_job/Jerry26Management.html
-
-124.  Steven C. Hackett - Environmental And Natural Resources Economics: Theory, Policy, And the Sustainable Society
-http://avaxhome.ws/ebooks/economics_finances/Steven27Society.html
-
-125.  Danielle Sharp & Nicole Neal - Nuts Photoshoot September 2013
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-Nicole-Neal-Nuts-Photoshoot-September-2013.html
-
-126.  Tchaikovsky: Piano Concerto No. 1 in B flat minor & Scriabin: Piano Concerto in F sharp minor - Demidenko; BBC SO; Lazarev
-http://avaxhome.ws/music/classical/Tchaikovsky_Scriabin_Piano_Concertos_Demidenko.html
-
-127.  Accommodating Poverty: The Housing and Living Arrangements of the English Poor, c. 1600-1850
-http://avaxhome.ws/ebooks/history_military/Accommodatingwedwed-1385877602.html
-
-128.  A.C. Reed - Junk Food
-http://avaxhome.ws/music/a_c_reed_jun_food.html
-
-129.  Accommodating Poverty: The Housing and Living Arrangements of the English Poor, c. 1600-1850 [Repost]
-http://avaxhome.ws/ebooks/history_military/0230542425-1352289414.html
-
-130.  Katie Cassidy by Greg Hudson for Sharp Canada April 2013
-http://avaxhome.ws/graphics/photo/Katie-Cassidy-Greg-Hudson-Photoshoot-2013.html
-
-131.  Danielle Sharp & Nicole Neal - Nuts Magazine Photoshoot Outtakes
-http://avaxhome.ws/graphics/photo/Danielle-Sharp-and-Nicole-Neal-Nuts-Photoshoot-Outtakes.html
-
-132.  Graham Sharp Paul - The Battle for Commitment Planet (Helfort's War Series, Book 4)
-http://avaxhome.ws/ebooks/novels/0345513711.html
-
-133.  Graham Sharp Paul - The Battle of Devastation Reef (Helfort's War Series, Book 3)
-http://avaxhome.ws/ebooks/novels/0345513703.html
-
-134.  Graham Sharp Paul - The Battle of the Hammer Worlds (Helfort's War Series, Book 2)
-http://avaxhome.ws/ebooks/novels/0345495721.html
-
-135.  Graham Sharp Paul - The Battle at the Moons of Hell (Helfort's War Series, Book 1)
-http://avaxhome.ws/ebooks/novels/0345495713.html
-
-136.  C.P.E.Bach - Sonatas & Fantasies - Andreas Staier
-http://avaxhome.ws/music/classical/baroque/C_P_E_Bach_Sonatas_Fantasies_Staier.html
-
-137.  Melanie C - Beautiful Intentions (2005)
-http://avaxhome.ws/music/pop/melanie_c__beautiful_intentions.html
-
-138.  Leonhard LECHNER: Sprüche von Leben und Tod - Sacred and Secular Songs  --  Cantus Cölln - Konrad Junghänel (1990)
-http://avaxhome.ws/music/classical/renaissance/CantusCoelln_Lechner_SpruecheVonLebenUndTod.html
-
-139.  Programming in Visual C# 2008
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/0073517216.html
-
-140.  Programming in Visual C# 2008 (Repost)
-http://avaxhome.ws/ebooks/programming_development/cpp_c_plus_plus/0073517216Z-1369797936.html
-
-141.  Programming in Visual C# 2008 [Repost]
-http://avaxhome.ws/ebooks/programming_development/2012-09-26-67-0073517216_0390174025.html
-
-142.  LVG C.VI
-http://avaxhome.ws/ebooks/history_military/0948414219.html
-
-143.  Build Your Own ASP.NET 2.0 Web Site Using C# & VB-repost
-http://avaxhome.ws/ebooks/programming_development/Build_Your_Own_ASP_NET_2_Web_Site_Using_C_VB.html
-
-144.  Build Your Own ASP.NET 2.0 Web Site Using C# & VB
-http://avaxhome.ws/ebooks/programming_development/Build_Your_Own_ASP.NET_2.0_Web_Site.html
-
-145.  C. S. Lewis - The Abolition of Man
-http://avaxhome.ws/ebooks/CSLewis1019.html
-
-146.  Daniel C. Esty, Andrew S. Winston - Green to Gold: How Smart Companies Use Environmental Strategy to Innovate...
-http://avaxhome.ws/ebooks/business_job/Daniel13Advantage.html
-
-147.  Shub-Niggurath,C'étaíent de Très Grands
-http://avaxhome.ws/music/rock/progressive_rock/shub_niggurath_c_etaient_de_tres_grands.html
-
-148.  W.A. Mozart: Great Mass in C minor - Philippe Herreweghe (HM 1992)
-http://avaxhome.ws/n/43224
-
-149.  James C. Cobb - Away Down South: A History of Southern Identity
-http://avaxhome.ws/ebooks/history_military/James24Identity.html
-
-150.  VA - Nova 24h - 6h c'est encore la nuit   (2009)
-http://avaxhome.ws/music/pop/va_nova_24h_6h_cest_encore_la_nuit.html
-
-151.  C# 2005 for Dummies
-http://avaxhome.ws/ebooks/c_sharp_169.html
-
-152.  G. Mahler: Symphony No. 6; Kindertotonlieder; Rückert Lieder; C. Ludwig; Berliner Philharmnoniker; H. von Karajan
-http://avaxhome.ws/music/classical/romantic/Mahler_Symphony_No_6_Berliner_philharmoniker_Karajan.html
-
-153.  J.C.Bach, Holzbauer, Stamiz & Richter  - Music At The Court Of Mannheim (1963)
-http://avaxhome.ws/music/Music_At_The_Court_Of_Mannheim.html
-
-154.  Holly Peers, Danielle Sharp, Lucy Collett, Stacey Poole - Lucy's Booby Babes!
-http://avaxhome.ws/graphics/photo/Lucys-Booby-Babes.html
-
-155.  Kella Dawn - Sharp Shooter
-http://avaxhome.ws/graphics/photo/Kella-Dawn-Playboy-Amateurs.html
-
-156.  Gustav Mahler - Symphony No. 5 [2008] (PS3 SACD rip)
-http://avaxhome.ws/hraphile/mlp_dvda/mhl_sy5_hr.html
-
-157.  Christoph Eschenbach (piano) - Chopin: Preludes [2010, Universal Music UCCG-9983]
-http://avaxhome.ws/music/classical/Christoph-Eschenbach-Chopin-Preludes.html
-
-158.  Chopin - Waltzes, Impromptus (Georges Cziffra)
-http://avaxhome.ws/music/classical/CWIGC_flac.html
-
-159.  Vladimir HOROWITZ plays Beethoven Sonatas (ape)
-http://avaxhome.ws/music/vladimir_horowitz_plays_beethoven_sonatas_ape.html
-
-160.  Beethoven: String Quartets Opp. 131 & 135  - Wiener Philharmoniker; Leonard Bernstein
-http://avaxhome.ws/music/classical/Beethoven_String_Quartets_Op_131_and_135.html
-
-161.  S.Rachmaninov - Piano Sonata No.2, Piano Pieces - Kateryna Titova
-http://avaxhome.ws/music/classical/early_20th_century/Rachmaninov_Piano_Sonata_No_2_Pieces_Kateryna_Titova.html
-
-162.  The Kolisch Quartet · Schoenberg · String Quartets Nos. 1-4 [1st. release of this material]
-http://avaxhome.ws/music/classical/Kolisch_Quartet_Schoenberg_String_Quartets_Nos._1-4.html
-
-163.  Herbie Hancock - Gershwin's World
-http://avaxhome.ws/music/t_herbie_gerswin.html
-
-164.  Freddy Kempf - Beethoven: Piano Sonatas 8, 14 and 23 (2005)
-http://avaxhome.ws/music/kempf_sonatas.html
-
-165.  Soviet Order of Battle WWII (2): "School Of Battle"
-http://avaxhome.ws/ebooks/history_military/1585450626.html
-
-166.  Soviet Order of Battle WWII (1): The "Deadly Beginning"
-http://avaxhome.ws/ebooks/history_military/1858183642.html
-
-167.  Avoid Hitting Piano 1.3 iPhone iPod Touch 
-http://avaxhome.ws/games/genre/arcade/avoid_hitting_piano_1_3_iphone_ipod_touch.html
-
-168.  Avoid Hitting Piano 1.2 iPhone iPod Touch
-http://avaxhome.ws/games/genre/arcade/avoid_hitting_piano_1_2_iphone_ipod_touch.html
-
-169.  Wiley Publishing Bible collection. 48 eBooks
-http://avaxhome.ws/ebooks/wiley_bible_collection.html
-
-170.  Maurizio Pollini - Chopin Nocturnes - Deutsche Grammophon - 2 CDs
-http://avaxhome.ws/music/pollini_chopin_nocturnes.html
-
-171.  Artur Rubinstein - The Chopin Collection - Box Set 11CD - CDs 1-4
-http://avaxhome.ws/music/classical/Artur_Rubinstein_-_The_Chopin_Collection_-_Box_Set_11CD_-_CDs_1-4.html
-
-172.  Artur Rubinstein - The Chopin Collection - Box Set 11CD - CDs 9-11
-http://avaxhome.ws/music/classical/Artur_Rubinstein_-_The_Chopin_Collection_-_Box_Set_11CD_-_CDs_9-11.html
-
-173.  Chopin - Nocturnes & Impromptus [Angela Hewitt] (2cd)
-http://avaxhome.ws/music/classical/Chopin_Nocturnes_Impromptus_Hewitt.html
-
-174.  Stephen Hough - Chopin: Late Masterpieces (2010)
-http://avaxhome.ws/music/format_bitrate/lossless/Stephen_Hough_Chopin_Late_Masterpieces.html
-
-175.  Artur Rubinstein - The Chopin Collection - Box Set 11CD - CDs 5-8
-http://avaxhome.ws/music/classical/Artur_Rubinstein_-_The_Chopin_Collection_-_Box_Set_11CD_-_CDs_5-8.html
-
-176.  Dmitri Alexeev - Rachmaninov Preludes, Moments Musicaux
-http://avaxhome.ws/music/classical/romantic/DmitriAlexeevRachmaninovPreludes.html
-
-177.  Beethoven - Complete Masterpieces (Limited Edition) (Box Set) (2007)
-http://avaxhome.ws/music/Beethoven_Complete_Masterpieces.html
-
-178.  Classic Archive: Artur Rubinstein - The Legendary Moscow Recital (1964)
-http://avaxhome.ws/music/Classic.Archive.Artur.Rubinstein.The.Legendary.Moscow.Recital.1964.html
-
-179.  The Art of Nathan Milstein [Box Set]
-http://avaxhome.ws/music/classical/B000002S53.html
-
-180.  Beethoven: String Quintets Op 4 & 29 - Buntrock, Leipziger Streichquartett (2011)
-http://avaxhome.ws/music/classical/Beethoven_String_Quintets_Op429.html
-
-181.  S.Rachmaninov - Elegy, Preludes, Piano Concerto No.3 - Santiago Rodriguez
-http://avaxhome.ws/music/classical/early_20th_century/Rachmaninov_Elegy_Preludes_Concerto_Rodriguez.html
-
-182.  Ivo Pogorelich - Frederic Chopin - Scherzi 
-http://avaxhome.ws/music/PogorelichScherzo.html
-
-183.  Lehrbuch Grundlagen der Informatik (Repost)
-http://avaxhome.ws/ebooks/eLearning_book/information_technologies/Grundlagen_der_Informatik.html
-
-184.  Ferdinand Ries - Complete Piano Concertos, Vol.1, 2 & 3
-http://avaxhome.ws/music/ferdinand_ries_complete_piano_concertos.html
-
-185.  Claudio Arrau plays Beethoven 05 of 11
-http://avaxhome.ws/music/claudio_arrau_313.html
-
-186.  Dmitri Shostakovich - The String Quartets
-http://avaxhome.ws/music/classical/ciocio_58.html
-
-187.  Rachmaninov: Symphonies 1-3; Piano Concerto 1-4; Isle of Dead; Symphonic Dances - M. Rudy, St. Petersburg PhO,  M. Jansons
-http://avaxhome.ws/music/classical/Rachmaninov_Symphonies_Piano_concertos_Jansons.html
-
-188.  Miles Davis - The Cellar Door Sessions 1970 (2005) [6CD BoxSet] {Columbia} [re-up]
-http://avaxhome.ws/music/jazz/miles_davis_cellar_door_sessions_6cd_2005_flac_re.html
-
-189.  Musica Nuda (Petra Magoni and Ferruccio Spinetti) - Musica Nuda 2 (2006) 2CD
-http://avaxhome.ws/music/jazz/Musica_Nuda_2.html
-
-190.  The Chieftains - The Chieftains 6: Bonaparte's Retreat (1976)
-http://avaxhome.ws/music/ethnic_world/celtic/The_Chieftains_The_Chieftains_6_Bonapartes_Retreat.html
-
-191.  VA - Cameo Parkway - Greatest Hits (2006)
-http://avaxhome.ws/music/rock/cameo_parkway_greatest_hits.html
-
-192.  Lee Morgan - Indeed! (1956) {2007 Rudy Van Gelder Remaster}
-http://avaxhome.ws/music/jazz/lee_morgan_indeed_2007_flac.html
-
-193.  Jackie McLean - The Jackie Mac Attack Live (1991) {Birdology}
-http://avaxhome.ws/music/jazz/jackie_mclean_mac_attack_live_1991_flac.html
-
-194.  (Docu) Les Premiers Pas du Cinéma / The First Steps of Cinema - Un Rêve en Couleur [DVD] 2004 A Dream in Colors
-http://avaxhome.ws/video/les_premiers_pas_du_cinema_2004.html
-
-195.  Shostakovich: Complete String Quartets / Mandelring Quartet (2008)
-http://avaxhome.ws/music/shostakovich_complete_string.html
-
-196.  Pierre Boulez - Igor STRAVINSKY - Petrouchka & Le Sacre du printemps
-http://avaxhome.ws/music/classical/PBStravinsky.html
-
-197.  (Drama) Vanity Fair / La Foire aux Vanités [DVDrip] 2004  Re-post
-http://avaxhome.ws/video/vanity_fair_la_foire_aux_vanites_2004.html
-
-198.  Korea Floral Material Concourse DVD 11 / 32
-http://avaxhome.ws/graphics/Korea_Floral_Material_Concourse_DVD_11_32.html
-
-199.  Korea Floral Material Concourse DVD 10 / 32
-http://avaxhome.ws/graphics/Korea_Floral_Material_Concourse_DVD_10_32.html
-
-200.  Korea Floral Material Concourse DVD 09 / 32 
-http://avaxhome.ws/graphics/Korea_Floral_Material_Concourse_DVD_09_32.html
+58.  Learn How To Make Money With Photoshop
+http://avaxhm.com/ebooks/U_LHTMMWP.html
 
