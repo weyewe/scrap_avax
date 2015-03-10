@@ -10,12 +10,12 @@ FILENAME = 'avax_search.txt'
 
 # http://avaxsearch.com/avaxhome_search?q=sex&commit=Go
 # "marakana"
-search_value = "udemy"
+search_value =  "agency"
 search_keyword = CGI.escape( search_value )
 
 
 
-url = "#{BASE_URL}/avaxhome_search?q=#{search_keyword}&commit=Go"
+url = "#{BASE_URL}/search?q=#{search_keyword}&commit=Search"
 
 file_content = ""
 counter = 1
