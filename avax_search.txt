@@ -1,602 +1,602 @@
-Search Keyword: 'python'
+Search Keyword: 'javascript'
 
-1.  Monty Python - Soundtracks Collection (8CD)
-http://avxhome.se/music/ost_soundtrack/Monty_Python_Soundtracks_Collection.html
+1.  JavaScript eBooks Collection
+http://avxhome.se/ebooks/large_ebook_collection/Java_Sc_Bo_Co-1376958480.html
 
-2.  LiveLessons - Python Fundamentals DVDR
-http://avxhome.se/ebooks/eLearning/LiveLessons_Python_Fundamentals_DVDR.html
+2.  Course 20480A:Programming in HTML5 with javascript and CSS3 (2012)
+http://avxhome.se/ebooks/eLearning/Coursedffdfdg20480Aghf.html
 
-3.  Python Computer Science Pack
-http://avxhome.se/ebooks/eLearning/Python_Computer_Science_Pack.html
+3.  1st JavaScript Editor Pro v5.1 
+http://avxhome.se/software/software_type/office/Text_Editors/first_java_51.html
 
-4.  Monty Python - The Final Rip Off (1987) 2CD
-http://avxhome.se/music/other_styles/m_comedy/Monty_Python_The_Final_Rip_Off.html
+4.  Javascript Testing Beginner's Guide (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1849510008r.html
 
-5.  Monty Python – Another Monty Python Record (1971) [2006 Virgin Records Reissue with 4 Bonus Tracks] 09463-75719-2-7
-http://avxhome.se/music/other_styles/m_comedy/monty_python_another_record.html
+5.  Lynda - JavaScript Essential Training (2011)
+http://avxhome.se/ebooks/eLearning/Lynda-JavaScript_Essential_Training_2011.html
 
-6.  Udemy - Python and Network Automation: Build 5 Python Apps (2015)
-http://avxhome.se/ebooks/programming_development/UdemyPythonandNetworkAutomationBuild5PythonApps2015.html
+6.  JavaScript Weekend Crash Course
+http://avxhome.se/ebooks/programming_development/java/JavaScript_Weekend_Crash_Course.html
 
-7.  Python for Beginners
-http://avxhome.se/ebooks/programming_development/database_sql/Python_for_Beginners.html
+7.  Pro JavaScript Development: Coding, Capabilities, and Tooling
+http://avxhome.se/ebooks/programming_development/1430262680.html
 
-8.  Python: Learn Python With Ultimate Zero to Hero Programming Crash Course for Beginners
-http://avxhome.se/ebooks/programming_development/90809877665.html
+8.  JavaScript Unit Testing
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1782160620Unit-1361952097.html
 
-9.  Complete Guide For Python Programming: Quick & Easy Guide To Learn Python
-http://avxhome.se/ebooks/programming_development/3282356.html
+9.  Pro JavaScript with MooTools
+http://avxhome.se/ebooks/Pro_JavaScript_MooTools.html
 
-10.  LiveLessons - Python Fundamentals (2009) [Repost]
-http://avxhome.se/ebooks/LiveLessons_Python_Fundamentals.html
+10.  Beginning JavaScript,4 Ed
+http://avxhome.se/ebooks/programming_development/java/BeginningJavaScript4Ed.html
 
-11.  Monty Python - Live! At City Center (1976) Remastered 1997
-http://avxhome.se/music/other_styles/m_comedy/Monty_Python_Live_At_City_Center.html
+11.  JavaScript: The Definitive Guide
+http://avxhome.se/ebooks/programming_development/java/939555.html
 
-12.  Monty Python – Matching Tie and Handkerchief (1973) [2006 Arista Records Reissue with 4 Bonus Tracks] 
-http://avxhome.se/music/other_styles/m_comedy/monty_matching_tie.html
+12.  Udemy - A Functional Guide : Understanding Functions in JavaScript !
+http://avxhome.se/ebooks/naag1577.html
 
-13.  Learning Python, 2nd Edition
-http://avxhome.se/ebooks/lpse.html
+13.  Udemy - JavaScript from Beginner to Expert
+http://avxhome.se/ebooks/eLearning/JavaScript_from_Beginner_to_Expert.html
 
-14.  Python Essential Reference [Repost]
-http://avxhome.se/ebooks/programming_development/ISBN-0735710910.html
+14.  javascript - javascript for Beginners
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/javascript-javascript-for-Beginners.html
 
-15.  MySQL for Python (Repost)
-http://avxhome.se/ebooks/programming_development/database_sql/1849510180Z.html
+15.  HTML5 Programming with JavaScript For Dummies (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3239712.html
 
-16.  Programming in Python 3: A Complete Introduction to the Python Language (2nd edition) (repost)
-http://avxhome.se/ebooks/programming_development/0321680561r.html
+16.  JavaScript Allongé: A long pull of functions, combinators, & decorators
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JaScripAllon.html
 
-17.  MySQL for Python
-http://avxhome.se/ebooks/programming_development/database_sql/1849510180.html
+17.  Beginning JavaScript with DOM Scripting and Ajax (2nd Editon) (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925.html
 
-18.  Core Python Programming
-http://avxhome.se/ebooks/programming_development/0130260363-1288047698.html
+18.  Javascript Testing Beginner's Guide (Repost)
+http://avxhome.se/ebooks/programming_development/news_igor_3609.html
 
-19.  Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project (Repost)
-http://avxhome.se/ebooks/programming_development/z1506094384.html
+19.  pluralsight - Building HTML5 and JavaScript Apps with MVVM and Knockout
+http://avxhome.se/ebooks/eLearning/pluralsight-Building_HTML5_and_JavaScript_Apps_with_MVVM_and_Knockout.html
 
-20.  Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project
-http://avxhome.se/ebooks/programming_development/1506094384.html
+20.  Easier JavaScript With TypeScript
+http://avxhome.se/ebooks/Easier_JavaScript_With_TypeScript.html
 
-21.  Udemy - Learn Python Programming From Scratch: A Great Resource to Start and Master Python Development
-http://avxhome.se/ebooks/programming_development/UdemyearnPythoP.html
+21.  Professional javascript for Web Developers, 3rd Edition
+http://avxhome.se/ebooks/programming_development/general/web_development/1118026691-1397281861.html
 
-22.  Python Essential Reference (Repost)
-http://avxhome.se/ebooks/programming_development/0735710910Z.html
+22.  JavaScript Goodies
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptGoodies.html
 
-23.  Python Essential Reference
-http://avxhome.se/ebooks/programming_development/0735710910.html
+23.  Lynda.com - Learning JavaScript with Charles G. Hollins (repost)
+http://avxhome.se/video/learning_javascript_repost-1376267633.html
 
-24.  Learning Python, 4th Edition 2009
-http://avxhome.se/ebooks/Learning_Python.html
+24.  Shelley Powers "Einführung in JavaScript"
+http://avxhome.se/ebooks/language/german/3897214970.html
 
-25.  Python Standard Library (Nutshell Handbooks) by  Fredrik Lundh
-http://avxhome.se/ebooks/0596000960asd.html
+25.  Learn JavaScript Fundamentals for Beginners by Examples
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Learn-JavaScript-Fundamentals-for-Beginners-by-Examples.html
 
-26.  Pluralsight - Python – Beyond the Basics (2014) [repost]
-http://avxhome.se/ebooks/programming_development/PluralsightPythonBeyondtheBasics2014repost.html
+26.  JavaScript et le DOM par la pratique (Repost)
+http://avxhome.se/ebooks/JavaScript_et_le_DOM_par_la_pratique.html
 
-27.  Learning Geospatial Analysis with Python (Repost)
-http://avxhome.se/ebooks/programming_development/1783281138q.html
+27.  Expert JavaScript [Repost]
+http://avxhome.se/ebooks/programming_development/2014-07-05-01_201504142305.html
 
-28.  Programming in Python 3: A Complete Introduction to the Python Language (2nd Edition) (Repost)
-http://avxhome.se/ebooks/programming_development/0321680561_PDF.html
+28.  Expert JavaScript (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430260971z.html
 
-29.  FXPHD - NUK227 Python for NUKE and Gizmology
-http://avxhome.se/ebooks/graphics_drawing_design/fxphd_NUK227_Python_NUKE_Gizmology.html
+29.  JavaScript Unit Testing (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1782160620_Ja.html
 
-30.  Learning Geospatial Analysis with Python (Repost)
-http://avxhome.se/ebooks/programming_development/1783281138z.html
+30.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
+http://avxhome.se/ebooks/Effective_JavaScript.html
 
-31.  Monty Python: Almost the Truth - Lawyers Cut (2009) [TV Mini-Series]
-http://avxhome.se/video/Format/documentary/MontyPythonAlmost.html
+31.  Expert JavaScript
+http://avxhome.se/ebooks/programming_development/general/web_development/1430260971.html
 
-32.  Learning Geospatial Analysis with Python 
-http://avxhome.se/ebooks/programming_development/1783281138.html
+32.  Beginning JavaScript with DOM Scripting and Ajax (2nd Editon) [Repost]
+http://avxhome.se/ebooks/programming_development/2013-09-07-47_201505032120.html
 
-33.  Programming in Python 3: A Complete Introduction to the Python Language, 2nd Edition (repost)
-http://avxhome.se/ebooks/programming_development/0321680561.html
+33.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0321812182.html
 
-34.  Python for Beginners
-http://avxhome.se/ebooks/M_PYTHONFB.html
+34.  Pragmatic Guide to JavaScript (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1934356670r.html
 
-35.  Programming in Python 3: A Complete Introduction to the Python Language (2nd Edition) [Repost]
-http://avxhome.se/ebooks/programming_development/2013-04-15-60_201505032258.html
+35.  Pro JavaScript Design Patterns (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Pro-JavaScript-Design-Patterns.html
 
-36.  fxphd - C4D208: Python Scripting in Cinema 4D
-http://avxhome.se/ebooks/eLearning/fxc4d208.html
+36.  "JavaScript" by Don Gosselin (Repost)
+http://avxhome.se/ebooks/programming_development/java/Javascript5ed2011re12j.html
 
-37.  Python Programming for Beginners
-http://avxhome.se/ebooks/programming_development/PythonProgramminforBeginners.html
+37.  Lullabot - jQuery and JavaScript in Drupal [repost]
+http://avxhome.se/ebooks/Lullabot_jQuery_and_JavaScript_in_Drupal.html
 
-38.  Python Programming eBooks Collection 2015 Edition
-http://avxhome.se/ebooks/large_ebook_collection/Python_Programming_eBooks_Collection_2015_Edition.html
+38.  Coding Bundle (jQuery, JavaScript, CSS) 
+http://avxhome.se/ebooks/programming_development/general/web_development/9783943075137.html
 
-39.  Practical Maya Programming with Python
-http://avxhome.se/ebooks/programming_development/1849694729.html
+39.  JavaScript Bible ,7th edition
+http://avxhome.se/ebooks/JavaScript_Bible.html
 
-40.  Udemy - Learn Programming with Python by Examples from Scratch
-http://avxhome.se/ebooks/programming_development/UdemyLearnProgrammingwithPythonbyExamplesfromScratch.html
+40.  Drupal 6 Javascript And Jquery
+http://avxhome.se/ebooks/eLearning_book/information_technologies/1847196160-1377056882.html
 
-41.  Python Essential Reference (4th Edition) (Repost)
-http://avxhome.se/ebooks/programming_development/0672329786qz.html
+41.  JavaScript Bible, Gold Edition (repost)
+http://avxhome.se/ebooks/JavaScript_Bible_Gold_Edition_ebook.html
 
-42.  Python Essential Reference (4th Edition) (Repost)
-http://avxhome.se/ebooks/programming_development/0672329786az.html
+42.  Douglas Crockford Javascript Videos
+http://avxhome.se/video/douglas-crockford-javascript-videos.html
 
-43.  Programming Python 2nd Edition [Repost]
-http://avxhome.se/ebooks/programming_development/ISBN-0596000855.html
+43.  Pro JavaScript Design Patterns
+http://avxhome.se/ebooks/programming_development/java/159059908x.html
 
-44.  Python Essential Reference (4th Edition) (Repost)
-http://avxhome.se/ebooks/programming_development/0672329786a.html
+44.  JavaScript Bible, Gold Edition
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/shfd7450_post_29.html
 
-45.  Python Algorithms: Mastering Basic Algorithms in the Python Language [Repost]
-http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/Apress.Python.Algorithms.Mastering.Basic.Algorithms.In.The.Python.Language.Nov.2010.ISBN.1430232374.pdf.html
+45.  The Art & Science of JavaScript
+http://avxhome.se/ebooks/programming_development/Art_JavaScript.html
 
-46.  Python Essential Reference (4th Edition) (Repost)
-http://avxhome.se/ebooks/programming_development/0672329786z.html
+46.  Javascript for breakfast
+http://avxhome.se/ebooks/programming_development/java/tom_Dell_Aringa_javascript_for_breakfast.html
 
-47.  Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns (repost)
-http://avxhome.se/ebooks/programming_development/0321905636_py.html
+47.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0321812182JavaSc.html
 
-48.  Python Geospatial Development (repost)
-http://avxhome.se/ebooks/programming_development/1849511543.html
+48.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+http://avxhome.se/ebooks/programming_development/2013-05-26-21_201505020059.html
 
-49.  Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns
-http://avxhome.se/ebooks/programming_development/0321905636Pyth.html
+49.  AppDev JavaScript 1.8
+http://avxhome.se/ebooks/eLearning/AppDevJavaScript1.8.html
 
-50.  Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns
-http://avxhome.se/ebooks/programming_development/0321905636Python.html
+50.  Pluralsight - Testing Clientside JavaScript
+http://avxhome.se/ebooks/programming_development/PluralsightTestingClientsideJavaScript.html
 
-51.  cmiVFX - Softimage Python Rigging Warmup
-http://avxhome.se/ebooks/eLearning/cmiVFX_Softimage_Python_Rigging_Warmup.html
+51.  Beginning JavaScript with DOM Scripting and Ajax: Second Editon (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925s.html
 
-52.  Python Essential Reference (4th Edition)  
-http://avxhome.se/ebooks/programming_development/0672329786.html
+52.  Custom SharePoint Solutions with HTML and JavaScript: For SharePoint 2013 and SharePoint Online
+http://avxhome.se/ebooks/programming_development/1484205456.html
 
-53.  Lynda - Python 3 Essential Training
-http://avxhome.se/ebooks/eLearning/Lynda-Python_3_Essential_Training-1375245658.html
+53.  JavaScript Promises Essentials by Rami Sarieddine
+http://avxhome.se/ebooks/programming_development/java/3428385.html
 
-54.  Python Geospatial Development (repost)
-http://avxhome.se/ebooks/programming_development/1849511543r-1377056884.html
+54.  Javascript for Beginners - Introduction - Learn Fast & Easy
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Javascript-for-Beginners-Introduction-Learn-Fast--Easy.html
 
-55.  Python 3 Object Oriented Programming (Repost)
-http://avxhome.se/ebooks/programming_development/general/object_oriented/1849511268.html
+55.  Beginning JavaScript
+http://avxhome.se/ebooks/programming_development/java/3349046.html
 
-56.  Programming in Python 3: A Complete Introduction to the Python Language (repost)
-http://avxhome.se/ebooks/programming_development/0321680561Python.html
+56.  JavaScript Cookbook (2nd edition)
+http://avxhome.se/ebooks/programming_development/1491901888JavaSc.html
 
-57.  Python in a Nutshell (repost)
-http://avxhome.se/ebooks/programming_development/0596001886Python.html
+57.  JavaScript Cookbook (2nd edition)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1491901888.html
 
-58.  Monty Python: Almost the Truth - The Lawyers Cut  S01 Complete
-http://avxhome.se/video/series/Monty_Python_Almost.html
+58.  Professional JavaScript for Web Developers 3rd Edition [Repost]
+http://avxhome.se/ebooks/programming_development/java/ISBN-1118026691.html
 
-59.  Python programming (3.4.2 Latest version) + GUI 
-http://avxhome.se/ebooks/eLearning/PythonprogrammingGui.html
+59.  JavaScript: Die universelle Sprache zur Web-Programmierung 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3446439420.html
 
-60.  Effective Python: 59 Specific Ways to Write Better Python
-http://avxhome.se/ebooks/programming_development/3335784.html
+60.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
+http://avxhome.se/ebooks/JavaV_Script.html
 
-61.  Core Python Applications Programming (3rd Edition) [Repost]
-http://avxhome.se/ebooks/programming_development/2015-01-09-16_201505091058.html
+61.  DOM Scripting: Web Design with JavaScript and the Document Object Model
+http://avxhome.se/ebooks/Web_Design.html
 
-62.  Pro Python (Repost)
-http://avxhome.se/ebooks/programming_development/1430227575z.html
+62.  Understanding Advanced JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/B00BFWI6CGJavaScript.html
 
-63.  Hello! Python (repost)
-http://avxhome.se/ebooks/programming_development/19351820800.html
+63.  Javascript for Beginners
+http://avxhome.se/ebooks/M_JSFB.html
 
-64.  Python 3 Essential Training [repost]
-http://avxhome.se/ebooks/programming_development/Python3EssentialTrainingrepost.html
+64.  Beginning JavaScript with DOM Scripting and Ajax: Second Editon
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925_JavaSc.html
 
-65.  Python Runner v1.1.1 Mac OS X
-http://avxhome.se/software/Python.Runner.v1.1.1.MacOSX.html
+65.  JavaScript Programmer's Reference
+http://avxhome.se/ebooks/JavaScript_Programmers_Reference.html
 
-66.  Python Runner v1.1 Mac OS X
-http://avxhome.se/software/Python.Runner.v1.1.MacOSX.html
+66.  JavaScript. Подробное руководство (6-е издание)
+http://avxhome.se/ebooks/programming_development/news_igor_3386.html
 
-67.  CGWorkshops - Python in Houdini
-http://avxhome.se/ebooks/eLearning/CGWorkshopsPythoninHoudini.html
+67.  pluralsight - JavaScript for C# Developers (2012)
+http://avxhome.se/ebooks/eLearning/pluralsight-JavaScript_for_C_Developers_2012.html
 
-68.  Foundations of Python Network Programming (2nd edition) [Repost]
-http://avxhome.se/ebooks/programming_development/2013-02-24-45-1430230037_201504302042.html
+68.  Professional JavaScript for Web Developers, 3rd edition (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118026691_Ja-1397281861.html
 
-69.  Core Python Programming, 2nd Edition
-http://avxhome.se/ebooks/programming_development/0132269937_PythoProg.html
+69.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0321832744JavaScr.html
 
-70.  Core Python Applications Programming (3rd Edition) 
-http://avxhome.se/ebooks/programming_development/0132678209.html
+70.  Drupal 6 JavaScript and jQuery (repost)
+http://avxhome.se/ebooks/programming_development/general/web_development/1847196160r-1377056882.html
 
-71.  Pro Python
-http://avxhome.se/ebooks/programming_development/1430227575Python.html
+71.  JavaScript Fundamentals [repost]
+http://avxhome.se/ebooks/programming_development/JavaScript_Fundamentals.html
 
-72.  Udemy - Python for Beginners: Learn Python from Scratch
-http://avxhome.se/ebooks/naag1597.html
+72.   Advanced Javascript (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/155622852X654.html
 
-73.  Python: Learn the Basics FAST From Python Programming Experts
-http://avxhome.se/ebooks/programming_development/3528709.html
+73.  Pragmatic Guide to JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1934356670.html
 
-74.  Parallel Programming with Python: Develop Efficient Parallel Systems Using the Robust Python Environment
-http://avxhome.se/ebooks/programming_development/1783288396.html
+74.  Advanced Javascript (Repost)   
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/155622852X5.html
 
-75.  The Python Quick Syntax Reference (repost)
-http://avxhome.se/ebooks/programming_development/1430264780.html
+75.  Learn JavaScript  (Repost)   
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1556228562.html
 
-76.  video2brain - Découverte de Python
-http://avxhome.se/ebooks/eLearning/v2b-discov_python-1380302566.html
+76.  David Flanagan "JavaScript: Das umfassende Referenzwerk"
+http://avxhome.se/ebooks/language/german/3897214911.html
 
-77.  Beginning Python: Using Python 2.6 and Python 3.1 (Repost)
-http://avxhome.se/ebooks/Beginning_Python_-_Using_Python_2_6_and_Python.html
+77.  javascript bible 5th edition
+http://avxhome.se/ebooks/programming_development/java/javascript_bible_5th_edition.html
 
-78.  Python Geospatial Development
-http://avxhome.se/ebooks/programming_development/1849511543Python-1377056884.html
+78.  Practical JavaScript, DOM Scripting and Ajax Projects
+http://avxhome.se/ebooks/programming_development/java/1590598164.html
 
-79.   Python in a Nutshell, Second Edition (Repost) 
-http://avxhome.se/ebooks/programming_development/0596100469540.html
+79.  JavaScript: The Definitive Guide
+http://avxhome.se/ebooks/0596000480.html
 
-80.  The Ultimate Python Programming Tutorial
-http://avxhome.se/ebooks/programming_development/TheUltimatePytho.html
+80.  JavaScript Application Cookbook - O'Reilly
+http://avxhome.se/ebooks/javascript_application_cookbook_1565925777.html
 
-81.  Packtpub - Mastering Python
-http://avxhome.se/ebooks/eLearning/Packtpub_Mastering_Python.html
+81.  Video2Brain - Introducing the JavaScript Language [repost]
+http://avxhome.se/ebooks/Intro-the-javascript-language.html
 
-82.  Python Algorithms: Mastering Basic Algorithms in the Python Language (repost)
-http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/14302323740.html
+82.  JavaScript: JavaScript in 8 Hours, For Beginners, Learn JavaScript fast!
+http://avxhome.se/ebooks/Mobile_eBooks_Readers/ipad_iphone_epub/B00WH0ESWC.html
 
-83.  Python Essential Reference, 4th Edition (Repost)
-http://avxhome.se/ebooks/programming_development/06723297861.html
+83.  JavaScript Security
+http://avxhome.se/ebooks/programming_development/1783988002.html
 
-84.  Marco Beri – Programmare in Python
-http://avxhome.se/ebooks/PROGRAMMARE_IN_PYTHON.html
+84.  JavaScript Essentials (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/B006P1BL9MJavaScr.html
 
-85.  The "Pythons" Autobiography by the "Pythons"
-http://avxhome.se/ebooks/biography/The_Py_Au_by.html
+85.  Professional JavaScript for Web Developers, 3rd Edition (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118026691_ja-1397281861.html
 
-86.  Building Machine Learning Systems with Python
-http://avxhome.se/ebooks/programming_development/1782161406.html
+86.  JavaScript Essentials
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/B006P1BL9MEssentials.html
 
-87.  Magnus Lie Hetland, "Beginning Python: From Novice to Professional" (repost)
-http://avxhome.se/ebooks/programming_development/magnus-lie-hetland-beginning-python-from-novice-to-professional.html
+87.  Pluralsight - Developing SharePoint 2013 Solutions with JavaScript (COMPLETE)
+http://avxhome.se/ebooks/eLearning/Pluralsight_Developing_SharePoint_2013_Solutions_with_JavaScript.html
 
-88.  Python Algorithms: Mastering Basic Algorithms in the Python Language (Repost)
-http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/1430232374Z.html
+88.  JavaScript for Web Designers
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/javascript_web_designers.html
 
-89.  InfiniteSkills - Web Programming With Python (Repost)
-http://avxhome.se/ebooks/InfiniteSkills_Web_Programming_Python.html
+89.  JavaScript: The Definitive Guide, 6th edition (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596805527Z.html
 
-90.  Python Algorithms: Mastering Basic Algorithms in the Python Language (repost)
-http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/1430232374r.html
+90.  Danny Goodman,  JavaScript Bible, Gold Edition (Repost) 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/07645471863.html
 
-91.  Python Algorithms: Mastering Basic Algorithms in the Python Language
-http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/1430232374.html
+91.  Beginning JavaScript and CSS Development with jQuery (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Beginning-JavaScript-and-CSS-Development-with-jQuery.html
 
-92.  The Quick Python Book
-http://avxhome.se/ebooks/TheQuickPythonBook.html
+92.  JavaScript: The Definitive Guide, 6th edition (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScript-The-Definitive-Guide-6th-edition.html
 
-93.  Udemy - Python for Trading & Investing
-http://avxhome.se/ebooks/naag1615.html
+93.  JavaScript: The Definitive Guide, 6th edition  (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596805527_JavaScri.html
 
-94.  Udemy - GUI, Database and Networking with Python
-http://avxhome.se/ebooks/naag1207.html
+94.  TekPub - Javascript: Up To Speed
+http://avxhome.se/ebooks/programming_development/TekPubJavascriptUpToSpeed.html
 
-95.  Beginning Python: Using Python 2.6 and Python 3.1 (Repost)
-http://avxhome.se/ebooks/programming_development/0470414634z.html
+95.  Beginning JavaScript and CSS Development with jQuery (Repost)
+http://avxhome.se/ebooks/programming_development/general/web_development/0470227796_beginning_javascript.html
 
-96.  Georges Delerue - Police Python 357 /  L'important... Original Soundtracks (2004)
-http://avxhome.se/music/ost_soundtrack/GeorgesDeleruePolicePython357.html
+96.  JavaScript: The Definitive Guide
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596805527.html
 
-97.  Beginning Python: From Novice to Professional by Magnus Lie Hetland [Repost]
-http://avxhome.se/ebooks/programming_development/2700684.html
+97.  JavaScript Demystified (Repost) 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/007226134X-1292457062.html
 
-98.  Python Algorithms: Mastering Basic Algorithms in the Python Language, 2nd edition
-http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/148420056XPython.html
+98.  Pro JavaScript Techniques (Pro) by  John Resig
+http://avxhome.se/ebooks/1590597273asd.html
 
-99.  Introduction to Computer Science and Programming using Python (Repost)
-http://avxhome.se/ebooks/eLearning/Introduction_to_Computer_Science_and_Programming_using_Python_.html
+99.  JavaScript Programming for the Absolute Beginner by  Andy Harris
+http://avxhome.se/ebooks/0761534105asd.html
 
-100.  O'Reilly Media - Introduction to Python
-http://avxhome.se/ebooks/OReilly_Media_Introduction_to_Python.html
+100.  JavaScript Programming for the Absolute Beginner - Premier Press
+http://avxhome.se/ebooks/javascript_programming_for_the_absolute_beginner-1289402846.html
 
-101.  Python 3 - Intensivkurs: Projekte erfolgreich realisieren (repost)
-http://avxhome.se/ebooks/programming_development/364204376.html
+101.  Reliable JavaScript: How to Code Safely in the World's Most Dangerous Language
+http://avxhome.se/ebooks/programming_development/java/3567857.html
 
-102.  Learning Python, 5th Edition (repost)
-http://avxhome.se/ebooks/programming_development/1449355730.html
+102.  Udemy - JavaScript Intro to learning JavaScript
+http://avxhome.se/ebooks/naag1410.html
 
-103.  Python 3 - Intensivkurs: Projekte erfolgreich realisieren (repost)
-http://avxhome.se/ebooks/programming_development/36420437630.html
+103.  JavaScript and jQuery for Data Analysis and Visualization
+http://avxhome.se/ebooks/programming_development/java/3503035.html
 
-104.  Beginning Python: Using Python 2.6 and Python 3.1 (Repost)
-http://avxhome.se/ebooks/programming_development/0470414634Z.html
+104.  Udacity: JavaScript Basics - The Programming Language of the Web
+http://avxhome.se/ebooks/the-programing-language-ofthe-web.html
 
-105.  InfiniteSkills - Learning Python Programming Video Training [Repost]
-http://avxhome.se/ebooks/IS_LPP_VT.html
+105.  Dexter Salazar - JavaScript: The Quick and Easy Guide to Learning JavaScript Programming
+http://avxhome.se/ebooks/JAVASCRIPT_THE_QUICK_AND_EASY_GUIDE_TO_LEARNING_JAVASCRIPT_PROGRAMMING.html
 
-106.  SecurityTube Python Scripting Expert
-http://avxhome.se/ebooks/eLearning/SecurityTubePythonScriptingExpert.html
+106.  Pro JavaScript with MooTools (Expert's Voice in Web Development) by Mark Obcen [Repost]
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1636099.html
 
-107.  Magnus Lie Hetland, Beginning Python: From Novice to Professional (Repost) 
-http://avxhome.se/ebooks/software/159059519X3.html
+107.  JavaScript Road Trip: Part 1,2,3
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Ja.Scr.Ro.Tr.html
 
-108.  Beginning Python: From Novice to Professional (Repost)
-http://avxhome.se/ebooks/Beginning_Python_-_From_Novice_to_Professional.html
+108.  JavaScript Spessore (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Spessore.html
 
-109.  Programming in Python 3: A Complete Introduction to the Python Language ,2nd Edition-repost
-http://avxhome.se/ebooks/Programming_Python_3.html
+109.  Tutsplus - JavaScript for PHP Developers (2014)
+http://avxhome.se/ebooks/javascript-for-php-developers.html
 
-110.  Learning Python: Powerful Object-Oriented Programming, 4th Edition
-http://avxhome.se/ebooks/programming_development/0596158068_PythoLearn.html
+110.  JavaScript effektiv: 68 Dinge, die ein guter JavaScript-Entwickler wissen sollte
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3864901278jav.html
 
-111.  Hello! Python
-http://avxhome.se/ebooks/programming_development/1935182080.html
+111.  JavaScript Spessore
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/SpessoreJavaSc.html
 
-112.  Python Developer's Handbook (Repost)
-http://avxhome.se/ebooks/programming_development/0672319942.html
+112.  HTML5 and JavaScript Projects (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/14302403261.html
 
-113.  Программирование на Python
-http://avxhome.se/ebooks/programming_development/php/pr_pyrh.html
+113.  JavaScript - kurz & gut (Repost)
+http://avxhome.se/ebooks/programming_development/news_igor_4247.html
 
-114.  Andre Lessa, «Python Developer's Handbook»
-http://avxhome.se/ebooks/pythondevelopers_handbook2.html
+114.  Video2Brain - Introducing the JavaScript Language [repost]
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Video2BrainIntroducingtheJavaScriptLanguagerepost.html
 
-115.  Title: Programming Python, 3rd Edition
-http://avxhome.se/ebooks/programming_python_3ed.html
+115.  InfiniteSkills -  Learning JavaScript Programming Training Video
+http://avxhome.se/ebooks/eLearning/InfiniteSkills_Learning_JavaScript_Programming_Training_Video.html
 
-116.  OpenCV Computer Vision with Python (repost)
-http://avxhome.se/ebooks/programming_development/056784367.html
+116.  InfiniteSkills -  JavaScript HTML5 API Programming Training Video (Re-Uploaded)
+http://avxhome.se/ebooks/eLearning/InfiniteSkills_JavaScript_HTML5_API_Programming_Training_Video.html
 
-117.  Python Requests Essentials
-http://avxhome.se/ebooks/programming_development/3539866.html
+117.  JavaScript for Absolute Beginners (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430272198r.html
 
-118.  Learn Python GUI programming using Qt framework
-http://avxhome.se/ebooks/eLearning/lrnPythonGuiPrgmQTframW0rka.html
+118.  Plug-In JavaScript 100 Power Solutions (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0071738614r.html
 
-119.  Learn Python: A beginner's guide book to programming python, learning the basics and start coding easily
-http://avxhome.se/ebooks/programming_development/3496237.html
+119.  Test-Driven JavaScript Development (Developer's Library) (repost)
+http://avxhome.se/ebooks/0321683919_.html
 
-120.  Effective Python LiveLessons
-http://avxhome.se/ebooks/eLearning/Effective_Python_LiveLessons.html
+120.  Lynda.com - JavaScript Essential Training (2011)
+http://avxhome.se/ebooks/eLearning/lynda_com-javascript_essential_training-2011-1373936111.html
 
-121.  Python Programming for Network Engineers
-http://avxhome.se/ebooks/programming_development/PythonProgramm.html
+121.  JavaScript & AJAX: Das umfassende Handbuch (PDF format)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3836211289_3898428591JavaScript.html
 
-122.  Functional Python Programming
-http://avxhome.se/ebooks/programming_development/1784396990.html
+122.  Making Use of JavaScript (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/MakingUseJavaScript.html
 
-123.  Python Tools for Visual Studio (repost)
-http://avxhome.se/ebooks/programming_development/178328868X.html
+123.  Making Use of JavaScript (Repost)
+http://avxhome.se/ebooks/programming_development/making_use_JavaScript.html
 
-124.  Programming ArcGIS 10.1 with Python Cookbook (repost)
-http://avxhome.se/ebooks/programming_development/2987669.html
+124.  JavaScript - Browserübergreifende Lösungen
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptBrowser.html
 
-125.  Python Projects
-http://avxhome.se/ebooks/programming_development/111890866X.html
+125.  JavaScript und Ajax
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScript_Ajax.html
 
-126.  Python Cookbook by Alex Martelli [Repost]
-http://avxhome.se/ebooks/programming_development/1119029.html
+126.  Udemy - JavaScript Programming: Learn by Making a Mobile Game
+http://avxhome.se/ebooks/naag1601.html
 
-127.  Python: Create - Modify - Reuse by James O. Knowlton [Repost]
-http://avxhome.se/ebooks/programming_development/general/web_development/2392405.html
+127.  JavaScript Application Design: A Build First Approach
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1617291951.html
 
-128.  OpenCV Computer Vision with Python (repost)
-http://avxhome.se/ebooks/programming_development/1782163921py.html
+128.  Simply JavaScript (Repost)
+http://avxhome.se/ebooks/programming_development/java/0980285801_PDF.html
 
-129.  Python for Finance
-http://avxhome.se/ebooks/programming_development/1783284374.html
+129.  Pro Typescript: Application-Scale JavaScript Development
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430267917Typescript.html
 
-130.  Programming ArcGIS 10.1 with Python Cookbook (repost)
-http://avxhome.se/ebooks/programming_development/1849694443.html
+130.  Third-Party JavaScript (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1617290548Java.html
 
-131.  Python Tools for Visual Studio
-http://avxhome.se/ebooks/programming_development/178328868XPythonVisual.html
+131.  JavaScript Bible by Brendan Eich [Repost]
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/178251.html
 
-132.  Python for Finance
-http://avxhome.se/ebooks/economics_finances/1783284374Python.html
+132.  Beginning JavaScript with DOM Scripting and Ajax, Second Editon (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925ja.html
 
-133.  Livelessons - Python Guide for the Total Beginner (Video Training)
-http://avxhome.se/ebooks/eLearning/Livelessons_-_Python_Guide_for_the_Total_Beginner.html
+133.  Das Beste an JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3897218763_ja.html
 
-134.  The Python Quick Syntax Reference
-http://avxhome.se/ebooks/programming_development/1430264780Pytho.html
+134.  Drupal 6 JavaScript and jQuery
+http://avxhome.se/ebooks/programming_development/general/web_development/1847196160.html
 
-135.  The Complete Monty Python's Flying Circus 1969-1974: 16-Ton Megaset (2005)
-http://avxhome.se/video/genre/comedy/TheCompleteMontyPythonsFlyingCircus.html
+135.  JavaScript by Example (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0137054890Z-1381454297.html
 
-136.  Python Pocket Reference, 5th edition
-http://avxhome.se/ebooks/programming_development/1449357016.html
+136.   Steven W. Disbrow, JavaScript Weekend Crash Course  (Repost) 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/07645480423.html
 
-137.  OpenCV Computer Vision with Python
-http://avxhome.se/ebooks/programming_development/1782163921OpenC.html
+137.  Third-Party JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1617290548JavaSc.html
 
-138.  Pluralsight - Python Fundamentals
-http://avxhome.se/ebooks/eLearning/pt-python_fun.html
+138.  HTML5 and JavaScript Projects [Repost]
+http://avxhome.se/ebooks/programming_development/2013-02-07-19-1430240326_201504301404.html
 
-139.  Beginning Python: From Novice to Professional
-http://avxhome.se/ebooks/programming_development/1590599829.html
+139.  JavaScript: The Missing Manual (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596515898re.html
 
-140.  Python 2.6 Graphics Cookbook (with code) (Repost)
-http://avxhome.se/ebooks/programming_development/1849513848Z.html
+140.   Paul Hatcher, "JavaScript Professional Projects" (Repost) 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/15920001344.html
 
-141.  OpenCV Computer Vision with Python
-http://avxhome.se/ebooks/programming_development/1782163921.html
+141.  Tutsplus - Advanced JavaScript Fundamentals (2012)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/TutsplusAdvancedJavaScriptFundamentals2012.html
 
-142.  cmiVFX – Houdini Empowering Digital Assets with Python
-http://avxhome.se/ebooks/cmiVFXsdfdsf6346.html
+142.  JavaScript: The Missing Manual (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596515898r.html
 
-143.  Tutsplus - Getting Started with Python (2012)
-http://avxhome.se/ebooks/programming_development/TutsplusGettingStartedwithPython2012.html
+143.  JavaScript: The Good Parts (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596517742_JavaScr.html
 
-144.  Python Programming Python Language
-http://avxhome.se/ebooks/programming_development/Python_Programming_Python_Language.html
+144.  JavaScript by Example, Second Edition (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0137054890_JavaScr.html
 
-145.  Python 3 Object Oriented Programming: Harness the power of Python 3 objects (repost)
-http://avxhome.se/ebooks/programming_development/1849511268Python3Prog.html
+145.  Javascript Packer 2.0.7
+http://avxhome.se/software/software_type/development/Others/JavascriptPacker207.html
 
-146.  Mega Python Vs. Gatoroid (2011)
-http://avxhome.se/video/genre/sci_fi/Mega_Python_Vs_Gatoroid_2011.html
+146.  Danny Goodman, "JavaScript Bible"(Repost) 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/07645574326.html
 
-147.  Python 2.6 Graphics Cookbook (with code)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/1849513848.html
+147.  Javascript Packer v2.0.6 Mac OS X
+http://avxhome.se/software/software_type/development/Web_Related/Javascript.Packer.v2.0.6.MacOSX.html
 
-148.  Head First Python
-http://avxhome.se/ebooks/head_first_python.html
+148.  HTML5 and JavaScript Projects
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430240326.html
 
-149.  A Byte of Python (for Python 3.0)
-http://avxhome.se/ebooks/programming_development/654031.html
+149.  Drupal 6 JavaScript and jQuery (repost)
+http://avxhome.se/ebooks/programming_development/1847196160Drupal-1377056882.html
 
-150.  Python Programming with the Java Class Libraries by Richard Hightower
-http://avxhome.se/ebooks/0201616165sdf.html
+150.  JavaScript: The Good Parts (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596517742Z.html
 
-151.  Python 101
-http://avxhome.se/ebooks/programming_development/Python101.html
+151.  Advanced JavaScript (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/4565437.html
 
-152.  Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours
-http://avxhome.se/ebooks/programming_development/3517558.html
+152.  Advanced JavaScript
+http://avxhome.se/ebooks/AdvancedJavaScript.html
 
-153.  Udemy - Python: Learn Python Today And Become A True Code Warrior
-http://avxhome.se/ebooks/naag1289.html
+153.  Mootools Essentials - The Official Reference for Javascript and Ajax Development.
+http://avxhome.se/ebooks/Mootools_Essentials_by_Aaron_Newton.html
 
-154.  InfiniteSkills - Python Beyond the Basics - Object-Oriented Programming
-http://avxhome.se/ebooks/eLearning/InfiniteSkills_Python_Beyond_the_Basics_Object-Oriented_Programming.html
+154.  JavaScript: The Good Parts
+http://avxhome.se/ebooks/programming_development/0596517742.html
 
-155.  Python 2.1 Bible by Stephen Tanner [Repost]
-http://avxhome.se/ebooks/programming_development/2598345.html
+155.  Professional JavaScript for Web Developers (Wrox Programmer to Programmer)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptWeb.html
 
-156.  Mastering Python Design Patterns
-http://avxhome.se/ebooks/programming_development/1783989327.html
+156.  Beginning JavaScript with DOM Scripting and Ajax
+http://avxhome.se/ebooks/programming_development/java/shfd7450_post_60.html
 
-157.  Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing (repost)
-http://avxhome.se/ebooks/programming_development/1118901223.html
+157.  Jetzt lerne ich Javascript. Webprogrammierung mit JavaScript, (X)HTML, CSS und Co.
+http://avxhome.se/ebooks/eLearning_book/information_technologies/3827269849.html
 
-158.  Coding for Entrepreneurs: Learn Python, Django, and More
-http://avxhome.se/ebooks/programming_development/CodingforEntrepreneursLearnPythoDjanMore.html
+158.  The Book of JavaScript: A Practical Guide to Interactive Web Pages
+http://avxhome.se/ebooks/1886411360.html
 
-159.  Learning Python (5th edition) (Repost)
-http://avxhome.se/ebooks/programming_development/1449355730z.html
+159.  JavaScript Professional Projects (Professional Projects)
+http://avxhome.se/ebooks/1592000134_javascript-1323754722.html
 
-160.  Pro Python System Administration
-http://avxhome.se/ebooks/programming_development/3207298.html
+160.  JavaScript Essentials - LiveLessons
+http://avxhome.se/ebooks/eLearning/javascript-essentials-livelessons.html
 
-161.  Nobody Expects the Spanish Inquisition: Cultural Contexts in Monty Python
-http://avxhome.se/ebooks/Photo_related/1442237368.html
+161.  Beginning JavaScript, 5th Edition
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118903331.html
 
-162.  Python Developer's Handbook [Repost]
-http://avxhome.se/ebooks/programming_development/general/web_development/ISBN-0672319942.html
+162.  Learnable - HTML5 and javascript in Motion
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/HTML5-and-javascript-in-Motion.html
 
-163.  Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing
-http://avxhome.se/ebooks/programming_development/1118901223Python.html
+163.  Advanced Javascript by Chuck Easttom
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1689733.html
 
-164.  Data Structures and Algorithms in Python (repost)
-http://avxhome.se/ebooks/programming_development/1118290275.html
+164.  JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and Html5
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430259442JavaScriptCre.html
 
-165.  Livelessons - Fundamentals Of Data Analytics In Python
-http://avxhome.se/ebooks/eLearning/Livelessons_-_Fundamentals_Of_Data_Analytics_In_Python.html
+165.  Beginning JavaScript (4th edition) [Repost]
+http://avxhome.se/ebooks/programming_development/2014-06-15-08_201504151445.html
 
-166.  The Python Quick Syntax Reference
-http://avxhome.se/ebooks/programming_development/1430264780Python.html
+166.  HTML5 Programming with JavaScript For Dummies (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118431669z-1397096857.html
 
-167.  Programming ArcGIS 10.1 with Python Cookbook
-http://avxhome.se/ebooks/programming_development/1849694443ArcG.html
+167.  JavaScript Essential Training (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/javascript_essential_training_repost.html
 
-168.  Learning Python, 5 edition
-http://avxhome.se/ebooks/programming_development/1449355730_pyth.html
+168.  Plug-In JavaScript 100 Power Solutions (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0071738614-1392664154.html
 
-169.  AWesley J. Chun, Core Python Programming (Repost) 
-http://avxhome.se/ebooks/programming_development/0132269937W.html
+169.  HTML5 Programming with JavaScript For Dummies
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118431669-1396258250.html
 
-170.  Pro Android Python with SL4A (repost)
-http://avxhome.se/ebooks/programming_development/1430235691r.html
+170.  High Performance JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/059680279X-high-perfomance-javascript.html
 
-171.  Alex Martelli, David Ascher, Anna Ravenscroft  "Python Cookbook" (Repost) 
-http://avxhome.se/ebooks/programming_development/general/web_development/0596007973S.html
+171.  TutsPlus - JavaScript Fundamentals 101
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptFundamentals101.html
 
-172.  Andre Lessa, «Python Developer's Handbook» (repost)
-http://avxhome.se/ebooks/programming_development/general/web_development/06723199424.html
+172.  High Performance JavaScript (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/High-Performance-JavaScript.html
 
-173.  Monty Python and The Holy Grail (1975) [Collector's Edition] [2 DVD9] [2003]
-http://avxhome.se/video/quality/dvd/mo_pth.html
+173.  JavaScript by Example, 2nd Edition (Repost)
+http://avxhome.se/ebooks/JavaScript_Example_2_Edition.html
 
-174.  Learning Python
-http://avxhome.se/ebooks/programming_development/Learn_Python.html
+174.  JavaScript for Absolute Beginners (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430272198repost.html
 
-175.  Python Requests Essentials
-http://avxhome.se/ebooks/programming_development/1784395412.html
+175.  JavaScript Patterns (repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScript-Patterns.html
 
-176.  Python Geospatial Analysis Essentials
-http://avxhome.se/ebooks/programming_development/3560190.html
+176.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
+http://avxhome.se/ebooks/Learning_JavaScript_-_A_Hands-On_Guide_to_the_Fundamentals_of_Modern_JavaScript.html
 
-177.  Learning Python Network Programming
-http://avxhome.se/ebooks/programming_development/3539660.html
+177.  Async JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1937785270JavaSc.html
 
-178.  Udemy - python programming (3.4.2 Latest version) + GUI
-http://avxhome.se/ebooks/eLearning/Udemy_python_programming_3_4_2_Latest_version_GUI-1435010877.html
+178.  Simply JavaScript (repost)
+http://avxhome.se/ebooks/programming_development/java/0980285801r.html
 
-179.  Invasion Of The Giant Pythons: Florida (2015)
-http://avxhome.se/video/Format/documentary/invasion.of.the.giant.pythons.florida.2015.html
+179.  Дэвид Флэнаган - JavaScript. Подробное руководство
+http://avxhome.se/ebooks/programming_development/java/news_igor_2669.html
 
-180.  Udemy - Python and Ruby: Learn Python and Ruby Programming
-http://avxhome.se/ebooks/eLearning/Udemy_Python_and_Ruby_Learn_Python_and_Ruby_Programming.html
+180.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript (Repost)
+http://avxhome.se/ebooks/programming_development/news_igor_1844.html
 
-181.  Python Programming
-http://avxhome.se/ebooks/programming_development/3467460.html
+181.  JavaScript and Ajax for the Web, Sixth Edition (repost)
+http://avxhome.se/ebooks/0321430328_.html
 
-182.  Machine Learning in Python: Essential Techniques for Predictive Analysis
-http://avxhome.se/ebooks/eLearning_book/information_technologies/1118961749.html
+182.  Lynda.com - Practical and Effective javascript (repost)
+http://avxhome.se/ebooks/eLearning_book/Practical_and_Effective_javascript-1373936124.html
 
-183.  Learning Python Data Visualization
-http://avxhome.se/ebooks/programming_development/1783553332.html
+183.  JavaScript: Curso integral
+http://avxhome.se/ebooks/eLearning_book/information_technologies/javascript-curso-integral.html
 
-184.  Dive Into Python (Repost) 
-http://avxhome.se/ebooks/programming_development/news_igor_42640.html
+184.  JavaScript for Programmers
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0137001312.html
 
-185.  Learning Selenium Testing Tools with Python
-http://avxhome.se/ebooks/programming_development/3281668.html
+185.  JavaScript Patterns
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596806752.html
 
-186.  Programming Python
-http://avxhome.se/ebooks/programming_development/874522.html
+186.  High Performance JavaScript
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/059680279X.html
 
-187.  Learn Python the Hard Way, 3rd Edition [with DVD]
-http://avxhome.se/ebooks/eLearning/0321884914.html
+187.  Antechinus JavaScript Editor 10.0.2
+http://avxhome.se/software/software_type/development/Web_Related/antechinus_javascript_editor_10_0_2.html
 
-188.  InfiniteSkills - Mastering Python - Networking and Security Training Video
-http://avxhome.se/ebooks/eLearning/InfiniteSkills_Mastering_Python_Networking_and_Security_Training_Video.html
+188.  JavaScript Design
+http://avxhome.se/ebooks/javascript_design.html
 
-189.  UKTV - Monty Python: The Meaning of Live (2014)
-http://avxhome.se/video/Format/documentary/UKTV.Monty.Python.The.Meaning.of.Live.2014.html
+189.  1st JavaScript Editor Pro v3.48
+http://avxhome.se/software/javascripteditorpro3.html
 
-190.  Foundations of Python Network Programming, 3 edition
-http://avxhome.se/ebooks/programming_development/1430258543.html
+190.  jQuery, JavaScript, and HTML5
+http://avxhome.se/ebooks/programming_development/java/3528557.html
 
-191.  Udemy - Learn Python Django From Scratch
-http://avxhome.se/ebooks/eLearning/Udemy_Learn_Python_Django_From_Scratch.html
+191.  Packtpub - JavaScript High Performance
+http://avxhome.se/ebooks/eLearning/Packtpub_JavaScript_High_Performance.html
 
-192.  eeCAD: Solid Modeling with the Power of Python (repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/18495188660.html
+192.  JavaScript for Programmers
+http://avxhome.se/ebooks/programming_development/javascript_for_programmers_deitel_pdf.html
 
-193.  Learning Python, 3rd Edition
-http://avxhome.se/ebooks/programming_development/0596513984_py.html
+193.  Advanced Game Design with HTML5 and JavaScript
+http://avxhome.se/ebooks/programming_development/general/games_programming/3471523.html
 
-194.  Up and Running with Python (2013) [repost]
-http://avxhome.se/ebooks/programming_development/UpandRunningwithPython2013repost.html
+194.  JavaScript Developer's Dictionary (Developer's Library) by Alexander J. Vincent [Repost] 
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/621009.html
 
-195.  Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code, 3 edition
-http://avxhome.se/ebooks/programming_development/0321884914Python.html
+195.  Developing in HTML5 with JavaScript and CSS3 Jump Start [repost]
+http://avxhome.se/ebooks/programming_development/De.in.H.wi.Jav.html
 
-196.  Python 3 - Intensivkurs: Projekte erfolgreich realisieren (Repost)
-http://avxhome.se/ebooks/programming_development/3642043763.html
+196.  TeamTreeHouse - JavaScript Foundations (2014)
+http://avxhome.se/ebooks/programming_development/TeamTreeHouseJavaScriptFoundations2014.html
 
-197.  Python & XML (Repost)
-http://avxhome.se/ebooks/programming_development/xml/05960012821.html
+197.  Functional Programming in JavaScript
+http://avxhome.se/ebooks/programming_development/java/3414485.html
 
-198.  CherryPy Essentials: Rapid Python Web Application Development (Repost)
-http://avxhome.se/ebooks/programming_development/general/web_development/19048118411.html
+198.  Secrets of the JavaScript Ninja by John Resig
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3379305.html
 
-199.  Python Algorithms: Mastering Basic Algorithms in the Python Language (Repost)
-http://avxhome.se/ebooks/programming_development/1430232374a.html
+199.  Testgetriebene Entwicklung mit JavaScript: Ein Handbuch für den professionellen Programmierer
+http://avxhome.se/ebooks/programming_development/3363379.html
 
-200.  Python Algorithms: Mastering Basic Algorithms in the Python Language (Repost)
-http://avxhome.se/ebooks/Python_Algorithms_-_Mastering_Basic_Algorithms_in_the_Python_Language.html
+200.  JavaScript - kurz & gut, 4. Auflage (Repost)
+http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3868993886.html
 
