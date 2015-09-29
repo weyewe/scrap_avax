@@ -1,602 +1,602 @@
-Search Keyword: 'javascript'
+Search Keyword: 'agile'
 
-1.  JavaScript eBooks Collection
-http://avxhome.se/ebooks/large_ebook_collection/Java_Sc_Bo_Co-1376958480.html
+1.  Agile Development and Project Management
+http://avxhome.se/ebooks/eLearning/AgileDevelopmentandProjectManagement.html
 
-2.  Course 20480A:Programming in HTML5 with javascript and CSS3 (2012)
-http://avxhome.se/ebooks/eLearning/Coursedffdfdg20480Aghf.html
+2.  Budokon: Power and Agility Yoga (2007) 
+http://avxhome.se/ebooks/eLearning/Budokon.Power.Agility.Yoga.2007.html
 
-3.  1st JavaScript Editor Pro v5.1 
-http://avxhome.se/software/software_type/office/Text_Editors/first_java_51.html
+3.  Agile for the Real World
+http://avxhome.se/ebooks/programming_development/AgilortheRealWorld.html
 
-4.  Javascript Testing Beginner's Guide (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1849510008r.html
+4.  JIRA Agile Essentials
+http://avxhome.se/ebooks/programming_development/3605097.html
 
-5.  Lynda - JavaScript Essential Training (2011)
-http://avxhome.se/ebooks/eLearning/Lynda-JavaScript_Essential_Training_2011.html
+5.  Udemy - Adopting an Agile Approach to Project Management
+http://avxhome.se/ebooks/eLearning/naag1765.html
 
-6.  JavaScript Weekend Crash Course
-http://avxhome.se/ebooks/programming_development/java/JavaScript_Weekend_Crash_Course.html
+6.  Being Agile: Your Roadmap to Successful Adoption of Agile (repost)
+http://avxhome.se/ebooks/programming_development/2750089.html
 
-7.  Pro JavaScript Development: Coding, Capabilities, and Tooling
-http://avxhome.se/ebooks/programming_development/1430262680.html
+7.  Making Sense of Agile Project Management: Balancing Control and Agility (repost)
+http://avxhome.se/ebooks/business_job/047094336Xr.html
 
-8.  JavaScript Unit Testing
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1782160620Unit-1361952097.html
+8.  Agile Testing: A Practical Guide for Testers and Agile Teams
+http://avxhome.se/ebooks/programming_development/0321534468.html
 
-9.  Pro JavaScript with MooTools
-http://avxhome.se/ebooks/Pro_JavaScript_MooTools.html
+9.  Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise [Repost]
+http://avxhome.se/ebooks/programming_development/2015-05-31-14_201507182019.html
 
-10.  Beginning JavaScript,4 Ed
-http://avxhome.se/ebooks/programming_development/java/BeginningJavaScript4Ed.html
+10.  Agile Software Development with HP Agile Manager 
+http://avxhome.se/ebooks/programming_development/1484210352.html
 
-11.  JavaScript: The Definitive Guide
-http://avxhome.se/ebooks/programming_development/java/939555.html
+11.  Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (repost)
+http://avxhome.se/ebooks/business_job/0321637704r.html
 
-12.  Udemy - A Functional Guide : Understanding Functions in JavaScript !
-http://avxhome.se/ebooks/naag1577.html
+12.  Agile Project Management: Creating Innovative Products (repost)
+http://avxhome.se/ebooks/business_job/0321658396r.html
 
-13.  Udemy - JavaScript from Beginner to Expert
-http://avxhome.se/ebooks/eLearning/JavaScript_from_Beginner_to_Expert.html
+13.  Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise (repost)
+http://avxhome.se/ebooks/programming_development/general/web_development/0132810131_Ag.html
 
-14.  javascript - javascript for Beginners
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/javascript-javascript-for-Beginners.html
+14.  Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0132810131.html
 
-15.  HTML5 Programming with JavaScript For Dummies (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3239712.html
+15.  Agile for Project Managers
+http://avxhome.se/ebooks/business_job/1482244985.html
 
-16.  JavaScript Allongé: A long pull of functions, combinators, & decorators
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JaScripAllon.html
+16.  Agile Project Management: Creating Innovative Products (2nd Edition) (Repost)
+http://avxhome.se/ebooks/business_job/0321658396_CHM.html
 
-17.  Beginning JavaScript with DOM Scripting and Ajax (2nd Editon) (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925.html
+17.  Agile!: The Good, the Hype and the Ugly
+http://avxhome.se/ebooks/programming_development/3319051547Agile.html
 
-18.  Javascript Testing Beginner's Guide (Repost)
-http://avxhome.se/ebooks/programming_development/news_igor_3609.html
+18.  Adapting Configuration Management for Agile Teams: Balancing Sustainability and Speed [Repost]
+http://avxhome.se/ebooks/business_job/2014-01-06-30_201504121904.html
 
-19.  pluralsight - Building HTML5 and JavaScript Apps with MVVM and Knockout
-http://avxhome.se/ebooks/eLearning/pluralsight-Building_HTML5_and_JavaScript_Apps_with_MVVM_and_Knockout.html
+19.  Being Agile: Your Roadmap to Successful Adoption of Agile
+http://avxhome.se/ebooks/business_job/143025839XBeing.html
 
-20.  Easier JavaScript With TypeScript
-http://avxhome.se/ebooks/Easier_JavaScript_With_TypeScript.html
+20.  Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition
+http://avxhome.se/ebooks/business_job/0321637704.html
 
-21.  Professional javascript for Web Developers, 3rd Edition
-http://avxhome.se/ebooks/programming_development/general/web_development/1118026691-1397281861.html
+21.  Agile Project Management: Creating Innovative Products
+http://avxhome.se/ebooks/business_job/0321658396.html
 
-22.  JavaScript Goodies
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptGoodies.html
+22.  Agile All In One (2009)
+http://avxhome.se/software/Agile_All_In_One.html
 
-23.  Lynda.com - Learning JavaScript with Charles G. Hollins (repost)
-http://avxhome.se/video/learning_javascript_repost-1376267633.html
+23.  Agile Software Development Ecosystems  by Jim Highsmith
+http://avxhome.se/ebooks/0201760436sdf.html
 
-24.  Shelley Powers "Einführung in JavaScript"
-http://avxhome.se/ebooks/language/german/3897214970.html
+24.  Agile at Work: Building Your Agile Team
+http://avxhome.se/ebooks/programming_development/general/web_development/Agile.at.Work.Building.Your.Agile.Team.html
 
-25.  Learn JavaScript Fundamentals for Beginners by Examples
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Learn-JavaScript-Fundamentals-for-Beginners-by-Examples.html
+25.  Simplilearn - PMI Agile Certified Practitioner (2014)
+http://avxhome.se/ebooks/business_job/Si.P.Ag.Ce.Pra.html
 
-26.  JavaScript et le DOM par la pratique (Repost)
-http://avxhome.se/ebooks/JavaScript_et_le_DOM_par_la_pratique.html
+26.  Agility Across Time and Space: Implementing Agile Methods in Global Software Projects [Repost]
+http://avxhome.se/ebooks/programming_development/1352851.html
 
-27.  Expert JavaScript [Repost]
-http://avxhome.se/ebooks/programming_development/2014-07-05-01_201504142305.html
+27.  Individuals and Interactions: An Agile Guide (Repost)
+http://avxhome.se/ebooks/business_job/0321714091Z.html
 
-28.  Expert JavaScript (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430260971z.html
+28.  Agile Adoption Patterns: A Roadmap to Organizational Success
+http://avxhome.se/ebooks/business_job/0321514521.html
 
-29.  JavaScript Unit Testing (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1782160620_Ja.html
+29.  Making Sense of Agile Project Management: Balancing Control and Agility
+http://avxhome.se/ebooks/business_job/047094336XAgileProject.html
 
-30.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript 
-http://avxhome.se/ebooks/Effective_JavaScript.html
+30.  Individuals and Interactions: An Agile Guide
+http://avxhome.se/ebooks/business_job/0321714091.html
 
-31.  Expert JavaScript
-http://avxhome.se/ebooks/programming_development/general/web_development/1430260971.html
+31.  Scaling Software Agility: Best Practices for Large Enterprises
+http://avxhome.se/ebooks/software/Scalin_Agility.html
 
-32.  Beginning JavaScript with DOM Scripting and Ajax (2nd Editon) [Repost]
-http://avxhome.se/ebooks/programming_development/2013-09-07-47_201505032120.html
+32.  Agile Performance Improvement: The New Synergy of Agile and Human Performance Technology
+http://avxhome.se/ebooks/programming_development/1484208935.html
 
-33.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0321812182.html
+33.  The Art of Agile Development (Repost)
+http://avxhome.se/ebooks/programming_development/0596527675Develop.html
 
-34.  Pragmatic Guide to JavaScript (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1934356670r.html
+34.  The Art of Agile Development
+http://avxhome.se/ebooks/programming_development/general/web_development/0596527675_agi.html
 
-35.  Pro JavaScript Design Patterns (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Pro-JavaScript-Design-Patterns.html
+35.  Agile Contracts: Creating and Managing Successful Projects with Scrum
+http://avxhome.se/ebooks/business_job/1118630947.html
 
-36.  "JavaScript" by Don Gosselin (Repost)
-http://avxhome.se/ebooks/programming_development/java/Javascript5ed2011re12j.html
+36.   John Hunt, Agile Software Construction (Repost) 
+http://avxhome.se/ebooks/programming_development/18523394462.html
 
-37.  Lullabot - jQuery and JavaScript in Drupal [repost]
-http://avxhome.se/ebooks/Lullabot_jQuery_and_JavaScript_in_Drupal.html
+37.  The Art of Agile Development
+http://avxhome.se/ebooks/programming_development/Agile_Develop.html
 
-38.  Coding Bundle (jQuery, JavaScript, CSS) 
-http://avxhome.se/ebooks/programming_development/general/web_development/9783943075137.html
+38.  Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise
+http://avxhome.se/ebooks/software/3642927.html
 
-39.  JavaScript Bible ,7th edition
-http://avxhome.se/ebooks/JavaScript_Bible.html
+39.  Managing Agile: Strategy, Implementation, Organisation and People
+http://avxhome.se/ebooks/programming_development/Managing-Agile-Strategy-Implementation-Organisation.html
 
-40.  Drupal 6 Javascript And Jquery
-http://avxhome.se/ebooks/eLearning_book/information_technologies/1847196160-1377056882.html
+40.  Everything You Want to Know About Agile 
+http://avxhome.se/ebooks/business_job/1849283230.html
 
-41.  JavaScript Bible, Gold Edition (repost)
-http://avxhome.se/ebooks/JavaScript_Bible_Gold_Edition_ebook.html
+41.  Agile Service Development: Combining Adaptive Methods and Flexible Solutions
+http://avxhome.se/ebooks/programming_development/3642281877Agile.html
 
-42.  Douglas Crockford Javascript Videos
-http://avxhome.se/video/douglas-crockford-javascript-videos.html
+42.  Management 3.0: Leading Agile Developers, Developing Agile Leaders (repost)
+http://avxhome.se/ebooks/business_job/0321712471r.html
 
-43.  Pro JavaScript Design Patterns
-http://avxhome.se/ebooks/programming_development/java/159059908x.html
+43.  Cbt Nuggets - PMI Agile Project Management Institute (PMI) Agile Certified Practitioner (PMI-ACP)
+http://avxhome.se/ebooks/eLearning/Cbt_Nuggets_PMI_Agile_Project_Management_Institute_Agile_Certified_Practitioner.html
 
-44.  JavaScript Bible, Gold Edition
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/shfd7450_post_29.html
+44.  Jenny Damm - Agility Series - Handling Foundation (2011)
+http://avxhome.se/ebooks/Jenny_Damm_Agility_Series_Handling_Foundation.html
 
-45.  The Art & Science of JavaScript
-http://avxhome.se/ebooks/programming_development/Art_JavaScript.html
+45.  Agility Across Time and Space: Implementing Agile Methods in Global Software Projects (repost)
+http://avxhome.se/ebooks/programming_development/3642124410Agility.html
 
-46.  Javascript for breakfast
-http://avxhome.se/ebooks/programming_development/java/tom_Dell_Aringa_javascript_for_breakfast.html
+46.  Agility Across Time and Space: Implementing Agile Methods in Global Software Projects
+http://avxhome.se/ebooks/programming_development/3642124410_Agility.html
 
-47.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0321812182JavaSc.html
+47.  Agile Principles, Patterns, and Practices in C# - Reup
+http://avxhome.se/ebooks/0131857258-1389353125.html
 
-48.  Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
-http://avxhome.se/ebooks/programming_development/2013-05-26-21_201505020059.html
+48.  Agile Experience Design: A Digital Designer's Guide to Agile, Lean, and Continuous (repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/3272759.html
 
-49.  AppDev JavaScript 1.8
-http://avxhome.se/ebooks/eLearning/AppDevJavaScript1.8.html
+49.  Adaptive Leadership: Accelerating Enterprise Agility (Repost)
+http://avxhome.se/ebooks/business_job/B00GFSAOKC.html
 
-50.  Pluralsight - Testing Clientside JavaScript
-http://avxhome.se/ebooks/programming_development/PluralsightTestingClientsideJavaScript.html
+50.  The Software Project Manager's Bridge to Agility [Repost]
+http://avxhome.se/ebooks/business_job/2014-05-05-08_201504151722.html
 
-51.  Beginning JavaScript with DOM Scripting and Ajax: Second Editon (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925s.html
+51.  Adaptive Leadership: Accelerating Enterprise Agility
+http://avxhome.se/ebooks/business_job/0133598446.html
 
-52.  Custom SharePoint Solutions with HTML and JavaScript: For SharePoint 2013 and SharePoint Online
-http://avxhome.se/ebooks/programming_development/1484205456.html
+52.  Becoming Agile: ...in an imperfect world 
+http://avxhome.se/ebooks/programming_development/1933988258.html
 
-53.  JavaScript Promises Essentials by Rami Sarieddine
-http://avxhome.se/ebooks/programming_development/java/3428385.html
+53.  Agile Software Construction (repost)
+http://avxhome.se/ebooks/programming_development/AgileSoftwareConstruction.html
 
-54.  Javascript for Beginners - Introduction - Learn Fast & Easy
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Javascript-for-Beginners-Introduction-Learn-Fast--Easy.html
+54.  The Software Project Manager's Bridge to Agility
+http://avxhome.se/ebooks/software/Softwar_Bridg_Agility.html
 
-55.  Beginning JavaScript
-http://avxhome.se/ebooks/programming_development/java/3349046.html
+55.  Visual Studio Team System: Better Development for Agile Teams
+http://avxhome.se/ebooks/programming_development/0321418506.html
 
-56.  JavaScript Cookbook (2nd edition)
-http://avxhome.se/ebooks/programming_development/1491901888JavaSc.html
+56.  Agile Software Construction
+http://avxhome.se/ebooks/agile_soft_cons.html
 
-57.  JavaScript Cookbook (2nd edition)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1491901888.html
+57.  Growing Agile: A Coach's Guide to Agile Testing (Growing Agile: A Coach's Guide Series Book 2)
+http://avxhome.se/ebooks/programming_development/3281184.html
 
-58.  Professional JavaScript for Web Developers 3rd Edition [Repost]
-http://avxhome.se/ebooks/programming_development/java/ISBN-1118026691.html
+58.  Agile Software Development: Best Practices for Large Software Development Projects [Repost]
+http://avxhome.se/ebooks/programming_development/3069912.html
 
-59.  JavaScript: Die universelle Sprache zur Web-Programmierung 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3446439420.html
+59.  Agile Management: Leadership in an Agile Environment [Repost]
+http://avxhome.se/ebooks/business_job/2014-04-11-53_201504151241.html
 
-60.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
-http://avxhome.se/ebooks/JavaV_Script.html
+60.  Agile Management: Leadership in an Agile Environment (Repost)
+http://avxhome.se/ebooks/business_job/3642289088Agi.html
 
-61.  DOM Scripting: Web Design with JavaScript and the Document Object Model
-http://avxhome.se/ebooks/Web_Design.html
+61.  Agile in a Flash: Speed-Learning Agile Software Development (Repost)
+http://avxhome.se/ebooks/programming_development/1934356719Agile_in_a_Fl.html
 
-62.  Understanding Advanced JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/B00BFWI6CGJavaScript.html
+62.  Agile Management: Leadership in an Agile Environment
+http://avxhome.se/ebooks/business_job/3642289088Agile.html
 
-63.  Javascript for Beginners
-http://avxhome.se/ebooks/M_JSFB.html
+63.  Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum (repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0321480961r.html
 
-64.  Beginning JavaScript with DOM Scripting and Ajax: Second Editon
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925_JavaSc.html
+64.  Agile in a Flash: Speed-Learning Agile Software Development (Repost)
+http://avxhome.se/ebooks/programming_development/1934356719Agile_in_a_Flas.html
 
-65.  JavaScript Programmer's Reference
-http://avxhome.se/ebooks/JavaScript_Programmers_Reference.html
+65.  Agile Productivity Unleashed: Proven approaches for achieving real productivity gains in any organization
+http://avxhome.se/ebooks/business_job/1849280711AgileProductivity.html
 
-66.  JavaScript. Подробное руководство (6-е издание)
-http://avxhome.se/ebooks/programming_development/news_igor_3386.html
+66.  Agile in a Flash: Speed-Learning Agile Software Development
+http://avxhome.se/ebooks/programming_development/1934356719.html
 
-67.  pluralsight - JavaScript for C# Developers (2012)
-http://avxhome.se/ebooks/eLearning/pluralsight-JavaScript_for_C_Developers_2012.html
+67.  Agile Software Development Evaluating the Methods for Your Organization (Repost)
+http://avxhome.se/ebooks/programming_development/1580538428.html
 
-68.  Professional JavaScript for Web Developers, 3rd edition (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118026691_Ja-1397281861.html
+68.  The Agile Samurai: How Agile Masters Deliver Great Software
+http://avxhome.se/ebooks/software/1934356581AgileSamurai.html
 
-69.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0321832744JavaScr.html
+69.  Portable Agiles Joiners AIO
+http://avxhome.se/software/aio_all_in_one/Agiles-Joiners.html
 
-70.  Drupal 6 JavaScript and jQuery (repost)
-http://avxhome.se/ebooks/programming_development/general/web_development/1847196160r-1377056882.html
+70.  Agile Management for Software Engineering  by David J. Anderson
+http://avxhome.se/ebooks/0131424602sdf.html
 
-71.  JavaScript Fundamentals [repost]
-http://avxhome.se/ebooks/programming_development/JavaScript_Fundamentals.html
+71.  Agile Metrics in Action: How to measure and improve team performance
+http://avxhome.se/ebooks/programming_development/3659823.html
 
-72.   Advanced Javascript (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/155622852X654.html
+72.  Pluralsight - Agile Fundamentals (2015)
+http://avxhome.se/ebooks/programming_development/PluralsightAgileFundamentals2015.html
 
-73.  Pragmatic Guide to JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1934356670.html
+73.  The Art of Agile Practice: A Composite Approach for Projects and Organizations
+http://avxhome.se/ebooks/business_job/1439851182.html
 
-74.  Advanced Javascript (Repost)   
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/155622852X5.html
+74.  Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale... (repost)
+http://avxhome.se/ebooks/programming_development/0321636406.html
 
-75.  Learn JavaScript  (Repost)   
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1556228562.html
+75.  Pluralsight - Agile Estimation
+http://avxhome.se/ebooks/eLearning/Pluralsight-Agile_Estimation.html
 
-76.  David Flanagan "JavaScript: Das umfassende Referenzwerk"
-http://avxhome.se/ebooks/language/german/3897214911.html
+76.  Agile Estimating and Planning
+http://avxhome.se/ebooks/programming_development/0131479415.html
 
-77.  javascript bible 5th edition
-http://avxhome.se/ebooks/programming_development/java/javascript_bible_5th_edition.html
+77.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing (repost)
+http://avxhome.se/ebooks/business_job/032150481xre.html
 
-78.  Practical JavaScript, DOM Scripting and Ajax Projects
-http://avxhome.se/ebooks/programming_development/java/1590598164.html
+78.  Pro Agile .NET Development with SCRUM
+http://avxhome.se/ebooks/programming_development/dotnet/1430235330r.html
 
-79.  JavaScript: The Definitive Guide
-http://avxhome.se/ebooks/0596000480.html
+79.  Agile Principles, Patterns, and Practices in C#
+http://avxhome.se/ebooks/programming_development/2012-09-29-62-0131857258_201504061803.html
 
-80.  JavaScript Application Cookbook - O'Reilly
-http://avxhome.se/ebooks/javascript_application_cookbook_1565925777.html
+80.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing (repost)
+http://avxhome.se/ebooks/business_job/032150481xr.html
 
-81.  Video2Brain - Introducing the JavaScript Language [repost]
-http://avxhome.se/ebooks/Intro-the-javascript-language.html
+81.  Succeeding with Agile: Software Development Using Scrum (repost)
+http://avxhome.se/ebooks/programming_development/0321579364r.html
 
-82.  JavaScript: JavaScript in 8 Hours, For Beginners, Learn JavaScript fast!
-http://avxhome.se/ebooks/Mobile_eBooks_Readers/ipad_iphone_epub/B00WH0ESWC.html
+82.  Management 3.0: Leading Agile Developers, Developing Agile Leaders (Repost)
+http://avxhome.se/ebooks/business_job/0321712471_Agile_Dev.html
 
-83.  JavaScript Security
-http://avxhome.se/ebooks/programming_development/1783988002.html
+83.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing (repost)
+http://avxhome.se/ebooks/business_job/032150481x.html
 
-84.  JavaScript Essentials (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/B006P1BL9MJavaScr.html
+84.  Management 3.0: Leading Agile Developers, Developing Agile Leaders
+http://avxhome.se/ebooks/business_job/0321712471Management.html
 
-85.  Professional JavaScript for Web Developers, 3rd Edition (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118026691_ja-1397281861.html
+85.  Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum (repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0321480961Lean.html
 
-86.  JavaScript Essentials
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/B006P1BL9MEssentials.html
+86.  Integrating CMMI and Agile Development: Case Studies by Paul E. McMahon (Repost)
+http://avxhome.se/ebooks/Integrating_CMMI_and_Agile_Development_PEMcMahon.html
 
-87.  Pluralsight - Developing SharePoint 2013 Solutions with JavaScript (COMPLETE)
-http://avxhome.se/ebooks/eLearning/Pluralsight_Developing_SharePoint_2013_Solutions_with_JavaScript.html
+87.  Management 3.0: Leading Agile Developers, Developing Agile Leaders
+http://avxhome.se/ebooks/business_job/0321712471.html
 
-88.  JavaScript for Web Designers
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/javascript_web_designers.html
+88.  User-Centered Agile Methods
+http://avxhome.se/ebooks/programming_development/1608453723AgileMethods.html
 
-89.  JavaScript: The Definitive Guide, 6th edition (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596805527Z.html
+89.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement
+http://avxhome.se/ebooks/programming_development/0321714105IntegratingCMMI.html
 
-90.  Danny Goodman,  JavaScript Bible, Gold Edition (Repost) 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/07645471863.html
+90.  Agilent Genesys v2009.04
+http://avxhome.se/software/software_type/graphics_cad_cam/AgilentGenesysv2009.04.html
 
-91.  Beginning JavaScript and CSS Development with jQuery (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Beginning-JavaScript-and-CSS-Development-with-jQuery.html
+91.  Lynda - Agile Project Management with Microsoft Project
+http://avxhome.se/ebooks/eLearning/lc-agile_prj_manage_ms_project.html
 
-92.  JavaScript: The Definitive Guide, 6th edition (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScript-The-Definitive-Guide-6th-edition.html
+92.  Agile Software Construction by John Hunt [Repost]
+http://avxhome.se/ebooks/programming_development/927319.html
 
-93.  JavaScript: The Definitive Guide, 6th edition  (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596805527_JavaScri.html
+93.  Agilent 89600 VSA Software, version 12.02
+http://avxhome.se/software/Agilent_89600_VSA_Software_version_12_02.html
 
-94.  TekPub - Javascript: Up To Speed
-http://avxhome.se/ebooks/programming_development/TekPubJavascriptUpToSpeed.html
+94.  LiveLessons - Coaching Agile Teams
+http://avxhome.se/ebooks/eLearning/LiveLessons_-_Coaching_Agile_Teams.html
 
-95.  Beginning JavaScript and CSS Development with jQuery (Repost)
-http://avxhome.se/ebooks/programming_development/general/web_development/0470227796_beginning_javascript.html
+95.  Agile Database Techniques: Effective Strategies for the Agile Software Developer
+http://avxhome.se/ebooks/software/rgr4tyhgnfaergeath.html
 
-96.  JavaScript: The Definitive Guide
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596805527.html
+96.  Agile Portfolio Management
+http://avxhome.se/ebooks/economics_finances/Agile_PortfolioManagement.html
 
-97.  JavaScript Demystified (Repost) 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/007226134X-1292457062.html
+97.  Agile and Iterative Development: A Manager's Guide by  Craig Larman
+http://avxhome.se/ebooks/0131111558asd.html
 
-98.  Pro JavaScript Techniques (Pro) by  John Resig
-http://avxhome.se/ebooks/1590597273asd.html
+98.  User Stories for Agile Team, Product Owner+Business Analyst
+http://avxhome.se/ebooks/eLearning/UserStoriesAgile.html
 
-99.  JavaScript Programming for the Absolute Beginner by  Andy Harris
-http://avxhome.se/ebooks/0761534105asd.html
+99.  Agile Project Management with GreenHopper 6 Blueprints (Repost)
+http://avxhome.se/ebooks/programming_development/z1849699739.html
 
-100.  JavaScript Programming for the Absolute Beginner - Premier Press
-http://avxhome.se/ebooks/javascript_programming_for_the_absolute_beginner-1289402846.html
+100.  Lynda - Agile at Work: Planning with Agile User Stories
+http://avxhome.se/ebooks/eLearning/lc-agile_wrk-plan_agl_usr_strs.html
 
-101.  Reliable JavaScript: How to Code Safely in the World's Most Dangerous Language
-http://avxhome.se/ebooks/programming_development/java/3567857.html
+101.  Agile Project Management with GreenHopper 6 Blueprints (Repost)
+http://avxhome.se/ebooks/programming_development/1849699739z.html
 
-102.  Udemy - JavaScript Intro to learning JavaScript
-http://avxhome.se/ebooks/naag1410.html
+102.  Agile Software Development Evaluating the Methods for Your Organization (Repost)
+http://avxhome.se/ebooks/programming_development/1580538428X.html
 
-103.  JavaScript and jQuery for Data Analysis and Visualization
-http://avxhome.se/ebooks/programming_development/java/3503035.html
+103.  Der agile Festpreis: Leitfaden für wirklich erfolgreiche IT-Projekt-Verträge (repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/3446432264.html
 
-104.  Udacity: JavaScript Basics - The Programming Language of the Web
-http://avxhome.se/ebooks/the-programing-language-ofthe-web.html
+104.  Systemic Flexibility and Business Agility 
+http://avxhome.se/ebooks/business_job/8132221508.html
 
-105.  Dexter Salazar - JavaScript: The Quick and Easy Guide to Learning JavaScript Programming
-http://avxhome.se/ebooks/JAVASCRIPT_THE_QUICK_AND_EASY_GUIDE_TO_LEARNING_JAVASCRIPT_PROGRAMMING.html
+105.  Growing Agile: A Coach's Guide to Release Planning (Growing Agile: A Coach's Guide Series Book 4)
+http://avxhome.se/ebooks/programming_development/3281194.html
 
-106.  Pro JavaScript with MooTools (Expert's Voice in Web Development) by Mark Obcen [Repost]
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1636099.html
+106.  Learning Agile: Understanding Scrum, XP, Lean, and Kanban
+http://avxhome.se/ebooks/programming_development/1449331920.html
 
-107.  JavaScript Road Trip: Part 1,2,3
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Ja.Scr.Ro.Tr.html
+107.  Agilent Genesys 2014.03
+http://avxhome.se/software/Agilent_Genesys_2014_03.html
 
-108.  JavaScript Spessore (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Spessore.html
+108.  The Agility Advantage: How to Identify and Act on Opportunities in a Fast-Changing World
+http://avxhome.se/ebooks/1118836383.html
 
-109.  Tutsplus - JavaScript for PHP Developers (2014)
-http://avxhome.se/ebooks/javascript-for-php-developers.html
+109.  Agile Risk Management [Repost]
+http://avxhome.se/ebooks/business_job/2014-06-20-33_201504151435.html
 
-110.  JavaScript effektiv: 68 Dinge, die ein guter JavaScript-Entwickler wissen sollte
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3864901278jav.html
+110.  Agility Course Designer 2.1
+http://avxhome.se/software/software_type/others/Agility.Course.Designer.2.1.html
 
-111.  JavaScript Spessore
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/SpessoreJavaSc.html
+111.  Der agile Festpreis: Leitfaden für wirklich erfolgreiche IT-Projekt-Verträge (Repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/3446432264agile.html
 
-112.  HTML5 and JavaScript Projects (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/14302403261.html
+112.  Agile Risk Management 
+http://avxhome.se/ebooks/business_job/3319050079.html
 
-113.  JavaScript - kurz & gut (Repost)
-http://avxhome.se/ebooks/programming_development/news_igor_4247.html
+113.  Agile Project Management with GreenHopper 6 Blueprints 
+http://avxhome.se/ebooks/eLearning_book/information_technologies/1849699739.html
 
-114.  Video2Brain - Introducing the JavaScript Language [repost]
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/Video2BrainIntroducingtheJavaScriptLanguagerepost.html
+114.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing By Ken W. Collier
+http://avxhome.se/ebooks/business_job/032150481Xre.html
 
-115.  InfiniteSkills -  Learning JavaScript Programming Training Video
-http://avxhome.se/ebooks/eLearning/InfiniteSkills_Learning_JavaScript_Programming_Training_Video.html
+115.  User-Centered Agile Method
+http://avxhome.se/ebooks/engeneering_technology/1848214537Agile.html
 
-116.  InfiniteSkills -  JavaScript HTML5 API Programming Training Video (Re-Uploaded)
-http://avxhome.se/ebooks/eLearning/InfiniteSkills_JavaScript_HTML5_API_Programming_Training_Video.html
+116.  Der agile Festpreis: Leitfaden für wirklich erfolgreiche IT-Projekt-Verträge
+http://avxhome.se/ebooks/eLearning_book/information_technologies/3446432264_fes.html
 
-117.  JavaScript for Absolute Beginners (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430272198r.html
+117.  Agile Experience Design: A Digital Designer's Guide to Agile, Lean, and Continuous (Repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/agile_experience_design.html
 
-118.  Plug-In JavaScript 100 Power Solutions (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0071738614r.html
+118.  Practices for Scaling Lean & Agile Development (repost)
+http://avxhome.se/ebooks/0321636406_1.html
 
-119.  Test-Driven JavaScript Development (Developer's Library) (repost)
-http://avxhome.se/ebooks/0321683919_.html
+119.  Agile Product Management with Scrum: Creating Products that Customers Love (repost)
+http://avxhome.se/ebooks/business_job/0321605780r.html
 
-120.  Lynda.com - JavaScript Essential Training (2011)
-http://avxhome.se/ebooks/eLearning/lynda_com-javascript_essential_training-2011-1373936111.html
+120.  Pro Agile .NET Development with SCRUM (Repost)
+http://avxhome.se/ebooks/programming_development/dotnet/1430235330X.html
 
-121.  JavaScript & AJAX: Das umfassende Handbuch (PDF format)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3836211289_3898428591JavaScript.html
+121.  Agile Experience Design: A Digital Designer's Guide to Agile, Lean, and Continuous
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0321804813.html
 
-122.  Making Use of JavaScript (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/MakingUseJavaScript.html
+122.  Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development (repost)
+http://avxhome.se/ebooks/programming_development/0321636406leanAgile.html
 
-123.  Making Use of JavaScript (Repost)
-http://avxhome.se/ebooks/programming_development/making_use_JavaScript.html
+123.  Pro Agile .NET Development with SCRUM
+http://avxhome.se/ebooks/programming_development/dotnet/1430235330.html
 
-124.  JavaScript - Browserübergreifende Lösungen
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptBrowser.html
+124.  Agile Excellence for Product Managers: A Guide to Creating Winning Products with Agile Development Teams (repost)
+http://avxhome.se/ebooks/business_job/160773074XAgile.html
 
-125.  JavaScript und Ajax
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScript_Ajax.html
+125.  Agile SWF Video Converter v2.8.5 WinAll
+http://avxhome.se/software/Agile_SWF_Video_Converter_v2.8.5_WinAll.html
 
-126.  Udemy - JavaScript Programming: Learn by Making a Mobile Game
-http://avxhome.se/ebooks/naag1601.html
+126.  Agile WMV Video Joiner 1.7.2
+http://avxhome.se/software/software_type/multimedia/Agile_WMV_Video_Joiner_1_7_2.html
 
-127.  JavaScript Application Design: A Build First Approach
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1617291951.html
+127.  Agile AVI Video Splitter 2.1
+http://avxhome.se/software/software_type/multimedia/Video_Editing/agile_avi_video_splitter_2_1.html
 
-128.  Simply JavaScript (Repost)
-http://avxhome.se/ebooks/programming_development/java/0980285801_PDF.html
+128.  (Thriller) Les Disparus de St. Agil [DVDrip] 1938 
+http://avxhome.se/n/171365
 
-129.  Pro Typescript: Application-Scale JavaScript Development
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430267917Typescript.html
+129.  Agile Projekte mit Scrum, XP und Kanban: Erfahrungsberichte aus der Praxis
+http://avxhome.se/ebooks/software/35864653586465.html
 
-130.  Third-Party JavaScript (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1617290548Java.html
+130.  Training for Sports Speed and Agility: An Evidence-Based Approach
+http://avxhome.se/ebooks/sports/0415591252.html
 
-131.  JavaScript Bible by Brendan Eich [Repost]
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/178251.html
+131.  The Agile Organization: How to Build an Innovative, Sustainable and Resilient Business
+http://avxhome.se/ebooks/business_job/3526645.html
 
-132.  Beginning JavaScript with DOM Scripting and Ajax, Second Editon (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430250925ja.html
+132.  Agile Readiness
+http://avxhome.se/ebooks/business_job/1472417437.html
 
-133.  Das Beste an JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3897218763_ja.html
+133.  Agile Project Management For Dummies
+http://avxhome.se/ebooks/1118026241.html
 
-134.  Drupal 6 JavaScript and jQuery
-http://avxhome.se/ebooks/programming_development/general/web_development/1847196160.html
+134.  The Project Manager's Guide to Mastering Agile: Principles and Practices for an Adaptive Approach
+http://avxhome.se/ebooks/1118991044.html
 
-135.  JavaScript by Example (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0137054890Z-1381454297.html
+135.  Agile Foundations: Principles, Practices and Frameworks
+http://avxhome.se/ebooks/business_job/3360976.html
 
-136.   Steven W. Disbrow, JavaScript Weekend Crash Course  (Repost) 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/07645480423.html
+136.  Growing Agile: A Coach's Guide to Agile Requirements (Growing Agile: A Coach's Guide Series Book 3)
+http://avxhome.se/ebooks/programming_development/3281182.html
 
-137.  Third-Party JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1617290548JavaSc.html
+137.  A Tale of Two Transformations: Bringing Lean and Agile Software Development to Life (repost)
+http://avxhome.se/ebooks/programming_development/3078339.html
 
-138.  HTML5 and JavaScript Projects [Repost]
-http://avxhome.se/ebooks/programming_development/2013-02-07-19-1430240326_201504301404.html
+138.  Agile Innovation: The Revolutionary Approach to Accelerate Success, Inspire Engagement, and Ignite Creativity
+http://avxhome.se/ebooks/business_job/1118954203.html
 
-139.  JavaScript: The Missing Manual (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596515898re.html
+139.  Agile Development with ICONIX Process: People, Process, and Pragmatism [Repost]
+http://avxhome.se/ebooks/programming_development/ISBN-1590594649.html
 
-140.   Paul Hatcher, "JavaScript Professional Projects" (Repost) 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/15920001344.html
+140.  User-Centered Agile Method (repost)
+http://avxhome.se/ebooks/engeneering_technology/communication/1848214537agi.html
 
-141.  Tutsplus - Advanced JavaScript Fundamentals (2012)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/TutsplusAdvancedJavaScriptFundamentals2012.html
+141.  Agile Testing: A Practical Guide for Testers and Agile Teams (repost)
+http://avxhome.se/ebooks/programming_development/0321534468re.html
 
-142.  JavaScript: The Missing Manual (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596515898r.html
+142.  Agile Project Management (Updated Jan 29, 2014)
+http://avxhome.se/ebooks/eLearning/lc-agile_pm.html
 
-143.  JavaScript: The Good Parts (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596517742_JavaScr.html
+143.  Agile Oracle Application Express [Repost]
+http://avxhome.se/ebooks/programming_development/2012-12-20-33-1430237597_201505010624.html
 
-144.  JavaScript by Example, Second Edition (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0137054890_JavaScr.html
+144.  Essential Skills for the Agile Developer: A Guide to Better Programming and Design [Repost]
+http://avxhome.se/ebooks/programming_development/2012-12-14-80-0321543734_201505011505.html
 
-145.  Javascript Packer 2.0.7
-http://avxhome.se/software/software_type/development/Others/JavascriptPacker207.html
+145.  Agile Oracle Application Express (Repost)
+http://avxhome.se/ebooks/programming_development/1430237597Oracl.html
 
-146.  Danny Goodman, "JavaScript Bible"(Repost) 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/07645574326.html
+146.  Enterprise-Scale Agile Software Development (repost)
+http://avxhome.se/ebooks/programming_development/1439803218r-1370806874.html
 
-147.  Javascript Packer v2.0.6 Mac OS X
-http://avxhome.se/software/software_type/development/Web_Related/Javascript.Packer.v2.0.6.MacOSX.html
+147.  Essential Skills for the Agile Developer: A Guide to Better Programming and Design
+http://avxhome.se/ebooks/programming_development/0321543734_AgileDev.html
 
-148.  HTML5 and JavaScript Projects
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430240326.html
+148.  Agile Oracle Application Express
+http://avxhome.se/ebooks/programming_development/1430237597.html
 
-149.  Drupal 6 JavaScript and jQuery (repost)
-http://avxhome.se/ebooks/programming_development/1847196160Drupal-1377056882.html
+149.  Agile MOV Video Converter v3.3.5 WinAll
+http://avxhome.se/software/Agile_MOV_Video_Converter_v3.3.5_WinAll.html
 
-150.  JavaScript: The Good Parts (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596517742Z.html
+150.  Agile AVI Video Converter v2.1.6 WinAll
+http://avxhome.se/software/Agile_AVI_Video_Converter_v2.1.6_WinAll.html
 
-151.  Advanced JavaScript (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/4565437.html
+151.  Agile PSP Video Converter 1.8.5 WinAll
+http://avxhome.se/software/Agile_PSP_Video_Converter_1.8.5_WinAll.html
 
-152.  Advanced JavaScript
-http://avxhome.se/ebooks/AdvancedJavaScript.html
+152.  Agile Zune Video Converter v3.0.3 WinAll
+http://avxhome.se/software/Agile_Zune_Video_Converter_v3.0.3_WinAll.html
 
-153.  Mootools Essentials - The Official Reference for Javascript and Ajax Development.
-http://avxhome.se/ebooks/Mootools_Essentials_by_Aaron_Newton.html
+153.  Agile Coaching
+http://avxhome.se/ebooks/business_job/1934356433.html
 
-154.  JavaScript: The Good Parts
-http://avxhome.se/ebooks/programming_development/0596517742.html
+154.  Having Fun With Agility (Repost) 
+http://avxhome.se/ebooks/personality/07645729895.html
 
-155.  Professional JavaScript for Web Developers (Wrox Programmer to Programmer)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptWeb.html
+155.  Accelerating Process Improvement Using Agile Techniques 2005-12  { Repost }
+http://avxhome.se/ebooks/business_job/vij7548.html
 
-156.  Beginning JavaScript with DOM Scripting and Ajax
-http://avxhome.se/ebooks/programming_development/java/shfd7450_post_60.html
+156.  Agile iPhone Video Converter 2.7.3
+http://avxhome.se/software/software_type/multimedia/Converters/Agile_iPhone_Video_Converter_2_7_3.html
 
-157.  Jetzt lerne ich Javascript. Webprogrammierung mit JavaScript, (X)HTML, CSS und Co.
-http://avxhome.se/ebooks/eLearning_book/information_technologies/3827269849.html
+157.  Agile AVI Video Splitter 1.9 
+http://avxhome.se/software/software_type/multimedia/Video_Editing/agile_avi_video_splitter_1_9.html
 
-158.  The Book of JavaScript: A Practical Guide to Interactive Web Pages
-http://avxhome.se/ebooks/1886411360.html
+158.  Beyond Requirements: Analysis with an Agile Mindset
+http://avxhome.se/ebooks/programming_development/3680749.html
 
-159.  JavaScript Professional Projects (Professional Projects)
-http://avxhome.se/ebooks/1592000134_javascript-1323754722.html
+159.  The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques (Repost)
+http://avxhome.se/ebooks/business_job/11937785718.html
 
-160.  JavaScript Essentials - LiveLessons
-http://avxhome.se/ebooks/eLearning/javascript-essentials-livelessons.html
+160.  User Stories for Agile Scrum+Product Owner+Business Analysis
+http://avxhome.se/ebooks/business_job/UserStoriesAgileScrum.html
 
-161.  Beginning JavaScript, 5th Edition
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118903331.html
+161.  Agilent SystemVue 2015.01
+http://avxhome.se/software/Agilent_System_Vue_2015_01.html
 
-162.  Learnable - HTML5 and javascript in Motion
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/HTML5-and-javascript-in-Motion.html
+162.  Agile Processes in Software Engineering and Extreme Programming [Repost]
+http://avxhome.se/ebooks/business_job/2015-05-15-05_201508240058.html
 
-163.  Advanced Javascript by Chuck Easttom
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1689733.html
+163.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement (Repost)
+http://avxhome.se/ebooks/programming_development/0321714105z.html
 
-164.  JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and Html5
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430259442JavaScriptCre.html
+164.  The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques (Repost)
+http://avxhome.se/ebooks/business_job/1937785718z.html
 
-165.  Beginning JavaScript (4th edition) [Repost]
-http://avxhome.se/ebooks/programming_development/2014-06-15-08_201504151445.html
+165.  Agile Testing: How to Succeed in an Extreme Testing Environment (Repost)
+http://avxhome.se/ebooks/programming_development/0521726875z.html
 
-166.  HTML5 Programming with JavaScript For Dummies (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118431669z-1397096857.html
+166.  Agile ALM: Lightweight tools and Agile strategies by Michael Hüttermann [Repost]
+http://avxhome.se/ebooks/programming_development/java/2314018.html
 
-167.  JavaScript Essential Training (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/javascript_essential_training_repost.html
+167.  Agile in a Flash: Speed-Learning Agile Software Development (repost)
+http://avxhome.se/ebooks/programming_development/1934356719re.html
 
-168.  Plug-In JavaScript 100 Power Solutions (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0071738614-1392664154.html
+168.  Management 3.0: Leading Agile Developers, Developing Agile Leaders (repost)
+http://avxhome.se/ebooks/business_job/0321712471_re.html
 
-169.  HTML5 Programming with JavaScript For Dummies
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1118431669-1396258250.html
+169.  Agile Anywhere: Essays on Agile Projects and Beyond
+http://avxhome.se/ebooks/programming_development/3319101560.html
 
-170.  High Performance JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/059680279X-high-perfomance-javascript.html
+170.  Having Fun With Agility (Howell Dog Book of Distinction) by Margaret H. Bonham [Repost]
+http://avxhome.se/ebooks/eLearning_book/hobbies_Leisure_time_guides/949794.html
 
-171.  TutsPlus - JavaScript Fundamentals 101
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScriptFundamentals101.html
+171.  Agilent SystemVue 2013.08 SP1
+http://avxhome.se/software/Agilent_SystemVue_2013_08_SP1.html
 
-172.  High Performance JavaScript (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/High-Performance-JavaScript.html
+172.  Agile Innovation: The Revolutionary Approach to Accelerate Success, Inspire Engagement, and Ignite Creativity
+http://avxhome.se/ebooks/Agile_Innovation_Revolutionary_Approach_Accelerate_Success.html
 
-173.  JavaScript by Example, 2nd Edition (Repost)
-http://avxhome.se/ebooks/JavaScript_Example_2_Edition.html
+173.  ]Agile Processes in Software Engineering and Extreme Programming (repost)
+http://avxhome.se/ebooks/programming_development/3119402.html
 
-174.  JavaScript for Absolute Beginners (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1430272198repost.html
+174.  Agile Software Engineering [Repost]
+http://avxhome.se/ebooks/programming_development/2014-09-21-59_201504182128.html
 
-175.  JavaScript Patterns (repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/JavaScript-Patterns.html
+175.  The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques 
+http://avxhome.se/ebooks/business_job/1937785718.html
 
-176.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript
-http://avxhome.se/ebooks/Learning_JavaScript_-_A_Hands-On_Guide_to_the_Fundamentals_of_Modern_JavaScript.html
+176.  Agile Software Engineering [Repost]
+http://avxhome.se/ebooks/programming_development/2013-12-08-59.html
 
-177.  Async JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/1937785270JavaSc.html
+177.  Lynda - Agile Project Management with Bob McGannon
+http://avxhome.se/ebooks/eLearning/Lynda_Agile_Project_Management_with_Bob_McGannon.html
 
-178.  Simply JavaScript (repost)
-http://avxhome.se/ebooks/programming_development/java/0980285801r.html
+178.  Succeeding with Agile: Software Development Using Scrum (Repost)
+http://avxhome.se/ebooks/programming_development/0321579364z.html
 
-179.  Дэвид Флэнаган - JavaScript. Подробное руководство
-http://avxhome.se/ebooks/programming_development/java/news_igor_2669.html
+179.  Agile Testing: How to Succeed in an Extreme Testing Environment (Repost)
+http://avxhome.se/ebooks/programming_development/0521726875.html
 
-180.  Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript (Repost)
-http://avxhome.se/ebooks/programming_development/news_igor_1844.html
+180.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement (Repost)
+http://avxhome.se/ebooks/programming_development/0321714105Z.html
 
-181.  JavaScript and Ajax for the Web, Sixth Edition (repost)
-http://avxhome.se/ebooks/0321430328_.html
+181.  Dog Tricks and Agility For Dummies (repost)
+http://avxhome.se/ebooks/animals/0470539593_Do.html
 
-182.  Lynda.com - Practical and Effective javascript (repost)
-http://avxhome.se/ebooks/eLearning_book/Practical_and_Effective_javascript-1373936124.html
+182.  Agile and Iterative Development: A Manager's Guide (Repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0131111558z.html
 
-183.  JavaScript: Curso integral
-http://avxhome.se/ebooks/eLearning_book/information_technologies/javascript-curso-integral.html
+183.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement [Repost]
+http://avxhome.se/ebooks/eLearning_book/information_technologies/2013-04-21-50_201504301310.html
 
-184.  JavaScript for Programmers
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0137001312.html
+184.  Agile Processes in Software Engineering and Extreme Programming: 13th International Conference, XP 2012
+http://avxhome.se/ebooks/eLearning_book/information_technologies/3642303498egeg.html
 
-185.  JavaScript Patterns
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/0596806752.html
+185.  Dog Tricks and Agility For Dummies
+http://avxhome.se/ebooks/animals/0470539593DogTricks.html
 
-186.  High Performance JavaScript
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/059680279X.html
+186.  Agilent Technologies EMPro 2011.07
+http://avxhome.se/software/Agilent_Technologies_EMPro_201107.html
 
-187.  Antechinus JavaScript Editor 10.0.2
-http://avxhome.se/software/software_type/development/Web_Related/antechinus_javascript_editor_10_0_2.html
+187.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing
+http://avxhome.se/ebooks/business_job/032150481X.html
 
-188.  JavaScript Design
-http://avxhome.se/ebooks/javascript_design.html
+188.  Agile and Iterative Development: A Manager's Guide (Repost)
+http://avxhome.se/ebooks/programming_development/0131111558Z.html
 
-189.  1st JavaScript Editor Pro v3.48
-http://avxhome.se/software/javascripteditorpro3.html
+189.  Dog Tricks and Agility For Dummies
+http://avxhome.se/ebooks/animals/0470539593Dog.html
 
-190.  jQuery, JavaScript, and HTML5
-http://avxhome.se/ebooks/programming_development/java/3528557.html
+190.  Agile Testing: How to Succeed in an Extreme Testing Environment
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0521191815.html
 
-191.  Packtpub - JavaScript High Performance
-http://avxhome.se/ebooks/eLearning/Packtpub_JavaScript_High_Performance.html
+191.  Succeeding with Agile: Software Development Using Scrum
+http://avxhome.se/ebooks/eLearning_book/information_technologies/0321579364.html
 
-192.  JavaScript for Programmers
-http://avxhome.se/ebooks/programming_development/javascript_for_programmers_deitel_pdf.html
+192.  Agile WMV Video Converter 1.5.2 WinAll
+http://avxhome.se/software/Agile_WMV_Video_Converter_1.5.2_WinAll.html
 
-193.  Advanced Game Design with HTML5 and JavaScript
-http://avxhome.se/ebooks/programming_development/general/games_programming/3471523.html
+193.  Agile Software Development: Best Practices for Large Software Development Projects
+http://avxhome.se/ebooks/programming_development/3540708308_Agile.html
 
-194.  JavaScript Developer's Dictionary (Developer's Library) by Alexander J. Vincent [Repost] 
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/621009.html
+194.  Portable Agile WMV Video Joiner 1.7.5 
+http://avxhome.se/software/portable_software/Agile-WMV-Video-Joiner.html
 
-195.  Developing in HTML5 with JavaScript and CSS3 Jump Start [repost]
-http://avxhome.se/ebooks/programming_development/De.in.H.wi.Jav.html
+195.  Agile Apple TV Video Converter 2.3.2
+http://avxhome.se/software/software_type/multimedia/Converters/Agile_Apple_TV_Video_Converter_2_3_2.html
 
-196.  TeamTreeHouse - JavaScript Foundations (2014)
-http://avxhome.se/ebooks/programming_development/TeamTreeHouseJavaScriptFoundations2014.html
+196.  Agile MOV Video Joiner 1.8.2
+http://avxhome.se/software/software_type/multimedia/Video_Editing/Agile_MOV_Video_Joiner_1_8_2.html
 
-197.  Functional Programming in JavaScript
-http://avxhome.se/ebooks/programming_development/java/3414485.html
+197.  Agile Software Engineering
+http://avxhome.se/ebooks/programming_development/1848001983.html
 
-198.  Secrets of the JavaScript Ninja by John Resig
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3379305.html
+198.  Agile Processes in Software Engineering and Extreme Programming
+http://avxhome.se/ebooks/programming_development/Agile_Processes_in_Software.html
 
-199.  Testgetriebene Entwicklung mit JavaScript: Ein Handbuch für den professionellen Programmierer
-http://avxhome.se/ebooks/programming_development/3363379.html
+199.  Agile Video Splitter 3.2
+http://avxhome.se/software/software_type/multimedia/Video_Editing/agile_video_splitter_3_2.html
 
-200.  JavaScript - kurz & gut, 4. Auflage (Repost)
-http://avxhome.se/ebooks/programming_development/html_css_js_javascript/3868993886.html
+200.  Agile Video Splitter 3.1
+http://avxhome.se/n/214220
 
