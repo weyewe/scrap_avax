@@ -1,0 +1,602 @@
+Search Keyword: 'r statistics'
+
+1.  R Statistics Essential Training (2013)
+http://avxhome.se/ebooks/programming_development/RStatisticsEssentialTraining2013.html
+
+2.  Learning RStudio for R Statistical Computing [Repost]
+http://avxhome.se/ebooks/programming_development/2013-04-05-18-1782160604_201505011837.html
+
+3.  Learning RStudio for R Statistical Computing (repost)
+http://avxhome.se/ebooks/programming_development/1782160604_sta.html
+
+4.  R Statistics Essential Training (Repost)
+http://avxhome.se/ebooks/programming_development/r_statistics_essential_training.html
+
+5.  Learning RStudio for R Statistical Computing by Mark P.J. van der Loo [Repost]
+http://avxhome.se/ebooks/programming_development/2863625.html
+
+6.  Six Sigma with R: Statistical Engineering for Process Improvement [Repost]
+http://avxhome.se/ebooks/engeneering_technology/2013-01-07-45-1461436516_201504072030.html
+
+7.  Introduction to Data Analysis and Graphical Presentation in Biostatistics with R: Statistics in the Large [Repost]
+http://avxhome.se/ebooks/science_books/math/2014-04-18-25_201504181600.html
+
+8.  Introduction to Data Analysis and Graphical Presentation in Biostatistics with R: Statistics in the Large
+http://avxhome.se/ebooks/science_books/math/3319025317Data.html
+
+9.  R Statistical Application Development by Example Beginner's Guide (Repost)
+http://avxhome.se/ebooks/programming_development/1849519447z.html
+
+10.  R Statistical Application Development by Example Beginner's Guide (repost)
+http://avxhome.se/ebooks/eLearning_book/information_technologies/1849519447_sta.html
+
+11.  R Statistical Application Development by Example Beginner's Guide 
+http://avxhome.se/ebooks/eLearning_book/information_technologies/1849519447.html
+
+12.  Financial Risk Modelling and Portfolio Optimization with R (Statistics in Practice)
+http://avxhome.se/ebooks/economics_finances/0470978708.html
+
+13.  Up and Running with R (2013) [repost]
+http://avxhome.se/ebooks/programming_development/UpandRunningwithR2013repost.html
+
+14.  Applied Multivariate Statistics with R 
+http://avxhome.se/ebooks/science_books/3319140922.html
+
+15.   Data Mashups in R  
+http://avxhome.se/ebooks/others/dfgdsfdsf.html
+
+16.  Up and Running with R
+http://avxhome.se/ebooks/eLearning/Lynda_Up_and_Running_with_R.html
+
+17.  Financial Risk Modelling and Portfolio Optimization with R (repost)
+http://avxhome.se/ebooks/economics_finances/047097870.html
+
+18.  Understanding Statistics Using R [Repost]
+http://avxhome.se/ebooks/science_books/math/2015-12-13-67_201512251849.html
+
+19.  Udemy - Machine Learning and Statistical Modeling with R Examples
+http://avxhome.se/ebooks/eLearning/naag3692-1444754104.html
+
+20.  R for Marketing Research and Analytics
+http://avxhome.se/ebooks/science_books/math/Marketing-Research-Analytics-Christopher-Chapman.html
+
+21.  Time Series Analysis and Forecasting in R
+http://avxhome.se/ebooks/business_job/Time_Series_Analysis_and_Forecasting_in_R.html
+
+22.  Modern Statistical Methods for Astronomy: With R Applications
+http://avxhome.se/ebooks/science_books/astronomy_cosmology/2014-05-15-32_201504151747.html
+
+23.  Time Series Analysis and Its Applications: With R Examples (2nd edition) [Repost]
+http://avxhome.se/ebooks/science_books/math/2013-11-15-55_201512280042.html
+
+24.  Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
+http://avxhome.se/ebooks/programming_development/3720973.html
+
+25.  Approximation Theorems of Mathematical Statistics
+http://avxhome.se/ebooks/science_books/math/2015-05-05-52_201512091217.html
+
+26.  Udemy – R Programming for Simulation and Monte Carlo Methods
+http://avxhome.se/ebooks/eLearning/naag3206.html
+
+27.  R for Business Analytics (repost)
+http://avxhome.se/ebooks/economics_finances/1461443423_Rbu.html
+
+28.  R for Business Analytics (Repost)
+http://avxhome.se/ebooks/programming_development/1461443423z.html
+
+29.  R for Business Analytics 
+http://avxhome.se/ebooks/programming_development/1461443423.html
+
+30.  Option Pricing and Estimation of Financial Models with R (repost)
+http://avxhome.se/ebooks/science_books/math/047074584.html
+
+31.  Option Pricing and Estimation of Financial Models with R (repost)
+http://avxhome.se/ebooks/science_books/math/0470745843r.html
+
+32.  R for Cloud Computing: An Approach for Data Scientists
+http://avxhome.se/ebooks/eLearning_book/information_technologies/1493917013.html
+
+33.  Spatial Statistics: GeoSpatial Information Modeling and Thematic Mapping
+http://avxhome.se/ebooks/science_books/1420069764.html
+
+34.  Multivariate Methods of Representing Relations in R for Prioritization Purposes (repost)
+http://avxhome.se/ebooks/science_books/146143121.html
+
+35.  Multivariate Methods of Representing Relations in R for Prioritization Purposes (repost)
+http://avxhome.se/ebooks/science_books/1461431212.html
+
+36.  Niche Modeling: Predictions from Statistical Distributions
+http://avxhome.se/ebooks/science_books/math/2014-10-12-34_201504200108.html
+
+37.  Mastering RStudio – Develop, Communicate, and Collaborate with R
+http://avxhome.se/ebooks/programming_development/3808871.html
+
+38.  XML and Web Technologies for Data Sciences with R (Use R!) (Repost)
+http://avxhome.se/ebooks/programming_development/1461478995a.html
+
+39.  XML and Web Technologies for Data Sciences with R (Use R!) (Repost)
+http://avxhome.se/ebooks/programming_development/1461478995z.html
+
+40.  XML and Web Technologies for Data Sciences with R (Use R!) 
+http://avxhome.se/ebooks/programming_development/1461478995.html
+
+41.  Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Repost)
+http://avxhome.se/ebooks/science_books/math/21441998896.html
+
+42.  Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Repost)
+http://avxhome.se/ebooks/science_books/math/11441998896.html
+
+43.  Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Repost)
+http://avxhome.se/ebooks/science_books/math/q1441998896.html
+
+44.  Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Repost)
+http://avxhome.se/ebooks/science_books/math/z1441998896.html
+
+45.  Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery  
+http://avxhome.se/ebooks/science_books/math/1441998896.html
+
+46.  A Tiny Handbook of R (repost)
+http://avxhome.se/ebooks/science_books/math/3642179797_hbR.html
+
+47.  Statistics / Data Analysis in SPSS: Descriptive Statistics
+http://avxhome.se/ebooks/Statistics_Data_Analysis_in_SPSS_Descriptive_Statistics.html
+
+48.  R.E.M. - Part Lies Part Heart Part Truth Part Garbage: 1982-2011 (2011)
+http://avxhome.se/music/rock/alternate_indie/REM_Part_Lies.html
+
+49.  Beginning R: An Introduction to Statistical Programming (repost)
+http://avxhome.se/ebooks/programming_development/1430245549.html
+
+50.  Udemy – Programming Statistical Applications in R
+http://avxhome.se/ebooks/eLearning/naag3244-1445949707.html
+
+51.  Beginning R: An Introduction to Statistical Programming [Repost]
+http://avxhome.se/ebooks/programming_development/2014-06-23-09_201504181629.html
+
+52.  J.B. Lenoir - Vietnam Blues: The Complete L&R Recordings (1995)
+http://avxhome.se/music/blues/j_b_lenoir__vietnam_blues_the_complete_l_r_recordings.html
+
+53.  Statistics in R - The R Language for Statistical Analysis
+http://avxhome.se/ebooks/eLearning/naag4776.html
+
+54.  R Through Excel: A Spreadsheet Interface for Statistics, Data Analysis, and Graphics
+http://avxhome.se/ebooks/programming_development/2014-08-02-84_201504171810.html
+
+55.  Beginning R: The Statistical Programming Language
+http://avxhome.se/ebooks/111816430X.html
+
+56.  Karlheinz Stockhausen - Himmels-Tür - SE86 (2006)
+http://avxhome.se/music/classical/avant_garde/Stockhausen-Edition-86-Himmel.html
+
+57.  Udemy – R - Business Analytics Using R Programming
+http://avxhome.se/ebooks/eLearning/naag2024.html
+
+58.  Statistics and Data Analysis for Financial Engineering: with R examples
+http://avxhome.se/ebooks/science_books/math/Statistics-Data-Analysis-Financial-Engineering.html
+
+59.  R Programming LiveLessons : Fundamentals to Advanced (Full)
+http://avxhome.se/ebooks/eLearning/R_Programming_LiveLessons_Fundamentals_to_Advanced_Full.html
+
+60.  Statistical Analysis and Data Display
+http://avxhome.se/ebooks/science_books/math/Introduction-Statistics-Using-Interactive-Elements.html
+
+61.  Statistical Data Analysis Explained: Applied Environmental Statistics with R (Repost)
+http://avxhome.se/ebooks/science_books/math/Statistical.Data.Analysis.html
+
+62.  Statistical Data Analysis Explained: Applied Environmental Statistics with R
+http://avxhome.se/ebooks/science_books/Stati_vironmenta_R.html
+
+63.  Beginning R: An Introduction to Statistical Programming (2nd edition)
+http://avxhome.se/ebooks/programming_development/1484203747.html
+
+64.  A Beginner's Guide to R (Use R!) [Repost]
+http://avxhome.se/ebooks/programming_development/901246.html
+
+65.  A Handbook of Statistical Analyses Using R, Second Edition (repost)
+http://avxhome.se/ebooks/science_books/math/1420079336.html
+
+66.  Statistics: An Introduction Using R (Repost)
+http://avxhome.se/ebooks/science_books/math/0470022981z.html
+
+67.  A Handbook of Statistical Analyses Using R (Repost)
+http://avxhome.se/ebooks/science_books/math/a_handbook_of_statistical_analyses_using_r-1397075686.html
+
+68.  SAS JMP Statistical Discovery v9.0.2
+http://avxhome.se/software/software_type/scientific/Engineering/sas_jmp_statistical_discovery_v9_0_2.html
+
+69.  SAS JMP Statistical Discovery v.9.0
+http://avxhome.se/software/software_type/scientific/Engineering/sas_jmp_statistical_discovery_v_9_0.html
+
+70.  Statistics and Data Science in R from Beginner to Advanced
+http://avxhome.se/ebooks/eLearning/naag3851.html
+
+71.  Statistical Hypothesis Testing with SAS and R
+http://avxhome.se/ebooks/science_books/math/111995021X.html
+
+72.  Foundational and Applied Statistics for Biologists Using R
+http://avxhome.se/ebooks/science_books/1439873380.html
+
+73.  Computational Statistics: An Introduction to R
+http://avxhome.se/ebooks/science_books/math/1420086782.html
+
+74.  Statistics and Data with R: An Applied Approach Through Examples
+http://avxhome.se/ebooks/science_books/math/0470758058.html
+
+75.  Using R for Introductory Statistics
+http://avxhome.se/ebooks/science_books/math/2014-08-29-58_201504181100.html
+
+76.  Introduction to Statistics Through Resampling Methods and R [Repost]
+http://avxhome.se/ebooks/science_books/math/Wiley.Introduction.To.Statistics.Through.Resampling.Methods.And.R.2nd.Edition.Feb.2013.ISBN.1118428218.pdf.html
+
+77.  Beginning R: An Introduction to Statistical Programming (Repost)
+http://avxhome.se/ebooks/programming_development/1430245549c.html
+
+78.  Beginning R: An Introduction to Statistical Programming (Repost)
+http://avxhome.se/ebooks/programming_development/1430245549b.html
+
+79.  Beginning R: An Introduction to Statistical Programming (Repost)
+http://avxhome.se/ebooks/programming_development/1430245549a.html
+
+80.  R-Tur - Infinite Dreams (2012)
+http://avxhome.se/music/electronica/R_Tur_Infinite_Dreams.html
+
+81.  R Cookbook (repost)
+http://avxhome.se/ebooks/programming_development/0596809158r.html
+
+82.  The Book of R: A First Course in Programming and Statistics (Early Access)
+http://avxhome.se/ebooks/programming_development/1593276516R.html
+
+83.  The Book of R: A First Course in Programming and Statistics (Early Access)
+http://avxhome.se/ebooks/1593276516.html
+
+84.  Udemy – R Programming - Learn R from Scratch
+http://avxhome.se/ebooks/eLearning/naag1901.html
+
+85.  Primer to Analysis of Genomic Data Using R
+http://avxhome.se/ebooks/science_books/math/Primer-Analysis-Genomic-Data-Using.html
+
+86.  An R Companion to Linear Statistical Models [Repost]
+http://avxhome.se/ebooks/science_books/math/3147760.html
+
+87.  EnvStats: An R Package for Environmental Statistics [Repost]
+http://avxhome.se/ebooks/science_books/math/2014-10-09-10_201504191858.html
+
+88.  R in Action: Data Analysis and Graphics with R
+http://avxhome.se/ebooks/programming_development/3659892.html
+
+89.  R in Action
+http://avxhome.se/ebooks/programming_development/3659889.html
+
+90.  Statistical Computing in C++ and R
+http://avxhome.se/ebooks/programming_development/1420066501.html
+
+91.  An Introduction to R for Quantitative Economics
+http://avxhome.se/ebooks/science_books/math/Introduction-Quantitative-Economics-Simulating-Computing.html
+
+92.  Introduction to Statistics Through Resampling Methods and R, 2nd Edition
+http://avxhome.se/ebooks/science_books/math/1118428218.html
+
+93.  Comparing Groups: Randomization and Bootstrap Methods Using R
+http://avxhome.se/ebooks/science_books/math/Comparing-Groups-Randomization-and-Bootstrap.html
+
+94.  The Art of R Programming: A Tour of Statistical Software Design (repost)
+http://avxhome.se/ebooks/programming_development/15932738430.html
+
+95.  Applied Statistics Using SPSS, STATISTICA, MATLAB and R by Joaquim P. Marques [Repost]
+http://avxhome.se/ebooks/science_books/math/2677199.html
+
+96.  Statistics for Linguistics with R: A Practical Introduction, 2nd ed. (repost)
+http://avxhome.se/ebooks/science_books/3110307286.html
+
+97.  EnvStats: An R Package for Environmental Statistics (2nd edition) (repost)
+http://avxhome.se/ebooks/science_books/math/1461484553sta.html
+
+98.  R for Everyone: Advanced Analytics and Graphics
+http://avxhome.se/ebooks/programming_development/0321888030.html
+
+99.  EnvStats: An R Package for Environmental Statistics, 2nd edition
+http://avxhome.se/ebooks/science_books/math/1461484553EnvStats.html
+
+100.  Introduction to Statistics Through Resampling Methods and R, 2nd edition
+http://avxhome.se/ebooks/science_books/math/1118428218Statist.html
+
+101.  The Art of R Programming: A Tour of Statistical Software Design (repost)
+http://avxhome.se/ebooks/programming_development/1593273843r.html
+
+102.  Essentials of Modern Business Statistics, 3 edition (repost)
+http://avxhome.se/ebooks/economics_finances/0324312849.html
+
+103.  Statistics for the Utterly Confused
+http://avxhome.se/ebooks/0071350055_stats4confused.html
+
+104.  Introduction to Statistics
+http://avxhome.se/ebooks/science_books/math/Introduction-Statistics-Using-Interactive-Elements-MM-Stat.html
+
+105.  Using R for Introductory Statistics, Second Edition (repost)
+http://avxhome.se/ebooks/science_books/math/1466590734re.html
+
+106.  Using R for Introductory Statistics, Second Edition
+http://avxhome.se/ebooks/science_books/math/1466590734.html
+
+107.  Mixed Models: Theory and Applications with R, 2nd Edition (repost)
+http://avxhome.se/ebooks/science_books/math/Mixed-Models-Theory-and-Applications-with-R.html
+
+108.  A Handbook of Statistical Analyses Using R, Second Edition (repost)
+http://avxhome.se/ebooks/science_books/math/1420079336sta.html
+
+109.  Analysis of Questionnaire Data with R (Repost)
+http://avxhome.se/ebooks/programming_development/1439817669az.html
+
+110.  Nonparametric Statistical Methods Using R
+http://avxhome.se/ebooks/science_books/math/1439873437.html
+
+111.  Analysis of Questionnaire Data with R (Repost)
+http://avxhome.se/ebooks/programming_development/1439817669a.html
+
+112.  A Handbook of Statistical Analyses Using R, Second Edition (Repost)
+http://avxhome.se/ebooks/science_books/math/1420079336StatisticalAnalyses.html
+
+113.  The Essential R Reference
+http://avxhome.se/ebooks/programming_development/1118391411EssentialR.html
+
+114.  Mixed Models: Theory and Applications with R (2nd Edition)
+http://avxhome.se/ebooks/science_books/math/1118091574mix.html
+
+115.  The R Software: Fundamentals of Programming and Statistical Analysis
+http://avxhome.se/ebooks/science_books/math/1461490197_RSoftw.html
+
+116.  Analysis of Questionnaire Data with R (Repost)
+http://avxhome.se/ebooks/programming_development/1439817669z.html
+
+117.  Analysis of Questionnaire Data with R 
+http://avxhome.se/ebooks/programming_development/1439817669.html
+
+118.  Applied Statistics Using SPSS, STATISTICA, MATLAB and R (2nd edition) [Repost]
+http://avxhome.se/ebooks/science_books/math/2013-10-10-53_201505011150.html
+
+119.  A Handbook of Statistical Analyses Using R, Second Edition (repost)
+http://avxhome.se/ebooks/science_books/math/1420079336_sta-1397075686.html
+
+120.  R Cookbook (Repost)
+http://avxhome.se/ebooks/programming_development/0596809158Z.html
+
+121.  A Handbook of Statistical Analyses Using R, Second Edition (Repost)
+http://avxhome.se/ebooks/economics_finances/1420079336_statistical-1397075686.html
+
+122.  R Cookbook
+http://avxhome.se/ebooks/programming_development/0596809158.html
+
+123.  Statistics and Data Analysis for Microarrays Using R and Bioconductor (2nd Edition) (Repost)
+http://avxhome.se/ebooks/engeneering_technology/11439809755.html
+
+124.  Statistics and Data Analysis for Microarrays Using R and Bioconductor (2nd Edition)
+http://avxhome.se/ebooks/engeneering_technology/1439809755.html
+
+125.  Understanding Statistics Using R by Randall Schumacker
+http://avxhome.se/ebooks/science_books/math/3534520.html
+
+126.  The Art of R Programming: A Tour of Statistical Software Design
+http://avxhome.se/ebooks/programming_development/1593273843z.html
+
+127.  An Introduction to Statistical Learning: with Applications in R (Repost)
+http://avxhome.se/ebooks/science_books/math/1461471370a.html
+
+128.  Statistics for Censored Environmental Data Using Minitab and R (2nd edition)
+http://avxhome.se/ebooks/science_books/math/2014-09-03-20_201504180311.html
+
+129.  An Introduction to Statistical Learning: with Applications in R (Repost)
+http://avxhome.se/ebooks/science_books/math/1461471370z.html
+
+130.  Mathematical Statistics with Resampling and R
+http://avxhome.se/ebooks/science_books/math/1118029852.html
+
+131.  Modern Industrial Statistics: with applications in R, MINITAB and JMP, 2nd Edition
+http://avxhome.se/ebooks/science_books/math/1118456068.html
+
+132.  An Introduction to Statistical Learning: with Applications in R 
+http://avxhome.se/ebooks/science_books/math/1461471370.html
+
+133.  Statistical Bioinformatics: with R (repost)
+http://avxhome.se/ebooks/science_books/0123751047.html
+
+134.  The Art of R Programming: A Tour of Statistical Software Design (Repost)
+http://avxhome.se/ebooks/programming_development/the_art_of_r_programming_a_tour_of_statistical_software_design.html
+
+135.  A Beginner's Guide to R (Use R!) by Alain Zuur, Elena N. Ieno and Erik Meesters [Repost]
+http://avxhome.se/ebooks/programming_development/ABeginnersGuidetoR.html
+
+136.  A Guide to Sources of Texas Criminal Justice Statistics (repost)
+http://avxhome.se/ebooks/Politics_Sociology/1574413147r.html
+
+137.  Mauricio Kagel - Solowerke für Akkordeon und Klavier (1998)
+http://avxhome.se/music/classical/contemporary/mauricio_kagel_solowerke_fur_akkordeon_und_klavier_1998.html
+
+138.  R for SAS and SPSS Users (Statistics and Computing) 
+http://avxhome.se/ebooks/science_books/kalyan2103091.html
+
+139.  Data Analysis with R
+http://avxhome.se/ebooks/programming_development/3829253.html
+
+140.  Humanities Data in R
+http://avxhome.se/ebooks/programming_development/Humanities-Data-Exploring-Networks-Geospatial.html
+
+141.  Data Analysis with R
+http://avxhome.se/ebooks/programming_development/3829253.html
+
+142.  Humanities Data in R
+http://avxhome.se/ebooks/programming_development/Humanities-Data-Exploring-Networks-Geospatial.html
+
+143.  Statistical Methods in Agriculture and Experimental Biology by R. Mead, R. N. Curnow
+http://avxhome.se/ebooks/science_books/biology_genetics/3664791.html
+
+144.  Statistics: The Conceptual Approach (Springer Undergraduate Textbooks in Statistics) by Gudmund R. Iversen
+http://avxhome.se/ebooks/science_books/math/3636261.html
+
+145.  Latent Variable Modeling with R
+http://avxhome.se/ebooks/science_books/math/0415832446.html
+
+146.  Nonparametric Statistical Methods Using R (repost)
+http://avxhome.se/ebooks/science_books/math/14398734370.html
+
+147.  Applied Statistical Genetics with R: For Population-based Association Studies (Use R!) by Andrea S. Foulkes
+http://avxhome.se/ebooks/science_books/biology_genetics/3483012.html
+
+148.  Linear Statistical Inference and its Applications, 2nd edition
+http://avxhome.se/ebooks/science_books/math/Linear-Statistical-Inference-and-its-Applications-2nd.html
+
+149.  Bayesian Essentials with R (Repost)
+http://avxhome.se/ebooks/programming_development/1461486866za.html
+
+150.  The R Book by Michael J. Crawley
+http://avxhome.se/ebooks/science_books/3118165.html
+
+151.  SAS and R: Data Management, Statistical Analysis, and Graphics, Second Edition
+http://avxhome.se/ebooks/science_books/1466584491.html
+
+152.  Methods of Statistical Model Estimation (repost)
+http://avxhome.se/ebooks/science_books/math/1439858020.html
+
+153.  Bayesian Essentials with R (Repost)
+http://avxhome.se/ebooks/science_books/math/1461486866Z.html
+
+154.  R by Example (repost)
+http://avxhome.se/ebooks/science_books/math/14614136480.html
+
+155.  An Introduction to Statistical Inference and Its Applications with R (Repost)
+http://avxhome.se/ebooks/science_books/math/1584889470_statistical-1397096854.html
+
+156.  Two-Way Analysis of Variance: Statistical Tests and Graphics Using R [Repost]
+http://avxhome.se/ebooks/science_books/math/2014-01-21-05_201504131422.html
+
+157.  Clinical Trial Data Analysis Using R (repost)
+http://avxhome.se/ebooks/science_books/math/1439840202.html
+
+158.  Bayesian Essentials with R 
+http://avxhome.se/ebooks/science_books/math/1461486866.html
+
+159.  Mathematical Methods of Statistics (repost)
+http://avxhome.se/ebooks/science_books/math/0691005478r.html
+
+160.  R in Action (repost)
+http://avxhome.se/ebooks/programming_development/1935182390r.html
+
+161.  Mathematical Methods of Statistics (repost)
+http://avxhome.se/ebooks/science_books/math/0691005478r.html
+
+162.  R in Action (repost)
+http://avxhome.se/ebooks/programming_development/1935182390r.html
+
+163.  Beat Furrer - Konzert für Klavier und Orchester (2008) [repost]
+http://avxhome.se/music/classical/twenty-first_century/beat_furrer_konzert_fur_klavier_und_orchester_repost_2008.html
+
+164.  A Beginner's Guide to R
+http://avxhome.se/ebooks/programming_development/Beginners_GuideR.html
+
+165.  Foundations of Statistical Algorithms: With References to R Packages (Repost)
+http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/31439878854.html
+
+166.  Foundations of Statistical Algorithms: With References to R Packages (Repost)
+http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/21439878854.html
+
+167.  Udemy – Learn R Programming from Scratch
+http://avxhome.se/ebooks/eLearning/naag3271.html
+
+168.  Foundations of Statistical Algorithms: With References to R Packages (Repost)
+http://avxhome.se/ebooks/programming_development/general/algorithms_patterns/11439878854.html
+
+169.  Statistical Methods for Environmental Epidemiology with R: A Case Study in Air Pollution and Health by Roger D. Peng
+http://avxhome.se/ebooks/science_books/3665871.html
+
+170.  Statistics for the Utterly Confused (Utterly Confused Series) by Lloyd R. Jaisingh [Repost] 
+http://avxhome.se/ebooks/science_books/math/2591327.html
+
+171.  Statistical Analysis of Questionnaires: A Unified Approach Based on R and Stata
+http://avxhome.se/ebooks/science_books/math/1466568496.html
+
+172.  Functional Data Analysis with R and MATLAB
+http://avxhome.se/ebooks/science_books/math/2015-07-18-62_201508232312.html
+
+173.  Statistical Studies of Income, Poverty and Inequality in Europe: Computing and Graphics in R using EU-SILC (repost)
+http://avxhome.se/ebooks/science_books/14665683210.html
+
+174.  Foundations of Statistical Algorithms: With References to R Packages
+http://avxhome.se/ebooks/1439878854.html
+
+175.  Using R for Data Management, Statistical Analysis, and Graphics (repost)
+http://avxhome.se/ebooks/science_books/math/14398275590.html
+
+176.  Statistical Studies of Income, Poverty and Inequality in Europe: Computing and Graphics in R using EU-SILC
+http://avxhome.se/ebooks/science_books/1466568321.html
+
+177.  Applied Bayesian Statistics: With R and OpenBUGS Examples (Repost)
+http://avxhome.se/ebooks/science_books/math/1461456959a.html
+
+178.  Statistical Tools for Nonlinear Regression: A Practical Guide With S-PLUS and R Examples by Sylvie Huet
+http://avxhome.se/ebooks/science_books/math/3147188.html
+
+179.  Analyzing Sensory Data with R
+http://avxhome.se/ebooks/science_books/1466565721.html
+
+180.  Statistics: An Introduction Using R, 2 edition
+http://avxhome.se/ebooks/science_books/math/1118941098.html
+
+181.  Multivariate Nonparametric Regression and Visualization: With R and Applications to Finance
+http://avxhome.se/ebooks/economics_finances/0470384425pdf.html
+
+182.  How to be a Quantitative Ecologist: The 'A to R' of Green Mathematics and Statistics (repost)
+http://avxhome.se/ebooks/science_books/0470699795.html
+
+183.  Multivariate Nonparametric Regression and Visualization: With R and Applications to Finance
+http://avxhome.se/ebooks/economics_finances/0470384425.html
+
+184.  Using R for Data Management, Statistical Analysis, and Graphics (Repost)
+http://avxhome.se/ebooks/science_books/math/1439827559UsingR.html
+
+185.  Handbook of Fitting Statistical Distributions with R (Repost)
+http://avxhome.se/ebooks/science_books/math/1584887117StatisDistribu.html
+
+186.  Discovering Statistics Using R
+http://avxhome.se/ebooks/1446200450.html
+
+187.  An R Companion to Linear Statistical Models (Repost)
+http://avxhome.se/ebooks/science_books/1439873658R_Comp-1397096854.html
+
+188.  Applied Bayesian Statistics: With R and OpenBUGS Examples
+http://avxhome.se/ebooks/science_books/math/1461456959.html
+
+189.  Handbook of Fitting Statistical Distributions with R (repost)
+http://avxhome.se/ebooks/science_books/math/1584887117_Sta.html
+
+190.  Using R for Data Management, Statistical Analysis, and Graphics (repost)
+http://avxhome.se/ebooks/science_books/math/1439827559_RSt.html
+
+191.  Statistics for Linguistics with R: A Practical Introduction, 2nd ed.
+http://avxhome.se/ebooks/eLearning_book/languages/3110307286_Ling.html
+
+192.  OECD Historical Statistics / Statistiques rétrospectives de l’OCDE. 2001
+http://avxhome.se/ebooks/history_military/OECDHistStat01.html
+
+193.  OECD Statistics on International Trade in Services / Statistiques de l'OCDE sur les échanges internationaux de services, Vol.2
+http://avxhome.se/ebooks/business_job/OECDStatIntTrade09v2.html
+
+194.  Analyzing Linguistic Data: A Practical Introduction to Statistics using R
+http://avxhome.se/ebooks/cultures_languages/Analyzin_Ling_Data.html
+
+195.  Contemporary Bayesian and Frequentist Statistical Research Methods for Natural Resource Scientists
+http://avxhome.se/ebooks/science_books/math/Contemporary-Bayesian-and-Frequentist-Statistical-Research-Methods.html
+
+196.  Statistical Performance Modeling and Optimization (Foundations and Trends(r) in Electronic Design Automation) by Xin Li
+http://avxhome.se/ebooks/science_books/3660635.html
+
+197.  Statistical Physics II: Nonequilibrium Statistical Mechanics (Springer Series in Solid-State Sciences) by R. Kubo
+http://avxhome.se/ebooks/science_books/physics/3660470.html
+
+198.  Statistical Studies of Income, Poverty and Inequality in Europe by Nicholas T. Longford [Repost] 
+http://avxhome.se/ebooks/science_books/3655178.html
+
+199.  Statistical Tools for Nonlinear Regression: A Practical Guide With S-PLUS and R Examples by Sylvie Huet [Repost] 
+http://avxhome.se/ebooks/science_books/math/3645182.html
+
+200.  Statistics in Research and Development, Second Edition by R. Caulcutt
+http://avxhome.se/ebooks/science_books/math/3640654.html
+

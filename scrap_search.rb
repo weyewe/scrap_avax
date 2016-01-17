@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'cgi'
 
-BASE_URL = 'http://avxsearch.se' # http://avaxsearch.com/avaxhome_search?q=sex&commit=Go
+BASE_URL = 'http://avxsearch.in' # http://avaxsearch.com/avaxhome_search?q=sex&commit=Go
 PAGE_COUNT = 20
 
 FILENAME = 'avax_search.txt'
@@ -12,7 +12,8 @@ FILENAME = 'avax_search.txt'
 # "marakana"
 # search_value =  "data analysis"
 
-search_value =  "continuous integration lynda"
+
+search_value =  "udemy data"
 search_keyword = CGI.escape( search_value )
 
 

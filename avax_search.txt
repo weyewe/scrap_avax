@@ -1,602 +1,602 @@
-Search Keyword: 'agile'
+Search Keyword: 'udemy data'
 
-1.  Agile Development and Project Management
-http://avxhome.se/ebooks/eLearning/AgileDevelopmentandProjectManagement.html
+1.  Udemy – Data Mining with Rattle
+http://avxhome.se/ebooks/eLearning/naag2874.html
 
-2.  Budokon: Power and Agility Yoga (2007) 
-http://avxhome.se/ebooks/eLearning/Budokon.Power.Agility.Yoga.2007.html
+2.  Udemy – Data Analysis with Python and Pandas
+http://avxhome.se/ebooks/eLearning/naag2818-1446593857.html
 
-3.  Agile for the Real World
-http://avxhome.se/ebooks/programming_development/AgilortheRealWorld.html
+3.  Udemy - Data Mining with R: Go from Beginner to Advanced!
+http://avxhome.se/ebooks/eLearning/naag3665.html
 
-4.  JIRA Agile Essentials
-http://avxhome.se/ebooks/programming_development/3605097.html
+4.  Udemy – Data Analysis Made Easy - Learn Hive & Pig
+http://avxhome.se/ebooks/eLearning/naag3463.html
 
-5.  Udemy - Adopting an Agile Approach to Project Management
-http://avxhome.se/ebooks/eLearning/naag1765.html
+5.  Udemy – Data Science A-Z™: Real-Life Data Science Exercises Included
+http://avxhome.se/ebooks/eLearning/naag3310.html
 
-6.  Being Agile: Your Roadmap to Successful Adoption of Agile (repost)
-http://avxhome.se/ebooks/programming_development/2750089.html
+6.  Udemy – Data Analysis in Python with Pandas
+http://avxhome.se/ebooks/eLearning/naag2921.html
 
-7.  Making Sense of Agile Project Management: Balancing Control and Agility (repost)
-http://avxhome.se/ebooks/business_job/047094336Xr.html
+7.  Udemy – Data Analytics for Business Professionals
+http://avxhome.se/ebooks/eLearning/naag3512.html
 
-8.  Agile Testing: A Practical Guide for Testers and Agile Teams
-http://avxhome.se/ebooks/programming_development/0321534468.html
+8.  Udemy – Data Visualization with Python and Matplotlib
+http://avxhome.se/ebooks/eLearning/naag2146.html
 
-9.  Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise [Repost]
-http://avxhome.se/ebooks/programming_development/2015-05-31-14_201507182019.html
+9.  Udemy – Data Structures and Algorithms in Java
+http://avxhome.se/ebooks/eLearning/naag2147.html
 
-10.  Agile Software Development with HP Agile Manager 
-http://avxhome.se/ebooks/programming_development/1484210352.html
+10.  Udemy - Data integration (ETL) with Talend Open Studio
+http://avxhome.se/ebooks/eLearning/naag3866-1447886259.html
 
-11.  Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (repost)
-http://avxhome.se/ebooks/business_job/0321637704r.html
+11.  Udemy – Python Step by Step: Build a Data Analysis Program (2015)
+http://avxhome.se/ebooks/programming_development/Udemy_Python_Step_by_Step_Build_a_Data_Analysis_Program_2015-1445413025.html
 
-12.  Agile Project Management: Creating Innovative Products (repost)
-http://avxhome.se/ebooks/business_job/0321658396r.html
+12.  Udemy – JSF Tutorial: JavaServer Faces for Beginners - JSF 2.2
+http://avxhome.se/ebooks/eLearning/naag2097-1444112210.html
 
-13.  Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise (repost)
-http://avxhome.se/ebooks/programming_development/general/web_development/0132810131_Ag.html
+13.  Udemy – Hadoop In Real World: Become an Expert Hadoop Developer
+http://avxhome.se/ebooks/software/Udemy_Hadoop_In_Real_World_Become_an_Expert_Hadoop_Developer-1445949717.html
 
-14.  Disciplined Agile Delivery: A Practitioner's Guide to Agile Software Delivery in the Enterprise
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0132810131.html
+14.  Udemy - The Complete IOS 9 & Xcode 7 Guide - Make 20 Applications
+http://avxhome.se/ebooks/eLearning/Udemy-The_Complete_IOS_9_and_Xcode_7_Guide-Make_20_Applications-1446211235.html
 
-15.  Agile for Project Managers
-http://avxhome.se/ebooks/business_job/1482244985.html
+15.  Udemy - AdWords Math: Data-Backed Strategies for Better Advertising
+http://avxhome.se/ebooks/eLearning/adwordsmath-1444409585.html
 
-16.  Agile Project Management: Creating Innovative Products (2nd Edition) (Repost)
-http://avxhome.se/ebooks/business_job/0321658396_CHM.html
+16.  Udemy – 70-461 Session 2: Querying Microsoft SQL Server 2012
+http://avxhome.se/ebooks/eLearning/naag2926-1445949708.html
 
-17.  Agile!: The Good, the Hype and the Ugly
-http://avxhome.se/ebooks/programming_development/3319051547Agile.html
+17.  Udemy – Learn Java Data Types And Variables From Scratch
+http://avxhome.se/ebooks/eLearning/naag1900-1447410334.html
 
-18.  Adapting Configuration Management for Agile Teams: Balancing Sustainability and Speed [Repost]
-http://avxhome.se/ebooks/business_job/2014-01-06-30_201504121904.html
+18.  Udemy - Rapid Prototyping with Ionic: Build a Data-Driven Mobile App
+http://avxhome.se/ebooks/build-a-stock-market-mobile-app-1447410333.html
 
-19.  Being Agile: Your Roadmap to Successful Adoption of Agile
-http://avxhome.se/ebooks/business_job/143025839XBeing.html
+19.  Udemy – SQL for Newbs: Beginner Data Analysis
+http://avxhome.se/ebooks/eLearning/naag3387-1445413033.html
 
-20.  Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition
-http://avxhome.se/ebooks/business_job/0321637704.html
+20.  Udemy - Google Analytics Mastery
+http://avxhome.se/ebooks/google-analytics-mastery-1447189034.html
 
-21.  Agile Project Management: Creating Innovative Products
-http://avxhome.se/ebooks/business_job/0321658396.html
+21.  Udemy – 70-461 Session 3: Querying Microsoft SQL Server 2012
+http://avxhome.se/ebooks/eLearning/naag2923-1445949708.html
 
-22.  Agile All In One (2009)
-http://avxhome.se/software/Agile_All_In_One.html
+22.  Udemy – Practical Excel 2013 – Intermediate & Advanced
+http://avxhome.se/ebooks/eLearning/naag2844-1446211235.html
 
-23.  Agile Software Development Ecosystems  by Jim Highsmith
-http://avxhome.se/ebooks/0201760436sdf.html
+23.  Udemy – Excel 2013 PowerPivot & Advanced Business Intelligence Tools
+http://avxhome.se/ebooks/eLearning/naag2839-1444754118.html
 
-24.  Agile at Work: Building Your Agile Team
-http://avxhome.se/ebooks/programming_development/general/web_development/Agile.at.Work.Building.Your.Agile.Team.html
+24.  Udemy – The Complete IOS 9 Swift 2.0 Guide - Make 20 Applications
+http://avxhome.se/ebooks/programming_development/Udemy_The_Complete_IOS_9_Swift_2.0_Guide_Make_20_Applications-1446211237.html
 
-25.  Simplilearn - PMI Agile Certified Practitioner (2014)
-http://avxhome.se/ebooks/business_job/Si.P.Ag.Ce.Pra.html
+25.  Udemy – Introduction to JSON JavaScript Object Notation Tutorial
+http://avxhome.se/ebooks/eLearning/naag2358-1444409590.html
 
-26.  Agility Across Time and Space: Implementing Agile Methods in Global Software Projects [Repost]
-http://avxhome.se/ebooks/programming_development/1352851.html
+26.  Udemy - Excel for Data Analysis: Basic to Expert Level (2015) [repost]
+http://avxhome.se/ebooks/software/UdemyExcelforDataAnalysisBasictoExpertLevel2015repost.html
 
-27.  Individuals and Interactions: An Agile Guide (Repost)
-http://avxhome.se/ebooks/business_job/0321714091Z.html
+27.  Udemy – Everything iOS9
+http://avxhome.se/ebooks/programming_development/Udemy_Everything_iOS9-1445949709.html
 
-28.  Agile Adoption Patterns: A Roadmap to Organizational Success
-http://avxhome.se/ebooks/business_job/0321514521.html
+28.  Udemy – Projects in Hadoop and Big Data - Learn by Building Apps
+http://avxhome.se/ebooks/programming_development/Udemy_Projects_in_Hadoop_and_Big_Data_Learn_by_Building_Apps.html
 
-29.  Making Sense of Agile Project Management: Balancing Control and Agility
-http://avxhome.se/ebooks/business_job/047094336XAgileProject.html
+29.  Udemy - Excel for Data Analysis: Basic to Expert Level
+http://avxhome.se/ebooks/eLearning/naag3615.html
 
-30.  Individuals and Interactions: An Agile Guide
-http://avxhome.se/ebooks/business_job/0321714091.html
+30.  Udemy – Case Studies in Data Mining with R
+http://avxhome.se/ebooks/eLearning/naag2771.html
 
-31.  Scaling Software Agility: Best Practices for Large Enterprises
-http://avxhome.se/ebooks/software/Scalin_Agility.html
+31.  Udemy – Transform your excel lists into powerful data-driven apps
+http://avxhome.se/ebooks/software/windows_software/Udemy_Transform_your_excel_lists_into_powerful_data_driven_apps.html
 
-32.  Agile Performance Improvement: The New Synergy of Agile and Human Performance Technology
-http://avxhome.se/ebooks/programming_development/1484208935.html
+32.  Udemy – Become QlikView Developer from Scratch (2015)
+http://avxhome.se/ebooks/programming_development/UdemyBecomeQlikViewDeveloperfromScratch2015.html
 
-33.  The Art of Agile Development (Repost)
-http://avxhome.se/ebooks/programming_development/0596527675Develop.html
+33.  Udemy – Big Data for Business Professionals
+http://avxhome.se/ebooks/eLearning/naag3572.html
 
-34.  The Art of Agile Development
-http://avxhome.se/ebooks/programming_development/general/web_development/0596527675_agi.html
+34.  Udemy – Tableau for Beginners - Analyzing 3 Separate Data Sets
+http://avxhome.se/ebooks/eLearning/naag3514.html
 
-35.  Agile Contracts: Creating and Managing Successful Projects with Scrum
-http://avxhome.se/ebooks/business_job/1118630947.html
+35.  Udemy – Programming Statistical Applications in R
+http://avxhome.se/ebooks/eLearning/naag3244-1445949707.html
 
-36.   John Hunt, Agile Software Construction (Repost) 
-http://avxhome.se/ebooks/programming_development/18523394462.html
+36.  Udemy – Learn Business Data Analysis with Excel in under 5Hrs.
+http://avxhome.se/ebooks/eLearning/naag2988-1445413020.html
 
-37.  The Art of Agile Development
-http://avxhome.se/ebooks/programming_development/Agile_Develop.html
+37.  Udemy – Become a Professional Python Programmer
+http://avxhome.se/ebooks/eLearning/naag2845.html
 
-38.  Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise
-http://avxhome.se/ebooks/software/3642927.html
+38.  Udemy – The Complete Introduction to Business Data Analysis
+http://avxhome.se/ebooks/eLearning/naag2342.html
 
-39.  Managing Agile: Strategy, Implementation, Organisation and People
-http://avxhome.se/ebooks/programming_development/Managing-Agile-Strategy-Implementation-Organisation.html
+39.  Udemy – Essential Fundamentals of R
+http://avxhome.se/ebooks/eLearning/naag2321.html
 
-40.  Everything You Want to Know About Agile 
-http://avxhome.se/ebooks/business_job/1849283230.html
+40.  Udemy – Practical Transformation Using XSLT and XPath
+http://avxhome.se/ebooks/programming_development/xml/Udemy.Practical.Transformation.Using.XSLT.and.XPath-1445413024.html
 
-41.  Agile Service Development: Combining Adaptive Methods and Flexible Solutions
-http://avxhome.se/ebooks/programming_development/3642281877Agile.html
+41.  Udemy – Building a Rich Internet Application with Vaadin
+http://avxhome.se/ebooks/programming_development/Udemy_Building_a_Rich_Internet_Application_with_Vaadin.html
 
-42.  Management 3.0: Leading Agile Developers, Developing Agile Leaders (repost)
-http://avxhome.se/ebooks/business_job/0321712471r.html
+42.  Udemy – Learn Data Visualisation with Tableau 9
+http://avxhome.se/ebooks/eLearning/naag2103.html
 
-43.  Cbt Nuggets - PMI Agile Project Management Institute (PMI) Agile Certified Practitioner (PMI-ACP)
-http://avxhome.se/ebooks/eLearning/Cbt_Nuggets_PMI_Agile_Project_Management_Institute_Agile_Certified_Practitioner.html
+43.  Udemy - Business Intelligence With QlikView - 0 To Full Sales App
+http://avxhome.se/ebooks/eLearning/naag4151-1446593860.html
 
-44.  Jenny Damm - Agility Series - Handling Foundation (2011)
-http://avxhome.se/ebooks/Jenny_Damm_Agility_Series_Handling_Foundation.html
+44.  Udemy - Learn Data Warehousing from Scratch- From Solution Architect
+http://avxhome.se/ebooks/eLearning/naag4086-1446593849.html
 
-45.  Agility Across Time and Space: Implementing Agile Methods in Global Software Projects (repost)
-http://avxhome.se/ebooks/programming_development/3642124410Agility.html
+45.  Udemy – Tableau 9 Advanced Training: Master Tableau for Data Science (2015)
+http://avxhome.se/ebooks/programming_development/UdemyTableau9AdvancedTrainingMasterTableauforDataScience2015.html
 
-46.  Agility Across Time and Space: Implementing Agile Methods in Global Software Projects
-http://avxhome.se/ebooks/programming_development/3642124410_Agility.html
+46.  Udemy - Implementing a Data Warehouse with SQL Server 2012
+http://avxhome.se/ebooks/eLearning/naag3677-1444754111.html
 
-47.  Agile Principles, Patterns, and Practices in C# - Reup
-http://avxhome.se/ebooks/0131857258-1389353125.html
+47.  Udemy – Building Responsive Data Visualizations with D3 JS
+http://avxhome.se/ebooks/eLearning/naag3236-1445413023.html
 
-48.  Agile Experience Design: A Digital Designer's Guide to Agile, Lean, and Continuous (repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/3272759.html
+48.  More Data Mining with R
+http://avxhome.se/ebooks/programming_development/more-data-mining-with-r.html
 
-49.  Adaptive Leadership: Accelerating Enterprise Agility (Repost)
-http://avxhome.se/ebooks/business_job/B00GFSAOKC.html
+49.  Udemy – Practical Data Science
+http://avxhome.se/ebooks/eLearning/naag2189.html
 
-50.  The Software Project Manager's Bridge to Agility [Repost]
-http://avxhome.se/ebooks/business_job/2014-05-05-08_201504151722.html
+50.  Udemy – R - Business Analytics Using R Programming
+http://avxhome.se/ebooks/eLearning/naag2024.html
 
-51.  Adaptive Leadership: Accelerating Enterprise Agility
-http://avxhome.se/ebooks/business_job/0133598446.html
+51.  Udemy - Analytics for All: Beginners to Experts (2015)
+http://avxhome.se/ebooks/economics_finances/UdemyAnalyticsforAllBeginnerstoExperts2015.html
 
-52.  Becoming Agile: ...in an imperfect world 
-http://avxhome.se/ebooks/programming_development/1933988258.html
+52.  Udemy - Learn Hadoop, MapReduce and BigData from Scratch [Repost]
+http://avxhome.se/ebooks/eLearning/learn-hadoop-mapreduce-and-bigdata-from-scratch.html
 
-53.  Agile Software Construction (repost)
-http://avxhome.se/ebooks/programming_development/AgileSoftwareConstruction.html
+53.  Udemy - Tableau 9 For Data Science: REAL-Life Data Science Exercises
+http://avxhome.se/ebooks/eLearning/naag1808.html
 
-54.  The Software Project Manager's Bridge to Agility
-http://avxhome.se/ebooks/software/Softwar_Bridg_Agility.html
+54.  Udemy - Master Big Data and Hadoop Step-By-Step from Scratch
+http://avxhome.se/ebooks/learn-hadoop-step-by-step-from-scratch.html
 
-55.  Visual Studio Team System: Better Development for Agile Teams
-http://avxhome.se/ebooks/programming_development/0321418506.html
+55.  Udemy - SAS Base Programming Essentials on Data Manipulation
+http://avxhome.se/ebooks/eLearning/naag4041-1446944427.html
 
-56.  Agile Software Construction
-http://avxhome.se/ebooks/agile_soft_cons.html
+56.  Udemy - Excel With Excel Pivot Tables: Pivot Charts
+http://avxhome.se/ebooks/eLearning/naag3976-1445949714.html
 
-57.  Growing Agile: A Coach's Guide to Agile Testing (Growing Agile: A Coach's Guide Series Book 2)
-http://avxhome.se/ebooks/programming_development/3281184.html
+57.  Udemy –  Implementing eDiscovery in SharePoint: The Complete Course
+http://avxhome.se/ebooks/software/Udemy_Implementing_eDiscovery_in_SharePoint_The_Complete_Course-1445949715.html
 
-58.  Agile Software Development: Best Practices for Large Software Development Projects [Repost]
-http://avxhome.se/ebooks/programming_development/3069912.html
+58.  Udemy - Introduction to GIS for Beginners
+http://avxhome.se/ebooks/eLearning/naag3921-1447410338.html
 
-59.  Agile Management: Leadership in an Agile Environment [Repost]
-http://avxhome.se/ebooks/business_job/2014-04-11-53_201504151241.html
+59.  Udemy – Intermediate Topics for Unity Game Developers - Part Two
+http://avxhome.se/ebooks/eLearning/naag3539-1444409589.html
 
-60.  Agile Management: Leadership in an Agile Environment (Repost)
-http://avxhome.se/ebooks/business_job/3642289088Agi.html
+60.  Udemy – Learn Data Visualization with Tableau 9.1 + Coaching Session
+http://avxhome.se/ebooks/eLearning/naag3319.html
 
-61.  Agile in a Flash: Speed-Learning Agile Software Development (Repost)
-http://avxhome.se/ebooks/programming_development/1934356719Agile_in_a_Fl.html
+61.  Udemy – Introduction to Apache Spark for Developers and Engineers
+http://avxhome.se/ebooks/eLearning/naag3085.html
 
-62.  Agile Management: Leadership in an Agile Environment
-http://avxhome.se/ebooks/business_job/3642289088Agile.html
+62.  Udemy – Building Hadoop Clusters
+http://avxhome.se/ebooks/eLearning/naag3084.html
 
-63.  Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum (repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0321480961r.html
+63.  Udemy – Android: Using the Parse SDK to save data in the cloud
+http://avxhome.se/ebooks/eLearning/naag2811-1444409586.html
 
-64.  Agile in a Flash: Speed-Learning Agile Software Development (Repost)
-http://avxhome.se/ebooks/programming_development/1934356719Agile_in_a_Flas.html
+64.  Udemy – Practical Data Science: Analyzing Stock Market Data with R
+http://avxhome.se/ebooks/eLearning/naag2391.html
 
-65.  Agile Productivity Unleashed: Proven approaches for achieving real productivity gains in any organization
-http://avxhome.se/ebooks/business_job/1849280711AgileProductivity.html
+65.  Udemy – Advanced WordPress Development- Take Control of The Back End (2015)
+http://avxhome.se/ebooks/programming_development/general/web_development/Udemy_Advanced_WordPress_Development_Take_Control_of_The_Back_End_2015-1445413024.html
 
-66.  Agile in a Flash: Speed-Learning Agile Software Development
-http://avxhome.se/ebooks/programming_development/1934356719.html
+66.  Udemy – MailChimp for Successful Email Marketing and List Building
+http://avxhome.se/ebooks/eLearning/naag2330-1446211239.html
 
-67.  Agile Software Development Evaluating the Methods for Your Organization (Repost)
-http://avxhome.se/ebooks/programming_development/1580538428.html
+67.  Udemy – The Complete Excel Master Course - Become an Excel Guru
+http://avxhome.se/ebooks/eLearning/naag2315.html
 
-68.  The Agile Samurai: How Agile Masters Deliver Great Software
-http://avxhome.se/ebooks/software/1934356581AgileSamurai.html
+68.  Udemy – Microsoft Access VBA for Non Programmers-Learn VBA Now
+http://avxhome.se/ebooks/eLearning/naag2201-1445413025.html
 
-69.  Portable Agiles Joiners AIO
-http://avxhome.se/software/aio_all_in_one/Agiles-Joiners.html
+69.  Udemy - Python for Trading & Investing
+http://avxhome.se/ebooks/naag1615.html
 
-70.  Agile Management for Software Engineering  by David J. Anderson
-http://avxhome.se/ebooks/0131424602sdf.html
+70.  Udemy - Comprehensive Course on Hadoop Analytic Tool : Apache Hive
+http://avxhome.se/ebooks/eLearning/naag3673-1444754111.html
 
-71.  Agile Metrics in Action: How to measure and improve team performance
-http://avxhome.se/ebooks/programming_development/3659823.html
+71.  Udemy - Applied Multivariate Analysis with R
+http://avxhome.se/ebooks/eLearning/naag3631.html
 
-72.  Pluralsight - Agile Fundamentals (2015)
-http://avxhome.se/ebooks/programming_development/PluralsightAgileFundamentals2015.html
+72.  Udemy - Taming Big Data with Apache Spark - Hands On!
+http://avxhome.se/ebooks/eLearning/uy-taming_big_data_apache_spark.html
 
-73.  The Art of Agile Practice: A Composite Approach for Projects and Organizations
-http://avxhome.se/ebooks/business_job/1439851182.html
+73.  Udemy – Everything About PHP Sessions
+http://avxhome.se/ebooks/eLearning/naag3499.html
 
-74.  Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale... (repost)
-http://avxhome.se/ebooks/programming_development/0321636406.html
+74.  Udemy – Operational Challenges with Data in Excel - Demystified
+http://avxhome.se/ebooks/eLearning/naag3300.html
 
-75.  Pluralsight - Agile Estimation
-http://avxhome.se/ebooks/eLearning/Pluralsight-Agile_Estimation.html
+75.  Udemy – Learn R Programming from Scratch
+http://avxhome.se/ebooks/eLearning/naag3271.html
 
-76.  Agile Estimating and Planning
-http://avxhome.se/ebooks/programming_development/0131479415.html
+76.  Udemy – Algorithms and Data Structures in Java
+http://avxhome.se/ebooks/eLearning/naag3201.html
 
-77.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing (repost)
-http://avxhome.se/ebooks/business_job/032150481xre.html
+77.  Udemy – Excel with Interactive Excel Dashboards
+http://avxhome.se/ebooks/eLearning/naag3205-1444112212.html
 
-78.  Pro Agile .NET Development with SCRUM
-http://avxhome.se/ebooks/programming_development/dotnet/1430235330r.html
+78.  Udemy – Learning Python for Data Analysis and Visualization (Updated)
+http://avxhome.se/ebooks/eLearning/naag3049.html
 
-79.  Agile Principles, Patterns, and Practices in C#
-http://avxhome.se/ebooks/programming_development/2012-09-29-62-0131857258_201504061803.html
+79.  Udemy – Learning KnockoutJS
+http://avxhome.se/ebooks/eLearning/naag2753.html
 
-80.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing (repost)
-http://avxhome.se/ebooks/business_job/032150481xr.html
+80.  Udemy – The Complete Excel 2013 Course for Beginners: Learn by Doing
+http://avxhome.se/ebooks/eLearning/naag2466-1444754117.html
 
-81.  Succeeding with Agile: Software Development Using Scrum (repost)
-http://avxhome.se/ebooks/programming_development/0321579364r.html
+81.  Udemy – Credit Card Security Professional (CCSP)
+http://avxhome.se/ebooks/business_job/Udemy_Credit_Card_Security_Professional_CCSP.html
 
-82.  Management 3.0: Leading Agile Developers, Developing Agile Leaders (Repost)
-http://avxhome.se/ebooks/business_job/0321712471_Agile_Dev.html
+82.  Udemy – R Programming - Learn R from Scratch
+http://avxhome.se/ebooks/eLearning/naag1901.html
 
-83.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing (repost)
-http://avxhome.se/ebooks/business_job/032150481x.html
+83.  Udemy - Excel: Stunning Excel Dashboards with PowerPivot-Power View
+http://avxhome.se/ebooks/naag1306.html
 
-84.  Management 3.0: Leading Agile Developers, Developing Agile Leaders
-http://avxhome.se/ebooks/business_job/0321712471Management.html
+84.  Udemy - Impress your Boss - Visualize data with Microsoft Excel
+http://avxhome.se/ebooks/eLearning/naag3984-1447410335.html
 
-85.  Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum (repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0321480961Lean.html
+85.  Udemy - Rapid D3 JS
+http://avxhome.se/ebooks/eLearning/naag3968-1445949717.html
 
-86.  Integrating CMMI and Agile Development: Case Studies by Paul E. McMahon (Repost)
-http://avxhome.se/ebooks/Integrating_CMMI_and_Agile_Development_PEMcMahon.html
+86.  Udemy – Build Apps with ReactJS: The Complete Course (2015)
+http://avxhome.se/ebooks/programming_development/general/web_development/Udemy_Build_Apps_with_ReactJS_The_Complete_Course_2015.html
 
-87.  Management 3.0: Leading Agile Developers, Developing Agile Leaders
-http://avxhome.se/ebooks/business_job/0321712471.html
+87.  Udemy - Excel Dashboards using Excel Powerpivot
+http://avxhome.se/ebooks/eLearning/naag3726-1444754113.html
 
-88.  User-Centered Agile Methods
-http://avxhome.se/ebooks/programming_development/1608453723AgileMethods.html
+88.  Udemy – Advanced Data Structures and Algorithms in Java
+http://avxhome.se/ebooks/eLearning/naag3559.html
 
-89.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement
-http://avxhome.se/ebooks/programming_development/0321714105IntegratingCMMI.html
+89.  Udemy – IT Security Fundamentals: CompTIA Security+ 2015
+http://avxhome.se/ebooks/eLearning/naag3504-1445413033.html
 
-90.  Agilent Genesys v2009.04
-http://avxhome.se/software/software_type/graphics_cad_cam/AgilentGenesysv2009.04.html
+90.  Udemy – Clinical SAS Programming(CDISC)
+http://avxhome.se/ebooks/eLearning/naag3478.html
 
-91.  Lynda - Agile Project Management with Microsoft Project
-http://avxhome.se/ebooks/eLearning/lc-agile_prj_manage_ms_project.html
+91.  Udemy – Multivariate Data Visualization with R
+http://avxhome.se/ebooks/eLearning/naag3405.html
 
-92.  Agile Software Construction by John Hunt [Repost]
-http://avxhome.se/ebooks/programming_development/927319.html
+92.  Udemy – Algorithms and Data Structures in Python
+http://avxhome.se/ebooks/eLearning/naag3373.html
 
-93.  Agilent 89600 VSA Software, version 12.02
-http://avxhome.se/software/Agilent_89600_VSA_Software_version_12_02.html
+93.  Udemy – Exploring the Analytics aspect of Excel using simple example
+http://avxhome.se/ebooks/eLearning/naag3302.html
 
-94.  LiveLessons - Coaching Agile Teams
-http://avxhome.se/ebooks/eLearning/LiveLessons_-_Coaching_Agile_Teams.html
+94.  Udemy – Business Data Analysis with Microsoft Excel
+http://avxhome.se/ebooks/eLearning/naag3093.html
 
-95.  Agile Database Techniques: Effective Strategies for the Agile Software Developer
-http://avxhome.se/ebooks/software/rgr4tyhgnfaergeath.html
+95.  Udemy – 70-461 Session 5: Querying Microsoft SQL Server 2012
+http://avxhome.se/ebooks/eLearning/naag2830-1446211235.html
 
-96.  Agile Portfolio Management
-http://avxhome.se/ebooks/economics_finances/Agile_PortfolioManagement.html
+96.  Udemy – These 5 Excel Tricks Will Save Your Job
+http://avxhome.se/ebooks/eLearning/naag2557-1446211237.html
 
-97.  Agile and Iterative Development: A Manager's Guide by  Craig Larman
-http://avxhome.se/ebooks/0131111558asd.html
+97.  Udemy – Google Sheets for Excel Users
+http://avxhome.se/ebooks/eLearning/naag2552.html
 
-98.  User Stories for Agile Team, Product Owner+Business Analyst
-http://avxhome.se/ebooks/eLearning/UserStoriesAgile.html
+98.  Udemy – The Complete Excel 2013 Pivot Table Course
+http://avxhome.se/ebooks/eLearning/naag2314.html
 
-99.  Agile Project Management with GreenHopper 6 Blueprints (Repost)
-http://avxhome.se/ebooks/programming_development/z1849699739.html
+99.  Udemy – Matlab Basics for Beginners
+http://avxhome.se/ebooks/eLearning/naag2245.html
 
-100.  Lynda - Agile at Work: Planning with Agile User Stories
-http://avxhome.se/ebooks/eLearning/lc-agile_wrk-plan_agl_usr_strs.html
+100.  Udemy – Learning Functional JavaScript
+http://avxhome.se/ebooks/programming_development/general/web_development/Udemy_Learning_Functional_JavaScript.html
 
-101.  Agile Project Management with GreenHopper 6 Blueprints (Repost)
-http://avxhome.se/ebooks/programming_development/1849699739z.html
+101.  Udemy – Mastering Cassandra
+http://avxhome.se/ebooks/eLearning/naag2210.html
 
-102.  Agile Software Development Evaluating the Methods for Your Organization (Repost)
-http://avxhome.se/ebooks/programming_development/1580538428X.html
+102.  Udemy – Advanced Excel 2007
+http://avxhome.se/ebooks/eLearning/naag2166.html
 
-103.  Der agile Festpreis: Leitfaden für wirklich erfolgreiche IT-Projekt-Verträge (repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/3446432264.html
+103.  Udemy – Lean Six Sigma in Healthcare
+http://avxhome.se/ebooks/eLearning_book/information_technologies/Udemy.Lean.Six.Sigma.in.Healthcare.html
 
-104.  Systemic Flexibility and Business Agility 
-http://avxhome.se/ebooks/business_job/8132221508.html
+104.  Udemy - Algorithmic Trading with MATLAB & WFAToolbox
+http://avxhome.se/ebooks/naag1650-1447189035.html
 
-105.  Growing Agile: A Coach's Guide to Release Planning (Growing Agile: A Coach's Guide Series Book 4)
-http://avxhome.se/ebooks/programming_development/3281194.html
+105.  Udemy - Effective use of Excel 2013 in real life
+http://avxhome.se/ebooks/naag1459.html
 
-106.  Learning Agile: Understanding Scrum, XP, Lean, and Kanban
-http://avxhome.se/ebooks/programming_development/1449331920.html
+106.  Udemy - React JS and Flux Web Development for Beginners
+http://avxhome.se/ebooks/programming_development/UdemyReactJSandFluxWebDevelopmentforBeginners.html
 
-107.  Agilent Genesys 2014.03
-http://avxhome.se/software/Agilent_Genesys_2014_03.html
+107.  Udemy - Advanced MS Excel 2010 Videos Tutorial
+http://avxhome.se/ebooks/eLearning/naag4081-1446593851.html
 
-108.  The Agility Advantage: How to Identify and Act on Opportunities in a Fast-Changing World
-http://avxhome.se/ebooks/1118836383.html
+108.  Udemy – Introduction to MicroStrategy Report Development I
+http://avxhome.se/ebooks/eLearning/naag3481.html
 
-109.  Agile Risk Management [Repost]
-http://avxhome.se/ebooks/business_job/2014-06-20-33_201504151435.html
+109.  Udemy – SAS programming for beginners 
+http://avxhome.se/ebooks/eLearning/naag3321.html
 
-110.  Agility Course Designer 2.1
-http://avxhome.se/software/software_type/others/Agility.Course.Designer.2.1.html
+110.  Udemy – Comprehensive Course on Apache Hadoop Database: Apache HBase
+http://avxhome.se/ebooks/eLearning/naag3075.html
 
-111.  Der agile Festpreis: Leitfaden für wirklich erfolgreiche IT-Projekt-Verträge (Repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/3446432264agile.html
+111.  Udemy – Building Interactive Dashboards with Tableau
+http://avxhome.se/ebooks/eLearning/naag2957.html
 
-112.  Agile Risk Management 
-http://avxhome.se/ebooks/business_job/3319050079.html
+112.  Udemy – Introducing AngularJS
+http://avxhome.se/ebooks/eLearning/naag2927.html
 
-113.  Agile Project Management with GreenHopper 6 Blueprints 
-http://avxhome.se/ebooks/eLearning_book/information_technologies/1849699739.html
+113.  Udemy - Introduction to Oracle SQL
+http://avxhome.se/ebooks/eLearning/introduction-to-oracle-sql.html
 
-114.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing By Ken W. Collier
-http://avxhome.se/ebooks/business_job/032150481Xre.html
+114.  Udemy – Microsoft Azure & Cloud Computing
+http://avxhome.se/ebooks/eLearning/naag2537.html
 
-115.  User-Centered Agile Method
-http://avxhome.se/ebooks/engeneering_technology/1848214537Agile.html
+115.  Udemy – Build Realtime Social iOS Apps With Firebase and Swift
+http://avxhome.se/ebooks/eLearning/naag1985.html
 
-116.  Der agile Festpreis: Leitfaden für wirklich erfolgreiche IT-Projekt-Verträge
-http://avxhome.se/ebooks/eLearning_book/information_technologies/3446432264_fes.html
+116.  Udemy – PL/SQL by Example
+http://avxhome.se/ebooks/eLearning/naag1927.html
 
-117.  Agile Experience Design: A Digital Designer's Guide to Agile, Lean, and Continuous (Repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/agile_experience_design.html
+117.  Udemy - PowerPoint + Excel Fusion: Exec Strategies (+250 Slide Deck)
+http://avxhome.se/ebooks/naag1544.html
 
-118.  Practices for Scaling Lean & Agile Development (repost)
-http://avxhome.se/ebooks/0321636406_1.html
+118.  Udemy - Administering Microsoft SQL Server 2012 Databases - 70-462
+http://avxhome.se/ebooks/eLearning/naag4133-1446944428.html
 
-119.  Agile Product Management with Scrum: Creating Products that Customers Love (repost)
-http://avxhome.se/ebooks/business_job/0321605780r.html
+119.  Udemy - Excel Keyboard Shortcuts
+http://avxhome.se/ebooks/eLearning/naag3760-1445413568.html
 
-120.  Pro Agile .NET Development with SCRUM (Repost)
-http://avxhome.se/ebooks/programming_development/dotnet/1430235330X.html
+120.  Udemy - Programming for Marketers
+http://avxhome.se/ebooks/eLearning/naag3721-1444754115.html
 
-121.  Agile Experience Design: A Digital Designer's Guide to Agile, Lean, and Continuous
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0321804813.html
+121.  Udemy - Machine Learning and Statistical Modeling with R Examples
+http://avxhome.se/ebooks/eLearning/naag3692-1444754104.html
 
-122.  Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development (repost)
-http://avxhome.se/ebooks/programming_development/0321636406leanAgile.html
+122.  Udemy – Java 8 - Core Training
+http://avxhome.se/ebooks/eLearning/naag3587.html
 
-123.  Pro Agile .NET Development with SCRUM
-http://avxhome.se/ebooks/programming_development/dotnet/1430235330.html
+123.  Udemy – Learn Microsoft Excel Online
+http://avxhome.se/ebooks/eLearning/naag3531-1444112209.html
 
-124.  Agile Excellence for Product Managers: A Guide to Creating Winning Products with Agile Development Teams (repost)
-http://avxhome.se/ebooks/business_job/160773074XAgile.html
+124.  Udemy – Selenium WebDriver with Java, TestNG and Log4j
+http://avxhome.se/ebooks/eLearning/naag3485-1444112213.html
 
-125.  Agile SWF Video Converter v2.8.5 WinAll
-http://avxhome.se/software/Agile_SWF_Video_Converter_v2.8.5_WinAll.html
+125.  Udemy – MySQL Database Development for Beginners
+http://avxhome.se/ebooks/eLearning/naag3408.html
 
-126.  Agile WMV Video Joiner 1.7.2
-http://avxhome.se/software/software_type/multimedia/Agile_WMV_Video_Joiner_1_7_2.html
+126.  Udemy – Microsoft Excel 2013: Beginner to Advanced
+http://avxhome.se/ebooks/eLearning/naag3331.html
 
-127.  Agile AVI Video Splitter 2.1
-http://avxhome.se/software/software_type/multimedia/Video_Editing/agile_avi_video_splitter_2_1.html
+127.  Udemy – IT Networking Fundamentals: CompTIA Network+ 2015
+http://avxhome.se/ebooks/eLearning/naag3324-1445413029.html
 
-128.  (Thriller) Les Disparus de St. Agil [DVDrip] 1938 
-http://avxhome.se/n/171365
+128.  Udemy – Microsoft Access 2013: Beyond the Basics Bundle
+http://avxhome.se/ebooks/eLearning/naag3213.html
 
-129.  Agile Projekte mit Scrum, XP und Kanban: Erfahrungsberichte aus der Praxis
-http://avxhome.se/ebooks/software/35864653586465.html
+129.  Udemy – Practical SQL Skills from Intermediate to Advanced
+http://avxhome.se/ebooks/eLearning/naag2954-1444112214.html
 
-130.  Training for Sports Speed and Agility: An Evidence-Based Approach
-http://avxhome.se/ebooks/sports/0415591252.html
+130.  Udemy – Practical Excel 2013 Pivot Tables and Pivot Charts
+http://avxhome.se/ebooks/eLearning/naag2878-1444754118.html
 
-131.  The Agile Organization: How to Build an Innovative, Sustainable and Resilient Business
-http://avxhome.se/ebooks/business_job/3526645.html
+131.  Udemy – Mastering Lookup Functions in MS Excel 2013 Training
+http://avxhome.se/ebooks/eLearning/naag2756-1444112220.html
 
-132.  Agile Readiness
-http://avxhome.se/ebooks/business_job/1472417437.html
+132.  Udemy – 70-461 Session 6: Querying Microsoft SQL Server 2012
+http://avxhome.se/ebooks/eLearning/naag2726-1445949708.html
 
-133.  Agile Project Management For Dummies
-http://avxhome.se/ebooks/1118026241.html
+133.  Udemy – The Complete Facebook Ads and Facebook Marketing Course 2015
+http://avxhome.se/ebooks/eLearning/naag2416-1444112225.html
 
-134.  The Project Manager's Guide to Mastering Agile: Principles and Practices for an Adaptive Approach
-http://avxhome.se/ebooks/1118991044.html
+134.  Udemy – Web Scraping with Python, Ruby & import. io for fun & profit
+http://avxhome.se/ebooks/eLearning/naag2309.html
 
-135.  Agile Foundations: Principles, Practices and Frameworks
-http://avxhome.se/ebooks/business_job/3360976.html
+135.  Udemy – Web Scraping with Python, Ruby & import. io for fun & profit
+http://avxhome.se/ebooks/eLearning/naag2278.html
 
-136.  Growing Agile: A Coach's Guide to Agile Requirements (Growing Agile: A Coach's Guide Series Book 3)
-http://avxhome.se/ebooks/programming_development/3281182.html
+136.  Udemy – Learn Android M Development, Build Phone and Wearable Apps
+http://avxhome.se/ebooks/programming_development/Udemy.Learn.Android.M.Development.Build.Phone.and.Wearable.Apps.html
 
-137.  A Tale of Two Transformations: Bringing Lean and Agile Software Development to Life (repost)
-http://avxhome.se/ebooks/programming_development/3078339.html
+137.  Udemy – Essential JavaScript, jQuery and AngularJS Training
+http://avxhome.se/ebooks/eLearning/naag2022.html
 
-138.  Agile Innovation: The Revolutionary Approach to Accelerate Success, Inspire Engagement, and Ignite Creativity
-http://avxhome.se/ebooks/business_job/1118954203.html
+138.  Udemy: Certified Business Analytics Foundation-SAS Tools & Excel (2015)
+http://avxhome.se/ebooks/certified-business-analytics-foundation-sas-tools-excel-1445949714.html
 
-139.  Agile Development with ICONIX Process: People, Process, and Pragmatism [Repost]
-http://avxhome.se/ebooks/programming_development/ISBN-1590594649.html
+139.  Udemy – Excel Hacking: Real Strategies for Excel Mastery + Templates
+http://avxhome.se/ebooks/eLearning/naag1993-1446593852.html
 
-140.  User-Centered Agile Method (repost)
-http://avxhome.se/ebooks/engeneering_technology/communication/1848214537agi.html
+140.  Udemy - Pay Nothing To Save Your Business In No Time
+http://avxhome.se/ebooks/naag1536.html
 
-141.  Agile Testing: A Practical Guide for Testers and Agile Teams (repost)
-http://avxhome.se/ebooks/programming_development/0321534468re.html
+141.  Udemy - Excel 2016 PowerPivot, PowerMap, PowerQuery, PowerView & BI
+http://avxhome.se/ebooks/eLearning/uy-excl_2016_ppv_pmp_pqr_pvw_bi.html
 
-142.  Agile Project Management (Updated Jan 29, 2014)
-http://avxhome.se/ebooks/eLearning/lc-agile_pm.html
+142.  Udemy – Master Hadoop Cluster Administration (2015) [repost]
+http://avxhome.se/ebooks/programming_development/UdemyMasterHadoopClusterAdministration2015repost.html
 
-143.  Agile Oracle Application Express [Repost]
-http://avxhome.se/ebooks/programming_development/2012-12-20-33-1430237597_201505010624.html
+143.  Udemy - Intermediate MS Excel - Logic Theory and If Functions
+http://avxhome.se/ebooks/eLearning/naag4168-1446593859.html
 
-144.  Essential Skills for the Agile Developer: A Guide to Better Programming and Design [Repost]
-http://avxhome.se/ebooks/programming_development/2012-12-14-80-0321543734_201505011505.html
+144.  Udemy - Top 10 Excel Skills For Successful Business Professionals
+http://avxhome.se/ebooks/eLearning/naag3983-1446944429.html
 
-145.  Agile Oracle Application Express (Repost)
-http://avxhome.se/ebooks/programming_development/1430237597Oracl.html
+145.  Udemy – Executive & Administrative Assistant Training
+http://avxhome.se/ebooks/business_job/Udemy_Executive_Administrative_Assistant_Training-1445949718.html
 
-146.  Enterprise-Scale Agile Software Development (repost)
-http://avxhome.se/ebooks/programming_development/1439803218r-1370806874.html
+146.  Udemy - TERADATA: Data Warehousing technology
+http://avxhome.se/ebooks/eLearning/naag3859.html
 
-147.  Essential Skills for the Agile Developer: A Guide to Better Programming and Design
-http://avxhome.se/ebooks/programming_development/0321543734_AgileDev.html
+147.  Udemy - Computer Science for Absolute Beginners with Java
+http://avxhome.se/ebooks/eLearning/naag3632.html
 
-148.  Agile Oracle Application Express
-http://avxhome.se/ebooks/programming_development/1430237597.html
+148.  Udemy – Javascript and jQuery Basics for Beginners
+http://avxhome.se/ebooks/eLearning/naag3526-1444112211.html
 
-149.  Agile MOV Video Converter v3.3.5 WinAll
-http://avxhome.se/software/Agile_MOV_Video_Converter_v3.3.5_WinAll.html
+149.  Udemy – Microsoft Access 2013: Beginner to Advanced
+http://avxhome.se/ebooks/eLearning/naag3446.html
 
-150.  Agile AVI Video Converter v2.1.6 WinAll
-http://avxhome.se/software/Agile_AVI_Video_Converter_v2.1.6_WinAll.html
+150.  Udemy – Excel for Data Analysis
+http://avxhome.se/ebooks/eLearning/naag3389.html
 
-151.  Agile PSP Video Converter 1.8.5 WinAll
-http://avxhome.se/software/Agile_PSP_Video_Converter_1.8.5_WinAll.html
+151.  Udemy – Excel 2013 Essentials for Beginners
+http://avxhome.se/ebooks/eLearning/naag3368.html
 
-152.  Agile Zune Video Converter v3.0.3 WinAll
-http://avxhome.se/software/Agile_Zune_Video_Converter_v3.0.3_WinAll.html
+152.  Udemy - Learn Apache Spark from Scratch
+http://avxhome.se/ebooks/eLearning/learn-apache-spark-from-scratch.html
 
-153.  Agile Coaching
-http://avxhome.se/ebooks/business_job/1934356433.html
+153.  Udemy – Access 2013 Tips & Tricks: Time Saving Questions Answered
+http://avxhome.se/ebooks/eLearning/naag2989.html
 
-154.  Having Fun With Agility (Repost) 
-http://avxhome.se/ebooks/personality/07645729895.html
+154.  Udemy – JavaScript AJAX PHP mySQL create a Dynamic web Form project
+http://avxhome.se/ebooks/eLearning/naag2889.html
 
-155.  Accelerating Process Improvement Using Agile Techniques 2005-12  { Repost }
-http://avxhome.se/ebooks/business_job/vij7548.html
+155.  Udemy – Microsoft Excel 2013 for the absolute beginner
+http://avxhome.se/ebooks/eLearning/naag2863.html
 
-156.  Agile iPhone Video Converter 2.7.3
-http://avxhome.se/software/software_type/multimedia/Converters/Agile_iPhone_Video_Converter_2_7_3.html
+156.  Udemy – Learning Firebase
+http://avxhome.se/ebooks/eLearning/naag2812.html
 
-157.  Agile AVI Video Splitter 1.9 
-http://avxhome.se/software/software_type/multimedia/Video_Editing/agile_avi_video_splitter_1_9.html
+157.  Udemy – Excel 2007 Simplified
+http://avxhome.se/ebooks/eLearning/naag2752.html
 
-158.  Beyond Requirements: Analysis with an Agile Mindset
-http://avxhome.se/ebooks/programming_development/3680749.html
+158.  Udemy – Excel for Analysts: Mastering Advanced Formulas & Functions
+http://avxhome.se/ebooks/eLearning/naag2561.html
 
-159.  The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques (Repost)
-http://avxhome.se/ebooks/business_job/11937785718.html
+159.  Udemy – Microsoft SQL Server Reporting Services (SSRS)
+http://avxhome.se/ebooks/eLearning/naag2478.html
 
-160.  User Stories for Agile Scrum+Product Owner+Business Analysis
-http://avxhome.se/ebooks/business_job/UserStoriesAgileScrum.html
+160.  Udemy – The Complete Java Developer Course
+http://avxhome.se/ebooks/programming_development/java/Udemy.The.Complete.Java.Developer.Course-1438732519.html
 
-161.  Agilent SystemVue 2015.01
-http://avxhome.se/software/Agilent_System_Vue_2015_01.html
+161.  Udemy – Beginner's Guide to Microsoft Excel
+http://avxhome.se/ebooks/eLearning/naag1959.html
 
-162.  Agile Processes in Software Engineering and Extreme Programming [Repost]
-http://avxhome.se/ebooks/business_job/2015-05-15-05_201508240058.html
+162.  Udemy - Databases Design Master Course
+http://avxhome.se/ebooks/programming_development/UdemyDatabasesDesignMasterCourse.html
 
-163.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement (Repost)
-http://avxhome.se/ebooks/programming_development/0321714105z.html
+163.  Udemy - Be Master of PHP with MySQL
+http://avxhome.se/ebooks/eLearning/naag1713.html
 
-164.  The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques (Repost)
-http://avxhome.se/ebooks/business_job/1937785718z.html
+164.  Udemy - Learn Microsoft Excel 2013 and Save $1000s
+http://avxhome.se/ebooks/naag1516.html
 
-165.  Agile Testing: How to Succeed in an Extreme Testing Environment (Repost)
-http://avxhome.se/ebooks/programming_development/0521726875z.html
+165.  Udemy - Java Database Connection: JDBC and MySQL
+http://avxhome.se/ebooks/naag1181.html
 
-166.  Agile ALM: Lightweight tools and Agile strategies by Michael Hüttermann [Repost]
-http://avxhome.se/ebooks/programming_development/java/2314018.html
+166.  Udemy - Learn Python Programming Language (2015)
+http://avxhome.se/ebooks/Udemy-Learn.Python.Programming.Lanaguage.html
 
-167.  Agile in a Flash: Speed-Learning Agile Software Development (repost)
-http://avxhome.se/ebooks/programming_development/1934356719re.html
+167.  Udemy - SQL - Advanced
+http://avxhome.se/ebooks/eLearning/uy-sql_advanced.html
 
-168.  Management 3.0: Leading Agile Developers, Developing Agile Leaders (repost)
-http://avxhome.se/ebooks/business_job/0321712471_re.html
+168.  Udemy - Learning Data Structures and Algorithms
+http://avxhome.se/ebooks/eLearning/naag4130-1446593859.html
 
-169.  Agile Anywhere: Essays on Agile Projects and Beyond
-http://avxhome.se/ebooks/programming_development/3319101560.html
+169.  Udemy - Easily build a complete Cloud backend for your Android apps
+http://avxhome.se/ebooks/eLearning/naag3943-1447410336.html
 
-170.  Having Fun With Agility (Howell Dog Book of Distinction) by Margaret H. Bonham [Repost]
-http://avxhome.se/ebooks/eLearning_book/hobbies_Leisure_time_guides/949794.html
+170.  Udemy - SAP HANA -SP09 Implementation, Modeling and Reporting Course
+http://avxhome.se/ebooks/eLearning/naag3682-1444754110.html
 
-171.  Agilent SystemVue 2013.08 SP1
-http://avxhome.se/software/Agilent_SystemVue_2013_08_SP1.html
+171.  Udemy – Microservices with Spring Cloud
+http://avxhome.se/ebooks/eLearning/naag3554.html
 
-172.  Agile Innovation: The Revolutionary Approach to Accelerate Success, Inspire Engagement, and Ignite Creativity
-http://avxhome.se/ebooks/Agile_Innovation_Revolutionary_Approach_Accelerate_Success.html
+172.  Udemy – Excellence in Excel! Create an advanced Excel Dashboard!
+http://avxhome.se/ebooks/eLearning/naag3546.html
 
-173.  ]Agile Processes in Software Engineering and Extreme Programming (repost)
-http://avxhome.se/ebooks/programming_development/3119402.html
+173.  Udemy – Solving Games in Java (Part I) - Practical Java Projects
+http://avxhome.se/ebooks/eLearning/naag3406.html
 
-174.  Agile Software Engineering [Repost]
-http://avxhome.se/ebooks/programming_development/2014-09-21-59_201504182128.html
+174.  Udemy – Microsoft Excel 2010 for Beginners Masterclass
+http://avxhome.se/ebooks/eLearning/naag3371.html
 
-175.  The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques 
-http://avxhome.se/ebooks/business_job/1937785718.html
+175.  Udemy – Surviving Digital Forensics: Link Files
+http://avxhome.se/ebooks/eLearning/naag3362.html
 
-176.  Agile Software Engineering [Repost]
-http://avxhome.se/ebooks/programming_development/2013-12-08-59.html
+176.  Udemy – SAP BI /SAP Business Objects Web Intelligence
+http://avxhome.se/ebooks/eLearning/naag3218.html
 
-177.  Lynda - Agile Project Management with Bob McGannon
-http://avxhome.se/ebooks/eLearning/Lynda_Agile_Project_Management_with_Bob_McGannon.html
+177.  Udemy – Learn Python Programming
+http://avxhome.se/ebooks/eLearning/naag3099.html
 
-178.  Succeeding with Agile: Software Development Using Scrum (Repost)
-http://avxhome.se/ebooks/programming_development/0321579364z.html
+178.  Udemy – Website and Web App Performance Optimization
+http://avxhome.se/ebooks/eLearning/naag3094.html
 
-179.  Agile Testing: How to Succeed in an Extreme Testing Environment (Repost)
-http://avxhome.se/ebooks/programming_development/0521726875.html
+179.  Udemy – AJAX Bootcamp learn Asynchronous JavaScript and XML 
+http://avxhome.se/ebooks/eLearning/naag2973.html
 
-180.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement (Repost)
-http://avxhome.se/ebooks/programming_development/0321714105Z.html
+180.  Udemy – SharePoint 2013: How to Quickly Create Quality Surveys
+http://avxhome.se/ebooks/eLearning/naag2908.html
 
-181.  Dog Tricks and Agility For Dummies (repost)
-http://avxhome.se/ebooks/animals/0470539593_Do.html
+181.  Udemy – Learn Python: Python for Beginners
+http://avxhome.se/ebooks/eLearning/naag2898.html
 
-182.  Agile and Iterative Development: A Manager's Guide (Repost)
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0131111558z.html
+182.  Udemy – MS Office: Accessing a Database from VBA
+http://avxhome.se/ebooks/eLearning/naag2695-1446593851.html
 
-183.  Integrating CMMI and Agile Development: Case Studies and Proven Techniques for Faster Performance Improvement [Repost]
-http://avxhome.se/ebooks/eLearning_book/information_technologies/2013-04-21-50_201504301310.html
+183.  Udemy – Beginning Excel 2016 Made Simple: Improve Your Income Now
+http://avxhome.se/ebooks/eLearning/naag2673.html
 
-184.  Agile Processes in Software Engineering and Extreme Programming: 13th International Conference, XP 2012
-http://avxhome.se/ebooks/eLearning_book/information_technologies/3642303498egeg.html
+184.  Udemy – DIY SEO for WordPress
+http://avxhome.se/ebooks/eLearning/naag2583.html
 
-185.  Dog Tricks and Agility For Dummies
-http://avxhome.se/ebooks/animals/0470539593DogTricks.html
+185.  Udemy – SAP Material Management Consultant Training Beginner to Adv
+http://avxhome.se/ebooks/eLearning/naag2514.html
 
-186.  Agilent Technologies EMPro 2011.07
-http://avxhome.se/software/Agilent_Technologies_EMPro_201107.html
+186.  Udemy – A Beginner's Guide to the Meteor JavaScript Framework
+http://avxhome.se/ebooks/programming_development/general/web_development/Udemy_A_Beginners_Guide_to_the_Meteor_JavaScript_Framework.html
 
-187.  Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing
-http://avxhome.se/ebooks/business_job/032150481X.html
+187.  Udemy – Using MODX CMS to Build Websites: A Beginner's Guide
+http://avxhome.se/ebooks/programming_development/general/web_development/Udemy_Using_MODX_CMS_to_Build_Websites_A_Beginners_Guide.html
 
-188.  Agile and Iterative Development: A Manager's Guide (Repost)
-http://avxhome.se/ebooks/programming_development/0131111558Z.html
+188.  Udemy – Create Android and iOS App using HTML, CSS and JS
+http://avxhome.se/ebooks/eLearning/naag2200-1444112217.html
 
-189.  Dog Tricks and Agility For Dummies
-http://avxhome.se/ebooks/animals/0470539593Dog.html
+189.  Udemy – Java Server Faces 2.2 (JSF) with Theory and Practice
+http://avxhome.se/ebooks/eLearning/naag2148.html
 
-190.  Agile Testing: How to Succeed in an Extreme Testing Environment
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0521191815.html
+190.  Udemy – Computer Network: Networking fundamentals for Students
+http://avxhome.se/ebooks/security_info/Udemy.Computer.Network.Networking.fundamentals.for.Students.html
 
-191.  Succeeding with Agile: Software Development Using Scrum
-http://avxhome.se/ebooks/eLearning_book/information_technologies/0321579364.html
+191.  Udemy – Oracle SQL 12c : Become an SQL Developer - (with Subtitle)
+http://avxhome.se/ebooks/eLearning/naag2127-1444409587.html
 
-192.  Agile WMV Video Converter 1.5.2 WinAll
-http://avxhome.se/software/Agile_WMV_Video_Converter_1.5.2_WinAll.html
+192.  Udemy – SharePoint 2013: Create Surveys in a Matter of Minutes
+http://avxhome.se/ebooks/eLearning/naag2119.html
 
-193.  Agile Software Development: Best Practices for Large Software Development Projects
-http://avxhome.se/ebooks/programming_development/3540708308_Agile.html
+193.  Udemy – Road Design using ESurveyCADD
+http://avxhome.se/ebooks/graphics_drawing_design/Udemy_Road_Design_using_ESurveyCADD.html
 
-194.  Portable Agile WMV Video Joiner 1.7.5 
-http://avxhome.se/software/portable_software/Agile-WMV-Video-Joiner.html
+194.  Udemy – SharePoint 2010: Create Surveys in Minutes
+http://avxhome.se/ebooks/eLearning/naag2107.html
 
-195.  Agile Apple TV Video Converter 2.3.2
-http://avxhome.se/software/software_type/multimedia/Converters/Agile_Apple_TV_Video_Converter_2_3_2.html
+195.  Udemy – Web Analytics - Learn Nuts & Bolts of Web Analytics
+http://avxhome.se/ebooks/eLearning/naag2046.html
 
-196.  Agile MOV Video Joiner 1.8.2
-http://avxhome.se/software/software_type/multimedia/Video_Editing/Agile_MOV_Video_Joiner_1_8_2.html
+196.  Udemy – Asp.Net MVC With Entity Framework From Scratch
+http://avxhome.se/ebooks/eLearning/naag1975.html
 
-197.  Agile Software Engineering
-http://avxhome.se/ebooks/programming_development/1848001983.html
+197.  Udemy - Learn to Make Android Apps - for Absolute Beginners
+http://avxhome.se/ebooks/eLearning/naag1865.html
 
-198.  Agile Processes in Software Engineering and Extreme Programming
-http://avxhome.se/ebooks/programming_development/Agile_Processes_in_Software.html
+198.  Udemy - Excel 2016 Course - Popular Excel Text Functions Explained
+http://avxhome.se/ebooks/eLearning/naag1824-1445949710.html
 
-199.  Agile Video Splitter 3.2
-http://avxhome.se/software/software_type/multimedia/Video_Editing/agile_video_splitter_3_2.html
+199.  Udemy - Python and Network Automation: Build 5 Python Apps (2015)
+http://avxhome.se/ebooks/programming_development/UdemyPythonandNetworkAutomationBuild5PythonApps2015.html
 
-200.  Agile Video Splitter 3.1
-http://avxhome.se/n/214220
+200.  Udemy - Import CSV File to MySQL
+http://avxhome.se/ebooks/naag1376.html
 
